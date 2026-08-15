@@ -1,0 +1,17 @@
+{
+  "id": "sclar-etal-2023-minding",
+  "citationKey": "sclar-etal-2023-minding",
+  "title": "Minding Language Models' (Lack of) Theory of Mind: A Plug-and-Play Multi-Character Belief Tracker",
+  "authors": "Sclar, Melanie and Kumar, Sachin and West, Peter and Suhr, Alane and Choi, Yejin and Tsvetkov, Yulia",
+  "year": 2023,
+  "venue": "ACL:2023:long",
+  "url": "https://aclanthology.org/2023.acl-long.780/",
+  "doi": "10.18653/v1/2023.acl-long.780",
+  "source": {
+    "survey": "2026.eacl-long.350",
+    "figure": "Figure 1"
+  },
+  "connections": [
+    "evaluation-collaborative-multi-agent-theory-of-mind"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "chen-etal-2024-dual",
+  "citationKey": "chen-etal-2024-dual",
+  "title": "DUAL-REFLECT: Enhancing Large Language Models for Reflective Translation through Dual Learning Feedback Mechanisms",
+  "authors": "Chen, Andong and Lou, Lianzhang and Chen, Kehai and Bai, Xuefeng and Xiang, Yang and Yang, Muyun and Zhao, Tiejun and Zhang, Min",
+  "year": 2024,
+  "venue": "ACL:2024:short",
+  "url": "https://aclanthology.org/2024.acl-short.64/",
+  "doi": "10.18653/v1/2024.acl-short.64",
+  "source": {
+    "survey": "2026.eacl-long.350",
+    "figure": "Figure 1"
+  },
+  "connections": [
+    "evaluation-task-enhancement-self-reflection"
+  ]
+}

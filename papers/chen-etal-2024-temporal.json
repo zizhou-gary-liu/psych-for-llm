@@ -1,0 +1,17 @@
+{
+  "id": "chen-etal-2024-temporal",
+  "citationKey": "chen-etal-2024-temporal",
+  "title": "Temporal Knowledge Question Answering via Abstract Reasoning Induction",
+  "authors": "Chen, Ziyang and Li, Dongfang and Zhao, Xiang and Hu, Baotian and Zhang, Min",
+  "year": 2024,
+  "venue": "ACL:2024:long",
+  "url": "https://aclanthology.org/2024.acl-long.267/",
+  "doi": "10.18653/v1/2024.acl-long.267",
+  "source": {
+    "survey": "2026.eacl-long.350",
+    "figure": "Figure 1"
+  },
+  "connections": [
+    "pretraining-observational-learning-cognitive-development"
+  ]
+}

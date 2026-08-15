@@ -1,0 +1,17 @@
+{
+  "id": "ma-etal-2023-towards-holistic",
+  "citationKey": "ma-etal-2023-towards-holistic",
+  "title": "Towards A Holistic Landscape of Situated Theory of Mind in Large Language Models",
+  "authors": "Ma, Ziqiao and Sansom, Jacob and Peng, Run and Chai, Joyce",
+  "year": 2023,
+  "venue": "FINDINGS:2023:emnlp",
+  "url": "https://aclanthology.org/2023.findings-emnlp.72/",
+  "doi": "10.18653/v1/2023.findings-emnlp.72",
+  "source": {
+    "survey": "2026.eacl-long.350",
+    "figure": "Figure 1"
+  },
+  "connections": [
+    "evaluation-capability-assessment-theory-of-mind"
+  ]
+}

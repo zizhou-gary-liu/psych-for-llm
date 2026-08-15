@@ -1,0 +1,17 @@
+{
+  "id": "kassner-etal-2023-language",
+  "citationKey": "kassner-etal-2023-language",
+  "title": "Language Models with Rationality",
+  "authors": "Kassner, Nora and Tafjord, Oyvind and Sabharwal, Ashish and Richardson, Kyle and Schuetze, Hinrich and Clark, Peter",
+  "year": 2023,
+  "venue": "EMNLP:2023:main",
+  "url": "https://aclanthology.org/2023.emnlp-main.877/",
+  "doi": "10.18653/v1/2023.emnlp-main.877",
+  "source": {
+    "survey": "2026.eacl-long.350",
+    "figure": "Figure 1"
+  },
+  "connections": [
+    "evaluation-task-enhancement-self-reflection"
+  ]
+}

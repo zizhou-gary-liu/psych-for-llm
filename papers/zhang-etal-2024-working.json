@@ -1,0 +1,17 @@
+{
+  "id": "zhang-etal-2024-working",
+  "citationKey": "zhang-etal-2024-working",
+  "title": "Working Memory Identifies Reasoning Limits in Language Models",
+  "authors": "Zhang, Chunhui and Jian, Yiren and Ouyang, Zhongyu and Vosoughi, Soroush",
+  "year": 2024,
+  "venue": "EMNLP:2024:main",
+  "url": "https://aclanthology.org/2024.emnlp-main.938/",
+  "doi": "10.18653/v1/2024.emnlp-main.938",
+  "source": {
+    "survey": "2026.eacl-long.350",
+    "figure": "Figure 1"
+  },
+  "connections": [
+    "evaluation-capability-assessment-memory"
+  ]
+}

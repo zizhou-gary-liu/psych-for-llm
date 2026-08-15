@@ -1,0 +1,17 @@
+{
+  "id": "zhang-etal-2024-holistic",
+  "citationKey": "zhang-etal-2024-holistic",
+  "title": "Holistic Automated Red Teaming for Large Language Models through Top-Down Test Case Generation and Multi-turn Interaction",
+  "authors": "Zhang, Jinchuan and Zhou, Yan and Liu, Yaxin and Li, Ziming and Hu, Songlin",
+  "year": 2024,
+  "venue": "EMNLP:2024:main",
+  "url": "https://aclanthology.org/2024.emnlp-main.760/",
+  "doi": "10.18653/v1/2024.emnlp-main.760",
+  "source": {
+    "survey": "2026.eacl-long.350",
+    "figure": "Figure 1"
+  },
+  "connections": [
+    "pretraining-knowledge-acquisition-top-down-perception"
+  ]
+}

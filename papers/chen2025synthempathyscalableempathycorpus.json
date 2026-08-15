@@ -1,0 +1,17 @@
+{
+  "id": "chen2025synthempathyscalableempathycorpus",
+  "citationKey": "chen2025synthempathyscalableempathycorpus",
+  "title": "SYNTHEMPATHY: A Scalable Empathy Corpus Generated Using LLMs Without Any Crowdsourcing",
+  "authors": "Run Chen and Jun Shin and Julia Hirschberg",
+  "year": 2025,
+  "venue": "",
+  "url": "https://arxiv.org/abs/2502.17857",
+  "doi": null,
+  "source": {
+    "survey": "2026.eacl-long.350",
+    "figure": "Figure 1"
+  },
+  "connections": [
+    "evaluation-task-enhancement-big-five-personality-traits"
+  ]
+}

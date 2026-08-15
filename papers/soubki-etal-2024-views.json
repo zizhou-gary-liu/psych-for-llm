@@ -1,0 +1,17 @@
+{
+  "id": "soubki-etal-2024-views",
+  "citationKey": "soubki-etal-2024-views",
+  "title": "Views Are My Own, but Also Yours: Benchmarking Theory of Mind Using Common Ground",
+  "authors": "Soubki, Adil and Murzaku, John and Yousefi Jordehi, Arash and Zeng, Peter and Markowska, Magdalena and Mirroshandel, Seyed Abolghasem and Rambow, Owen",
+  "year": 2024,
+  "venue": "FINDINGS:2024:acl",
+  "url": "https://aclanthology.org/2024.findings-acl.880/",
+  "doi": "10.18653/v1/2024.findings-acl.880",
+  "source": {
+    "survey": "2026.eacl-long.350",
+    "figure": "Figure 1"
+  },
+  "connections": [
+    "evaluation-capability-assessment-theory-of-mind"
+  ]
+}

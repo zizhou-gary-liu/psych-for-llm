@@ -1,0 +1,17 @@
+{
+  "id": "sharma-etal-2024-laying",
+  "citationKey": "sharma-etal-2024-laying",
+  "title": "Laying Anchors: Semantically Priming Numerals in Language Modeling",
+  "authors": "Sharma, Mandar and Taware, Rutuja and Koirala, Pravesh and Muralidhar, Nikhil and Ramakrishnan, Naren",
+  "year": 2024,
+  "venue": "FINDINGS:2024:naacl",
+  "url": "https://aclanthology.org/2024.findings-naacl.169/",
+  "doi": "10.18653/v1/2024.findings-naacl.169",
+  "source": {
+    "survey": "2026.eacl-long.350",
+    "figure": "Figure 1"
+  },
+  "connections": [
+    "preprocessing-data-collection-incremental-numerical-cognition"
+  ]
+}

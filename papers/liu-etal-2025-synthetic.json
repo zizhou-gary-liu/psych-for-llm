@@ -1,0 +1,17 @@
+{
+  "id": "liu-etal-2025-synthetic",
+  "citationKey": "liu-etal-2025-synthetic",
+  "title": "Synthetic Socratic Debates: Examining Persona Effects on Moral Decision and Persuasion Dynamics",
+  "authors": "Liu, Jiarui and Song, Yueqi and Xiao, Yunze and Zheng, Mingqian and Tjuatja, Lindia and Schaich Borg, Jana and Diab, Mona T. and Sap, Maarten",
+  "year": 2025,
+  "venue": "Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing",
+  "url": "https://aclanthology.org/2025.emnlp-main.831/",
+  "doi": "10.18653/v1/2025.emnlp-main.831",
+  "source": {
+    "survey": "2026.eacl-long.350",
+    "figure": "Figure 1"
+  },
+  "connections": [
+    "evaluation-collaborative-multi-agent-persuasion-models"
+  ]
+}

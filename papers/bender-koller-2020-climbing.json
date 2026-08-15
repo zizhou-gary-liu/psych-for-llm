@@ -1,0 +1,17 @@
+{
+  "id": "bender-koller-2020-climbing",
+  "citationKey": "bender-koller-2020-climbing",
+  "title": "Climbing towards NLU: On Meaning, Form, and Understanding in the Age of Data",
+  "authors": "Bender, Emily M. and Koller, Alexander",
+  "year": 2020,
+  "venue": "ACL:2020:main",
+  "url": "https://aclanthology.org/2020.acl-main.463/",
+  "doi": "10.18653/v1/2020.acl-main.463",
+  "source": {
+    "survey": "2026.eacl-long.350",
+    "figure": "Figure 1"
+  },
+  "connections": [
+    "evaluation-capability-assessment-conversational-implicature"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "zhang-etal-2024-self-contrast",
+  "citationKey": "zhang-etal-2024-self-contrast",
+  "title": "Self-Contrast: Better Reflection Through Inconsistent Solving Perspectives",
+  "authors": "Zhang, Wenqi and Shen, Yongliang and Wu, Linjuan and Peng, Qiuying and Wang, Jun and Zhuang, Yueting and Lu, Weiming",
+  "year": 2024,
+  "venue": "ACL:2024:long",
+  "url": "https://aclanthology.org/2024.acl-long.197/",
+  "doi": "10.18653/v1/2024.acl-long.197",
+  "source": {
+    "survey": "2026.eacl-long.350",
+    "figure": "Figure 1"
+  },
+  "connections": [
+    "evaluation-task-enhancement-self-reflection"
+  ]
+}

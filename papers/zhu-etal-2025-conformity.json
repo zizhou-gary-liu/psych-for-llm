@@ -1,0 +1,17 @@
+{
+  "id": "zhu-etal-2025-conformity",
+  "citationKey": "zhu-etal-2025-conformity",
+  "title": "Conformity in Large Language Models",
+  "authors": "Zhu, Xiaochen and Zhang, Caiqi and Stafford, Tom and Collier, Nigel and Vlachos, Andreas",
+  "year": 2025,
+  "venue": "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+  "url": "https://aclanthology.org/2025.acl-long.195/",
+  "doi": null,
+  "source": {
+    "survey": "2026.eacl-long.350",
+    "figure": "Figure 1"
+  },
+  "connections": [
+    "evaluation-capability-assessment-conformity-theories"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "furumai-etal-2024-zero",
+  "citationKey": "furumai-etal-2024-zero",
+  "title": "Zero-shot Persuasive Chatbots with LLM-Generated Strategies and Information Retrieval",
+  "authors": "Furumai, Kazuaki and Legaspi, Roberto and Romero, Julio Cesar Vizcarra and Yamazaki, Yudai and Nishimura, Yasutaka and Semnani, Sina and Ikeda, Kazushi and Shi, Weiyan and Lam, Monica",
+  "year": 2024,
+  "venue": "FINDINGS:2024:emnlp",
+  "url": "https://aclanthology.org/2024.findings-emnlp.656/",
+  "doi": "10.18653/v1/2024.findings-emnlp.656",
+  "source": {
+    "survey": "2026.eacl-long.350",
+    "figure": "Figure 1"
+  },
+  "connections": [
+    "evaluation-collaborative-multi-agent-persuasion-models"
+  ]
+}

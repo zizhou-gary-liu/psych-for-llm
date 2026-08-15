@@ -1,0 +1,18 @@
+{
+  "id": "dan-etal-2025-p",
+  "citationKey": "dan-etal-2025-p",
+  "title": "P-React: Synthesizing Topic-Adaptive Reactions of Personality Traits via Mixture of Specialized LoRA Experts",
+  "authors": "Dan, Yuhao and Zhou, Jie and Chen, Qin and Tian, Junfeng and He, Liang",
+  "year": 2025,
+  "venue": "Findings of the Association for Computational Linguistics: ACL 2025",
+  "url": "https://aclanthology.org/2025.findings-acl.328/",
+  "doi": null,
+  "source": {
+    "survey": "2026.eacl-long.350",
+    "figure": "Figure 1"
+  },
+  "connections": [
+    "evaluation-capability-assessment-big-five-personality-traits",
+    "evaluation-task-enhancement-big-five-personality-traits"
+  ]
+}

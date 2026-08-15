@@ -1,0 +1,17 @@
+{
+  "id": "pal-etal-2025-beyond",
+  "citationKey": "pal-etal-2025-beyond",
+  "title": "Beyond Discrete Personas: Personality Modeling Through Journal Intensive Conversations",
+  "authors": "Pal, Sayantan and Das, Souvik and Srihari, Rohini K.",
+  "year": 2025,
+  "venue": "COLING:2025:main",
+  "url": "https://aclanthology.org/2025.coling-main.470/",
+  "doi": null,
+  "source": {
+    "survey": "2026.eacl-long.350",
+    "figure": "Figure 1"
+  },
+  "connections": [
+    "evaluation-task-enhancement-big-five-personality-traits"
+  ]
+}

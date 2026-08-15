@@ -1,0 +1,17 @@
+{
+  "id": "wilf-etal-2024-think",
+  "citationKey": "wilf-etal-2024-think",
+  "title": "Think Twice: Perspective-Taking Improves Large Language Models' Theory-of-Mind Capabilities",
+  "authors": "Wilf, Alex and Lee, Sihyun and Liang, Paul Pu and Morency, Louis-Philippe",
+  "year": 2024,
+  "venue": "ACL:2024:long",
+  "url": "https://aclanthology.org/2024.acl-long.451/",
+  "doi": "10.18653/v1/2024.acl-long.451",
+  "source": {
+    "survey": "2026.eacl-long.350",
+    "figure": "Figure 1"
+  },
+  "connections": [
+    "evaluation-collaborative-multi-agent-theory-of-mind"
+  ]
+}

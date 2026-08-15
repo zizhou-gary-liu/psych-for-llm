@@ -1,0 +1,17 @@
+{
+  "id": "li-etal-2025-big5",
+  "citationKey": "li-etal-2025-big5",
+  "title": "BIG5-CHAT: Shaping LLM Personalities Through Training on Human-Grounded Data",
+  "authors": "Li, Wenkai and Liu, Jiarui and Liu, Andy and Zhou, Xuhui and Diab, Mona T. and Sap, Maarten",
+  "year": 2025,
+  "venue": "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+  "url": "https://aclanthology.org/2025.acl-long.999/",
+  "doi": null,
+  "source": {
+    "survey": "2026.eacl-long.350",
+    "figure": "Figure 1"
+  },
+  "connections": [
+    "evaluation-capability-assessment-big-five-personality-traits"
+  ]
+}

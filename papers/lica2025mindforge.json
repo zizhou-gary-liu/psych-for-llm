@@ -1,0 +1,17 @@
+{
+  "id": "lica2025mindforge",
+  "citationKey": "lica2025mindforge",
+  "title": "MindForge: Empowering Embodied Agents with Theory of Mind for Lifelong Cultural Learning",
+  "authors": "Mircea Tudor Lic and Ojas Shirekar and Baptiste Colle and Chirag Raman",
+  "year": 2025,
+  "venue": "The Thirty-ninth Annual Conference on Neural Information Processing Systems",
+  "url": "https://openreview.net/forum?id=u7jtLj46i9",
+  "doi": null,
+  "source": {
+    "survey": "2026.eacl-long.350",
+    "figure": "Figure 1"
+  },
+  "connections": [
+    "evaluation-collaborative-multi-agent-theory-of-mind"
+  ]
+}

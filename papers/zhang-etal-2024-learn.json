@@ -1,0 +1,17 @@
+{
+  "id": "zhang-etal-2024-learn",
+  "citationKey": "zhang-etal-2024-learn",
+  "title": "Learn Beyond The Answer: Training Language Models with Reflection for Mathematical Reasoning",
+  "authors": "Zhang, Zhihan and Ge, Tao and Liang, Zhenwen and Yu, Wenhao and Yu, Dian and Jia, Mengzhao and Yu, Dong and Jiang, Meng",
+  "year": 2024,
+  "venue": "EMNLP:2024:main",
+  "url": "https://aclanthology.org/2024.emnlp-main.817/",
+  "doi": "10.18653/v1/2024.emnlp-main.817",
+  "source": {
+    "survey": "2026.eacl-long.350",
+    "figure": "Figure 1"
+  },
+  "connections": [
+    "evaluation-task-enhancement-self-reflection"
+  ]
+}

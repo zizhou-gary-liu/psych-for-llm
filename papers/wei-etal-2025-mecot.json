@@ -1,0 +1,17 @@
+{
+  "id": "wei-etal-2025-mecot",
+  "citationKey": "wei-etal-2025-mecot",
+  "title": "MECoT: Markov Emotional Chain-of-Thought for Personality-Consistent Role-Playing",
+  "authors": "Wei, Yangbo and Huang, Zhen and Zhao, Fangzhou and Feng, Qi and Xing, Wei W.",
+  "year": 2025,
+  "venue": "Findings of the Association for Computational Linguistics: ACL 2025",
+  "url": "https://aclanthology.org/2025.findings-acl.435/",
+  "doi": null,
+  "source": {
+    "survey": "2026.eacl-long.350",
+    "figure": "Figure 1"
+  },
+  "connections": [
+    "evaluation-task-enhancement-dual-process"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "10-5555-3600270-3601883",
+  "citationKey": "10.5555/3600270.3601883",
+  "title": "Large language models are zero-shot reasoners",
+  "authors": "Kojima, Takeshi and Gu, Shixiang Shane and Reid, Machel and Matsuo, Yutaka and Iwasawa, Yusuke",
+  "year": 2022,
+  "venue": "Proceedings of the 36th International Conference on Neural Information Processing Systems",
+  "url": "https://doi.org/10.5555/3600270.3601883",
+  "doi": null,
+  "source": {
+    "survey": "2026.eacl-long.350",
+    "figure": "Figure 1"
+  },
+  "connections": [
+    "evaluation-task-enhancement-perception-and-attention"
+  ]
+}

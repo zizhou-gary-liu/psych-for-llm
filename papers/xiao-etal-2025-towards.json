@@ -1,0 +1,17 @@
+{
+  "id": "xiao-etal-2025-towards",
+  "citationKey": "xiao-etal-2025-towards",
+  "title": "Towards Dynamic Theory of Mind: Evaluating LLM Adaptation to Temporal Evolution of Human States",
+  "authors": "Xiao, Yang and Wang, Jiashuo and Xu, Qiancheng and Song, Changhe and Xu, Chunpu and Cheng, Yi and Li, Wenjie and Liu, Pengfei",
+  "year": 2025,
+  "venue": "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+  "url": "https://aclanthology.org/2025.acl-long.1171/",
+  "doi": "10.18653/v1/2025.acl-long.1171",
+  "source": {
+    "survey": "2026.eacl-long.350",
+    "figure": "Figure 1"
+  },
+  "connections": [
+    "evaluation-capability-assessment-theory-of-mind"
+  ]
+}

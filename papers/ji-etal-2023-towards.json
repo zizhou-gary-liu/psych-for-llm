@@ -1,0 +1,17 @@
+{
+  "id": "ji-etal-2023-towards",
+  "citationKey": "ji-etal-2023-towards",
+  "title": "Towards Mitigating LLM Hallucination via Self Reflection",
+  "authors": "Ji, Ziwei and Yu, Tiezheng and Xu, Yan and Lee, Nayeon and Ishii, Etsuko and Fung, Pascale",
+  "year": 2023,
+  "venue": "FINDINGS:2023:emnlp",
+  "url": "https://aclanthology.org/2023.findings-emnlp.123/",
+  "doi": "10.18653/v1/2023.findings-emnlp.123",
+  "source": {
+    "survey": "2026.eacl-long.350",
+    "figure": "Figure 1"
+  },
+  "connections": [
+    "evaluation-task-enhancement-self-reflection"
+  ]
+}

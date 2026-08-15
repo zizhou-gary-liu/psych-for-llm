@@ -1,0 +1,17 @@
+{
+  "id": "cheng-etal-2025-dualrag",
+  "citationKey": "cheng-etal-2025-dualrag",
+  "title": "DualRAG: A Dual-Process Approach to Integrate Reasoning and Retrieval for Multi-Hop Question Answering",
+  "authors": "Cheng, Rong and Liu, Jinyi and Zheng, Yan and Ni, Fei and Du, Jiazhen and Mao, Hangyu and Zhang, Fuzheng and Wang, Bo and Hao, Jianye",
+  "year": 2025,
+  "venue": "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+  "url": "https://aclanthology.org/2025.acl-long.1539/",
+  "doi": null,
+  "source": {
+    "survey": "2026.eacl-long.350",
+    "figure": "Figure 1"
+  },
+  "connections": [
+    "evaluation-task-enhancement-dual-process"
+  ]
+}

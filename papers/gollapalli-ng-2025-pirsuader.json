@@ -1,0 +1,17 @@
+{
+  "id": "gollapalli-ng-2025-pirsuader",
+  "citationKey": "gollapalli-ng-2025-pirsuader",
+  "title": "PIRsuader: A Persuasive Chatbot for Mitigating Psychological Insulin Resistance in Type-2 Diabetic Patients",
+  "authors": "Gollapalli, Sujatha Das and Ng, See-Kiong",
+  "year": 2025,
+  "venue": "COLING:2025:main",
+  "url": "https://aclanthology.org/2025.coling-main.401/",
+  "doi": null,
+  "source": {
+    "survey": "2026.eacl-long.350",
+    "figure": "Figure 1"
+  },
+  "connections": [
+    "evaluation-collaborative-multi-agent-persuasion-models"
+  ]
+}

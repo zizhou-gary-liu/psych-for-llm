@@ -1,0 +1,17 @@
+{
+  "id": "jin-etal-2024-agentreview",
+  "citationKey": "jin-etal-2024-agentreview",
+  "title": "AgentReview: Exploring Peer Review Dynamics with LLM Agents",
+  "authors": "Jin, Yiqiao and Zhao, Qinlin and Wang, Yiyang and Chen, Hao and Zhu, Kaijie and Xiao, Yijia and Wang, Jindong",
+  "year": 2024,
+  "venue": "EMNLP:2024:main",
+  "url": "https://aclanthology.org/2024.emnlp-main.70/",
+  "doi": "10.18653/v1/2024.emnlp-main.70",
+  "source": {
+    "survey": "2026.eacl-long.350",
+    "figure": "Figure 1"
+  },
+  "connections": [
+    "evaluation-capability-assessment-conformity-theories"
+  ]
+}

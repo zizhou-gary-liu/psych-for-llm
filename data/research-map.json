@@ -1,0 +1,423 @@
+[
+  {
+    "id": "preprocessing-data-collection-ecological-validity",
+    "figureOrder": 1,
+    "stage": "preprocessing",
+    "category": "Data collection",
+    "area": "developmental",
+    "theory": "Ecological validity",
+    "paperIds": [
+      "feng-etal-2024-child",
+      "jagadish2024injecting",
+      "nikolaus-etal-2022-learning"
+    ]
+  },
+  {
+    "id": "preprocessing-data-collection-incremental-numerical-cognition",
+    "figureOrder": 2,
+    "stage": "preprocessing",
+    "category": "Data collection",
+    "area": "developmental",
+    "theory": "Incremental numerical cognition",
+    "paperIds": [
+      "sharma-etal-2024-laying"
+    ]
+  },
+  {
+    "id": "preprocessing-data-preprocessing-selective-attention",
+    "figureOrder": 3,
+    "stage": "preprocessing",
+    "category": "Data preprocessing",
+    "area": "cognitive",
+    "theory": "Selective attention",
+    "paperIds": [
+      "nottingham-etal-2024-selective"
+    ]
+  },
+  {
+    "id": "preprocessing-data-preprocessing-predictive-coding",
+    "figureOrder": 4,
+    "stage": "preprocessing",
+    "category": "Data preprocessing",
+    "area": "cognitive",
+    "theory": "Predictive coding",
+    "paperIds": [
+      "araujo-etal-2021-augmenting"
+    ]
+  },
+  {
+    "id": "pretraining-observational-learning-cognitive-development",
+    "figureOrder": 5,
+    "stage": "pretraining",
+    "category": "Observational learning",
+    "area": "developmental",
+    "theory": "Cognitive development",
+    "paperIds": [
+      "buschoff2023acquisition",
+      "chen-etal-2024-temporal",
+      "ma-etal-2025-babysit"
+    ]
+  },
+  {
+    "id": "pretraining-observational-learning-scaffolding-theory",
+    "figureOrder": 6,
+    "stage": "pretraining",
+    "category": "Observational learning",
+    "area": "developmental",
+    "theory": "Scaffolding theory",
+    "paperIds": [
+      "borges-etal-2024-teach",
+      "sonkar-etal-2023-class"
+    ]
+  },
+  {
+    "id": "pretraining-knowledge-acquisition-top-down-perception",
+    "figureOrder": 7,
+    "stage": "pretraining",
+    "category": "Knowledge acquisition",
+    "area": "cognitive",
+    "theory": "Top-down perception",
+    "paperIds": [
+      "pang-etal-2023-long",
+      "rawte2022tdlr",
+      "zhang-etal-2024-holistic"
+    ]
+  },
+  {
+    "id": "posttraining-supervised-fine-tuning-memory",
+    "figureOrder": 8,
+    "stage": "posttraining",
+    "category": "Supervised fine-tuning",
+    "area": "cognitive",
+    "theory": "Memory",
+    "paperIds": [
+      "chaudhury-etal-2025-epman",
+      "kang2024think",
+      "li-etal-2023-large",
+      "zhang-etal-2025-growing",
+      "zhang-etal-2025-prime"
+    ]
+  },
+  {
+    "id": "posttraining-rlhf-operant-conditioning",
+    "figureOrder": 9,
+    "stage": "posttraining",
+    "category": "RLHF",
+    "area": "behavioral",
+    "theory": "Operant conditioning",
+    "paperIds": [
+      "sutton2018reinforcement"
+    ]
+  },
+  {
+    "id": "posttraining-rlhf-thorndikes-law-of-effect",
+    "figureOrder": 10,
+    "stage": "posttraining",
+    "category": "RLHF",
+    "area": "behavioral",
+    "theory": "Thorndike’s law of effect",
+    "paperIds": [
+      "lambert2023historyrisksreinforcementlearning"
+    ]
+  },
+  {
+    "id": "evaluation-capability-assessment-memory",
+    "figureOrder": 11,
+    "stage": "evaluation",
+    "category": "Capability assessment",
+    "area": "cognitive",
+    "theory": "Memory",
+    "paperIds": [
+      "fu-etal-2025-exclusion",
+      "li-etal-2023-large",
+      "zeng-etal-2024-memorize",
+      "zhang-etal-2024-working"
+    ]
+  },
+  {
+    "id": "evaluation-capability-assessment-cognitive-maturity",
+    "figureOrder": 12,
+    "stage": "evaluation",
+    "category": "Capability assessment",
+    "area": "cognitive",
+    "theory": "Cognitive maturity",
+    "paperIds": [
+      "laverghetta-jr-licato-2022-developmental",
+      "wang-etal-2025-coglm"
+    ]
+  },
+  {
+    "id": "evaluation-capability-assessment-theory-of-mind",
+    "figureOrder": 13,
+    "stage": "evaluation",
+    "category": "Capability assessment",
+    "area": "social",
+    "theory": "Theory of Mind",
+    "paperIds": [
+      "chen-etal-2024-tombench",
+      "jung-etal-2024-perceptions",
+      "kim-etal-2023-fantom",
+      "liu-etal-2025-tactfultom",
+      "ma-etal-2023-towards-holistic",
+      "sap-etal-2022-neural",
+      "soubki-etal-2024-views",
+      "wu-etal-2023-hi",
+      "xiao-etal-2025-towards",
+      "xu-etal-2024-opentom",
+      "yeo-jaidka-2025-beyond"
+    ]
+  },
+  {
+    "id": "evaluation-capability-assessment-conformity-theories",
+    "figureOrder": 14,
+    "stage": "evaluation",
+    "category": "Capability assessment",
+    "area": "social",
+    "theory": "Conformity theories",
+    "paperIds": [
+      "choi-etal-2025-empirical",
+      "jin-etal-2024-agentreview",
+      "wu-etal-2025-exploring-choice",
+      "zhang-etal-2024-exploring",
+      "zhu-etal-2025-conformity"
+    ]
+  },
+  {
+    "id": "evaluation-capability-assessment-social-identity-theory",
+    "figureOrder": 15,
+    "stage": "evaluation",
+    "category": "Capability assessment",
+    "area": "social",
+    "theory": "Social identity theory",
+    "paperIds": [
+      "borah-etal-2025-mind",
+      "dong2024persona",
+      "hu2025generative",
+      "wang-etal-2025-evaluating-cognitive"
+    ]
+  },
+  {
+    "id": "evaluation-capability-assessment-big-five-personality-traits",
+    "figureOrder": 16,
+    "stage": "evaluation",
+    "category": "Capability assessment",
+    "area": "personality",
+    "theory": "Big Five personality traits",
+    "paperIds": [
+      "dan-etal-2025-p",
+      "frisch-giulianelli-2024-llm",
+      "li-etal-2025-big5",
+      "lee-etal-2025-llms"
+    ]
+  },
+  {
+    "id": "evaluation-capability-assessment-epqr-a",
+    "figureOrder": 17,
+    "stage": "evaluation",
+    "category": "Capability assessment",
+    "area": "personality",
+    "theory": "EPQR-A",
+    "paperIds": [
+      "amidei-etal-2025-exploring"
+    ]
+  },
+  {
+    "id": "evaluation-capability-assessment-poverty-of-the-stimulus",
+    "figureOrder": 18,
+    "stage": "evaluation",
+    "category": "Capability assessment",
+    "area": "psycholinguistics",
+    "theory": "Poverty of the stimulus",
+    "paperIds": [
+      "liu2024zhoblimpsystematicassessmentlanguage"
+    ]
+  },
+  {
+    "id": "evaluation-capability-assessment-conversational-implicature",
+    "figureOrder": 19,
+    "stage": "evaluation",
+    "category": "Capability assessment",
+    "area": "psycholinguistics",
+    "theory": "Conversational implicature",
+    "paperIds": [
+      "bender-koller-2020-climbing",
+      "gubelmann-2024-pragmatic",
+      "kibria-etal-2024-functional",
+      "zeng-etal-2025-converging"
+    ]
+  },
+  {
+    "id": "evaluation-task-enhancement-perception-and-attention",
+    "figureOrder": 20,
+    "stage": "evaluation",
+    "category": "Task enhancement",
+    "area": "cognitive",
+    "theory": "Perception and attention",
+    "paperIds": [
+      "10-5555-3600270-3601883",
+      "li2025cam",
+      "maharaj-etal-2023-eyes",
+      "yu-etal-2022-relation"
+    ]
+  },
+  {
+    "id": "evaluation-task-enhancement-memory",
+    "figureOrder": 21,
+    "stage": "evaluation",
+    "category": "Task enhancement",
+    "area": "cognitive",
+    "theory": "Memory",
+    "paperIds": [
+      "chen-etal-2025-improving",
+      "chi-etal-2023-transformer",
+      "diao-etal-2025-temporal",
+      "fang2025hippocampallike",
+      "park2024memoria",
+      "wang-etal-2024-symbolic",
+      "zhu-etal-2024-beyond"
+    ]
+  },
+  {
+    "id": "evaluation-task-enhancement-dual-process",
+    "figureOrder": 22,
+    "stage": "evaluation",
+    "category": "Task enhancement",
+    "area": "social",
+    "theory": "Dual-process",
+    "paperIds": [
+      "cheng-etal-2025-dualrag",
+      "cheng-etal-2025-think",
+      "cheng2025incentivizing",
+      "hu-etal-2025-stitchllm",
+      "pan-etal-2024-dynathink",
+      "wei-etal-2025-mecot",
+      "wei2022chain",
+      "yang-etal-2025-llm2",
+      "yao2024tree",
+      "zhang-etal-2025-leveraging"
+    ]
+  },
+  {
+    "id": "evaluation-task-enhancement-self-reflection",
+    "figureOrder": 23,
+    "stage": "evaluation",
+    "category": "Task enhancement",
+    "area": "social",
+    "theory": "Self-reflection",
+    "paperIds": [
+      "asai2024selfrag",
+      "chen-etal-2024-dual",
+      "dou-etal-2024-rest",
+      "ji-an2025language",
+      "ji-etal-2023-towards",
+      "kassner-etal-2023-language",
+      "li-etal-2024-hindsight",
+      "li-etal-2025-adaptive",
+      "lu2025auditing",
+      "wang-etal-2024-taste",
+      "wu-etal-2025-seeval",
+      "xu-etal-2024-sayself",
+      "yan-etal-2024-mirror",
+      "zhang-etal-2024-learn",
+      "zhang-etal-2024-self-contrast",
+      "zhou2024metacognitive"
+    ]
+  },
+  {
+    "id": "evaluation-task-enhancement-theory-of-mind",
+    "figureOrder": 24,
+    "stage": "evaluation",
+    "category": "Task enhancement",
+    "area": "social",
+    "theory": "Theory of Mind",
+    "paperIds": [
+      "bortoletto-etal-2024-limits",
+      "qiu-etal-2024-minddial",
+      "wu-etal-2024-coke"
+    ]
+  },
+  {
+    "id": "evaluation-task-enhancement-mbti",
+    "figureOrder": 25,
+    "stage": "evaluation",
+    "category": "Task enhancement",
+    "area": "personality",
+    "theory": "MBTI",
+    "paperIds": [
+      "rao-etal-2023-chatgpt",
+      "yang-etal-2023-psycot",
+      "yang-etal-2024-psychogat"
+    ]
+  },
+  {
+    "id": "evaluation-task-enhancement-big-five-personality-traits",
+    "figureOrder": 26,
+    "stage": "evaluation",
+    "category": "Task enhancement",
+    "area": "personality",
+    "theory": "Big Five personality traits",
+    "paperIds": [
+      "chen2025synthempathyscalableempathycorpus",
+      "dan-etal-2025-p",
+      "huang-hadfi-2024-personality",
+      "jiang-etal-2024-personallm",
+      "joshi-etal-2025-improving",
+      "lee-etal-2025-llms",
+      "pal-etal-2025-beyond",
+      "yeo-etal-2025-pado"
+    ]
+  },
+  {
+    "id": "evaluation-collaborative-multi-agent-persuasion-models",
+    "figureOrder": 27,
+    "stage": "evaluation",
+    "category": "Collaborative multi-agent",
+    "area": "social",
+    "theory": "Persuasion models",
+    "paperIds": [
+      "aghazadeh-kovashka-2025-face",
+      "furumai-etal-2024-zero",
+      "gollapalli-ng-2025-pirsuader",
+      "hu-etal-2025-debate",
+      "huang-hadfi-2024-personality",
+      "hwang-etal-2025-trick",
+      "jin-etal-2024-persuading",
+      "10-5555-3692070-3693020",
+      "liu-etal-2025-synthetic",
+      "ma-etal-2025-enhancing",
+      "modzelewski-etal-2025-pcot",
+      "qin-etal-2024-beyond",
+      "rescala-etal-2024-language",
+      "tan-etal-2025-persuasion",
+      "zeng-etal-2024-johnny"
+    ]
+  },
+  {
+    "id": "evaluation-collaborative-multi-agent-theory-of-mind",
+    "figureOrder": 28,
+    "stage": "evaluation",
+    "category": "Collaborative multi-agent",
+    "area": "social",
+    "theory": "Theory of Mind",
+    "paperIds": [
+      "jung-etal-2024-perceptions",
+      "lica2025mindforge",
+      "sarangi-etal-2025-decompose",
+      "sclar-etal-2023-minding",
+      "sclar2022symmetric",
+      "wang2021tomc",
+      "wilf-etal-2024-think"
+    ]
+  },
+  {
+    "id": "evaluation-collaborative-multi-agent-big-five-personality-traits",
+    "figureOrder": 29,
+    "stage": "evaluation",
+    "category": "Collaborative multi-agent",
+    "area": "personality",
+    "theory": "Big Five personality traits",
+    "paperIds": [
+      "han-etal-2024-psydial"
+    ]
+  }
+]

@@ -1,0 +1,17 @@
+{
+  "id": "qin-etal-2024-beyond",
+  "citationKey": "qin-etal-2024-beyond",
+  "title": "Beyond Persuasion: Towards Conversational Recommender System with Credible Explanations",
+  "authors": "Qin, Peixin and Huang, Chen and Deng, Yang and Lei, Wenqiang and Chua, Tat-Seng",
+  "year": 2024,
+  "venue": "FINDINGS:2024:emnlp",
+  "url": "https://aclanthology.org/2024.findings-emnlp.247/",
+  "doi": "10.18653/v1/2024.findings-emnlp.247",
+  "source": {
+    "survey": "2026.eacl-long.350",
+    "figure": "Figure 1"
+  },
+  "connections": [
+    "evaluation-collaborative-multi-agent-persuasion-models"
+  ]
+}

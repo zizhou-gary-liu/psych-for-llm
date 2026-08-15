@@ -1,0 +1,17 @@
+{
+  "id": "yu-etal-2022-relation",
+  "citationKey": "yu-etal-2022-relation",
+  "title": "Relation-Specific Attentions over Entity Mentions for Enhanced Document-Level Relation Extraction",
+  "authors": "Yu, Jiaxin and Yang, Deqing and Tian, Shuyu",
+  "year": 2022,
+  "venue": "NAACL:2022:main",
+  "url": "https://aclanthology.org/2022.naacl-main.109/",
+  "doi": "10.18653/v1/2022.naacl-main.109",
+  "source": {
+    "survey": "2026.eacl-long.350",
+    "figure": "Figure 1"
+  },
+  "connections": [
+    "evaluation-task-enhancement-perception-and-attention"
+  ]
+}

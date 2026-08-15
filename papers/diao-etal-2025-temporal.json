@@ -1,0 +1,17 @@
+{
+  "id": "diao-etal-2025-temporal",
+  "citationKey": "diao-etal-2025-temporal",
+  "title": "Temporal Working Memory: Query-Guided Segment Refinement for Enhanced Multimodal Understanding",
+  "authors": "Diao, Xingjian and Zhang, Chunhui and Wu, Weiyi and Ouyang, Zhongyu and Qing, Peijun and Cheng, Ming and Vosoughi, Soroush and Gui, Jiang",
+  "year": 2025,
+  "venue": "Findings of the Association for Computational Linguistics: NAACL 2025",
+  "url": "https://aclanthology.org/2025.findings-naacl.189/",
+  "doi": "10.18653/v1/2025.findings-naacl.189",
+  "source": {
+    "survey": "2026.eacl-long.350",
+    "figure": "Figure 1"
+  },
+  "connections": [
+    "evaluation-task-enhancement-memory"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "frisch-giulianelli-2024-llm",
+  "citationKey": "frisch-giulianelli-2024-llm",
+  "title": "LLM Agents in Interaction: Measuring Personality Consistency and Linguistic Alignment in Interacting Populations of Large Language Models",
+  "authors": "Frisch, Ivar and Giulianelli, Mario",
+  "year": 2024,
+  "venue": "PERSONALIZE:2024:1",
+  "url": "https://aclanthology.org/2024.personalize-1.9/",
+  "doi": null,
+  "source": {
+    "survey": "2026.eacl-long.350",
+    "figure": "Figure 1"
+  },
+  "connections": [
+    "evaluation-capability-assessment-big-five-personality-traits"
+  ]
+}

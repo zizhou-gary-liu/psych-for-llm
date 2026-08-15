@@ -1,0 +1,17 @@
+{
+  "id": "bortoletto-etal-2024-limits",
+  "citationKey": "bortoletto-etal-2024-limits",
+  "title": "Limits of Theory of Mind Modelling in Dialogue-Based Collaborative Plan Acquisition",
+  "authors": "Bortoletto, Matteo and Ruhdorfer, Constantin and Abdessaied, Adnen and Shi, Lei and Bulling, Andreas",
+  "year": 2024,
+  "venue": "ACL:2024:long",
+  "url": "https://aclanthology.org/2024.acl-long.266/",
+  "doi": "10.18653/v1/2024.acl-long.266",
+  "source": {
+    "survey": "2026.eacl-long.350",
+    "figure": "Figure 1"
+  },
+  "connections": [
+    "evaluation-task-enhancement-theory-of-mind"
+  ]
+}

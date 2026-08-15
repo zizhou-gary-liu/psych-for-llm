@@ -1,0 +1,17 @@
+{
+  "id": "liu2024zhoblimpsystematicassessmentlanguage",
+  "citationKey": "liu2024zhoblimpsystematicassessmentlanguage",
+  "title": "ZhoBLiMP: a Systematic Assessment of Language Models with Linguistic Minimal Pairs in Chinese",
+  "authors": "Yikang Liu and Yeting Shen and Hongao Zhu and Lilong Xu and Zhiheng Qian and Siyuan Song and Kejia Zhang and Jialong Tang and Pei Zhang and Baosong Yang and Rui Wang and Hai Hu",
+  "year": 2024,
+  "venue": "",
+  "url": "https://arxiv.org/abs/2411.06096",
+  "doi": null,
+  "source": {
+    "survey": "2026.eacl-long.350",
+    "figure": "Figure 1"
+  },
+  "connections": [
+    "evaluation-capability-assessment-poverty-of-the-stimulus"
+  ]
+}

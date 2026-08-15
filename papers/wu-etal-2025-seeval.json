@@ -1,0 +1,17 @@
+{
+  "id": "wu-etal-2025-seeval",
+  "citationKey": "wu-etal-2025-seeval",
+  "title": "SEEval: Advancing LLM Text Evaluation Efficiency and Accuracy through Self-Explanation Prompting",
+  "authors": "Wu, Meng-Chen and Hossain, Md Mosharaf and Wood, Tess and Akbar, Shayan Ali and Chin, Si-Chi and Cornejo, Erwin",
+  "year": 2025,
+  "venue": "Findings of the Association for Computational Linguistics: NAACL 2025",
+  "url": "https://aclanthology.org/2025.findings-naacl.411/",
+  "doi": "10.18653/v1/2025.findings-naacl.411",
+  "source": {
+    "survey": "2026.eacl-long.350",
+    "figure": "Figure 1"
+  },
+  "connections": [
+    "evaluation-task-enhancement-self-reflection"
+  ]
+}

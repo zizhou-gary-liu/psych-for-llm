@@ -1,0 +1,17 @@
+{
+  "id": "lu2025auditing",
+  "citationKey": "lu2025auditing",
+  "title": "Auditing Meta-Cognitive Hallucinations in Reasoning Large Language Models",
+  "authors": "Haolang Lu and Yilian Liu and Jingxin Xu and Guoshun Nan and Yuanlong Yu and Zhican Chen and Kun Wang",
+  "year": 2025,
+  "venue": "The Thirty-ninth Annual Conference on Neural Information Processing Systems",
+  "url": "https://openreview.net/forum?id=rPsUx09RJV",
+  "doi": null,
+  "source": {
+    "survey": "2026.eacl-long.350",
+    "figure": "Figure 1"
+  },
+  "connections": [
+    "evaluation-task-enhancement-self-reflection"
+  ]
+}

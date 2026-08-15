@@ -1,0 +1,17 @@
+{
+  "id": "jin-etal-2024-persuading",
+  "citationKey": "jin-etal-2024-persuading",
+  "title": "Persuading across Diverse Domains: a Dataset and Persuasion Large Language Model",
+  "authors": "Jin, Chuhao and Ren, Kening and Kong, Lingzhen and Wang, Xiting and Song, Ruihua and Chen, Huan",
+  "year": 2024,
+  "venue": "ACL:2024:long",
+  "url": "https://aclanthology.org/2024.acl-long.92/",
+  "doi": "10.18653/v1/2024.acl-long.92",
+  "source": {
+    "survey": "2026.eacl-long.350",
+    "figure": "Figure 1"
+  },
+  "connections": [
+    "evaluation-collaborative-multi-agent-persuasion-models"
+  ]
+}

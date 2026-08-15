@@ -1,0 +1,17 @@
+{
+  "id": "tan-etal-2025-persuasion",
+  "citationKey": "tan-etal-2025-persuasion",
+  "title": "Persuasion Dynamics in LLMs: Investigating Robustness and Adaptability in Knowledge and Safety with DuET-PD",
+  "authors": "Tan, Bryan Chen Zhengyu and Chin, Daniel Wai Kit and Liu, Zhengyuan and Chen, Nancy F. and Lee, Roy Ka-Wei",
+  "year": 2025,
+  "venue": "Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing",
+  "url": "https://aclanthology.org/2025.emnlp-main.81/",
+  "doi": "10.18653/v1/2025.emnlp-main.81",
+  "source": {
+    "survey": "2026.eacl-long.350",
+    "figure": "Figure 1"
+  },
+  "connections": [
+    "evaluation-collaborative-multi-agent-persuasion-models"
+  ]
+}

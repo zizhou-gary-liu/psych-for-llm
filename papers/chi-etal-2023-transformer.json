@@ -1,0 +1,17 @@
+{
+  "id": "chi-etal-2023-transformer",
+  "citationKey": "chi-etal-2023-transformer",
+  "title": "Transformer Working Memory Enables Regular Language Reasoning And Natural Language Length Extrapolation",
+  "authors": "Chi, Ta-Chung and Fan, Ting-Han and Rudnicky, Alexander and Ramadge, Peter",
+  "year": 2023,
+  "venue": "FINDINGS:2023:emnlp",
+  "url": "https://aclanthology.org/2023.findings-emnlp.397/",
+  "doi": "10.18653/v1/2023.findings-emnlp.397",
+  "source": {
+    "survey": "2026.eacl-long.350",
+    "figure": "Figure 1"
+  },
+  "connections": [
+    "evaluation-task-enhancement-memory"
+  ]
+}

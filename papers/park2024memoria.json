@@ -1,0 +1,17 @@
+{
+  "id": "park2024memoria",
+  "citationKey": "park2024memoria",
+  "title": "Memoria: resolving fateful forgetting problem through human-inspired memory architecture",
+  "authors": "Park, Sangjun and Bak, JinYeong",
+  "year": 2024,
+  "venue": "Proceedings of the 41st International Conference on Machine Learning",
+  "url": "https://scholar.google.com/scholar?q=Memoria%3A%20resolving%20fateful%20forgetting%20problem%20through%20human-inspired%20memory%20architecture",
+  "doi": null,
+  "source": {
+    "survey": "2026.eacl-long.350",
+    "figure": "Figure 1"
+  },
+  "connections": [
+    "evaluation-task-enhancement-memory"
+  ]
+}

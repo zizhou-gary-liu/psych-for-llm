@@ -1,0 +1,17 @@
+{
+  "id": "first-author-year-short-title",
+  "citationKey": "first-author-year-short-title",
+  "title": "Full paper title",
+  "authors": "Author One and Author Two",
+  "year": 2026,
+  "venue": "Venue or preprint server",
+  "url": "https://doi.org/...",
+  "doi": null,
+  "source": {
+    "survey": "community-update",
+    "figure": null
+  },
+  "connections": [
+    "evaluation-capability-assessment-theory-of-mind"
+  ]
+}

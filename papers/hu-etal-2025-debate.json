@@ -1,0 +1,17 @@
+{
+  "id": "hu-etal-2025-debate",
+  "citationKey": "hu-etal-2025-debate",
+  "title": "Debate-to-Write: A Persona-Driven Multi-Agent Framework for Diverse Argument Generation",
+  "authors": "Hu, Zhe and Chan, Hou Pong and Li, Jing and Yin, Yu",
+  "year": 2025,
+  "venue": "COLING:2025:main",
+  "url": "https://aclanthology.org/2025.coling-main.314/",
+  "doi": null,
+  "source": {
+    "survey": "2026.eacl-long.350",
+    "figure": "Figure 1"
+  },
+  "connections": [
+    "evaluation-collaborative-multi-agent-persuasion-models"
+  ]
+}

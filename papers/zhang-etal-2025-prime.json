@@ -1,0 +1,17 @@
+{
+  "id": "zhang-etal-2025-prime",
+  "citationKey": "zhang-etal-2025-prime",
+  "title": "PRIME: Large Language Model Personalization with Cognitive Dual-Memory and Personalized Thought Process",
+  "authors": "Zhang, Xinliang Frederick and Beauchamp, Nicholas and Wang, Lu",
+  "year": 2025,
+  "venue": "Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing",
+  "url": "https://aclanthology.org/2025.emnlp-main.1711/",
+  "doi": "10.18653/v1/2025.emnlp-main.1711",
+  "source": {
+    "survey": "2026.eacl-long.350",
+    "figure": "Figure 1"
+  },
+  "connections": [
+    "posttraining-supervised-fine-tuning-memory"
+  ]
+}

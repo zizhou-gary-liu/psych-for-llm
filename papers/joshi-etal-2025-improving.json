@@ -1,0 +1,17 @@
+{
+  "id": "joshi-etal-2025-improving",
+  "citationKey": "joshi-etal-2025-improving",
+  "title": "Improving Language Model Personas via Rationalization with Psychological Scaffolds",
+  "authors": "Joshi, Brihi and Ren, Xiang and Swayamdipta, Swabha and Koncel-Kedziorski, Rik and Paek, Tim",
+  "year": 2025,
+  "venue": "Findings of the Association for Computational Linguistics: EMNLP 2025",
+  "url": "https://aclanthology.org/2025.findings-emnlp.1187/",
+  "doi": "10.18653/v1/2025.findings-emnlp.1187",
+  "source": {
+    "survey": "2026.eacl-long.350",
+    "figure": "Figure 1"
+  },
+  "connections": [
+    "evaluation-task-enhancement-big-five-personality-traits"
+  ]
+}

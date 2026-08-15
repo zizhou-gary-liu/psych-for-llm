@@ -1,0 +1,17 @@
+{
+  "id": "laverghetta-jr-licato-2022-developmental",
+  "citationKey": "laverghetta-jr-licato-2022-developmental",
+  "title": "Developmental Negation Processing in Transformer Language Models",
+  "authors": "Laverghetta Jr., Antonio and Licato, John",
+  "year": 2022,
+  "venue": "ACL:2022:short",
+  "url": "https://aclanthology.org/2022.acl-short.60/",
+  "doi": "10.18653/v1/2022.acl-short.60",
+  "source": {
+    "survey": "2026.eacl-long.350",
+    "figure": "Figure 1"
+  },
+  "connections": [
+    "evaluation-capability-assessment-cognitive-maturity"
+  ]
+}

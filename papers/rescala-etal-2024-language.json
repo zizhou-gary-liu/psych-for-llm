@@ -1,0 +1,17 @@
+{
+  "id": "rescala-etal-2024-language",
+  "citationKey": "rescala-etal-2024-language",
+  "title": "Can Language Models Recognize Convincing Arguments?",
+  "authors": "Rescala, Paula and Ribeiro, Manoel Horta and Hu, Tiancheng and West, Robert",
+  "year": 2024,
+  "venue": "FINDINGS:2024:emnlp",
+  "url": "https://aclanthology.org/2024.findings-emnlp.515/",
+  "doi": "10.18653/v1/2024.findings-emnlp.515",
+  "source": {
+    "survey": "2026.eacl-long.350",
+    "figure": "Figure 1"
+  },
+  "connections": [
+    "evaluation-collaborative-multi-agent-persuasion-models"
+  ]
+}

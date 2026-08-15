@@ -1,0 +1,17 @@
+{
+  "id": "cheng-etal-2025-think",
+  "citationKey": "cheng-etal-2025-think",
+  "title": "Think More, Hallucinate Less: Mitigating Hallucinations via Dual Process of Fast and Slow Thinking",
+  "authors": "Cheng, Xiaoxue and Li, Junyi and Zhao, Xin and Wen, Ji-Rong",
+  "year": 2025,
+  "venue": "Findings of the Association for Computational Linguistics: ACL 2025",
+  "url": "https://aclanthology.org/2025.findings-acl.417/",
+  "doi": null,
+  "source": {
+    "survey": "2026.eacl-long.350",
+    "figure": "Figure 1"
+  },
+  "connections": [
+    "evaluation-task-enhancement-dual-process"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "wang-etal-2025-coglm",
+  "citationKey": "wang-etal-2025-coglm",
+  "title": "CogLM: Tracking Cognitive Development of Large Language Models",
+  "authors": "Wang, Xinglin and Yuan, Peiwen and Feng, Shaoxiong and Li, Yiwei and Pan, Boyuan and Wang, Heda and Hu, Yao and Li, Kan",
+  "year": 2025,
+  "venue": "Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers)",
+  "url": "https://aclanthology.org/2025.naacl-long.4/",
+  "doi": "10.18653/v1/2025.naacl-long.4",
+  "source": {
+    "survey": "2026.eacl-long.350",
+    "figure": "Figure 1"
+  },
+  "connections": [
+    "evaluation-capability-assessment-cognitive-maturity"
+  ]
+}

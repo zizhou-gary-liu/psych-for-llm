@@ -1,0 +1,17 @@
+{
+  "id": "lambert2023historyrisksreinforcementlearning",
+  "citationKey": "lambert2023historyrisksreinforcementlearning",
+  "title": "The History and Risks of Reinforcement Learning and Human Feedback",
+  "authors": "Nathan Lambert and Thomas Krendl Gilbert and Tom Zick",
+  "year": 2023,
+  "venue": "",
+  "url": "https://arxiv.org/abs/2310.13595",
+  "doi": null,
+  "source": {
+    "survey": "2026.eacl-long.350",
+    "figure": "Figure 1"
+  },
+  "connections": [
+    "posttraining-rlhf-thorndikes-law-of-effect"
+  ]
+}

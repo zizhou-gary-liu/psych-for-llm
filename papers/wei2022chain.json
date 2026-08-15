@@ -1,0 +1,17 @@
+{
+  "id": "wei2022chain",
+  "citationKey": "wei2022chain",
+  "title": "Chain-of-thought prompting elicits reasoning in large language models",
+  "authors": "Wei, Jason and Wang, Xuezhi and Schuurmans, Dale and Bosma, Maarten and Xia, Fei and Chi, Ed and Le, Quoc V and Zhou, Denny and others",
+  "year": 2022,
+  "venue": "Advances in neural information processing systems",
+  "url": "https://scholar.google.com/scholar?q=Chain-of-thought%20prompting%20elicits%20reasoning%20in%20large%20language%20models",
+  "doi": null,
+  "source": {
+    "survey": "2026.eacl-long.350",
+    "figure": "Figure 1"
+  },
+  "connections": [
+    "evaluation-task-enhancement-dual-process"
+  ]
+}

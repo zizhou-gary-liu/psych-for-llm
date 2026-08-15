@@ -1,0 +1,79 @@
+name: Suggest a paper
+description: Propose a paper for the living Psych for LLM research map.
+title: "[Paper]: "
+labels: ["paper suggestion"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping update the survey. A precise grounding explanation matters more than perfect formatting.
+  - type: input
+    id: title
+    attributes:
+      label: Paper title
+      placeholder: Full title
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: Stable paper link
+      description: DOI, proceedings page, or public preprint page. Please do not upload a copyrighted PDF.
+      placeholder: https://...
+    validations:
+      required: true
+  - type: input
+    id: year
+    attributes:
+      label: Year and venue
+      placeholder: 2026, EACL
+    validations:
+      required: true
+  - type: dropdown
+    id: stage
+    attributes:
+      label: LLM lifecycle stage
+      options:
+        - Preprocessing
+        - Pre-training
+        - Post-training
+        - Evaluation and application
+        - Multiple stages
+        - Unsure
+    validations:
+      required: true
+  - type: input
+    id: construct
+    attributes:
+      label: Psychological theory or construct
+      placeholder: Theory of Mind
+    validations:
+      required: true
+  - type: textarea
+    id: grounding
+    attributes:
+      label: How is the theory grounded in the LLM work?
+      description: Explain what maps between the psychological construct and the model, task, data, or measurement—and what does not.
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: What evidence supports the connection?
+      description: Point to the method, experiment, or section that makes this more than a shared term or metaphor.
+    validations:
+      required: true
+  - type: checkboxes
+    id: disclosure
+    attributes:
+      label: Checks
+      options:
+        - label: I searched existing records and did not find this paper.
+          required: true
+        - label: I disclosed below if I am an author or have another conflict of interest.
+          required: true
+  - type: textarea
+    id: notes
+    attributes:
+      label: Conflicts, limitations, or other notes
+      placeholder: Optional

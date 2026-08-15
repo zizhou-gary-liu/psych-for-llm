@@ -1,0 +1,17 @@
+{
+  "id": "aghazadeh-kovashka-2025-face",
+  "citationKey": "aghazadeh-kovashka-2025-face",
+  "title": "The Face of Persuasion: Analyzing Bias and Generating Culture-Aware Ads",
+  "authors": "Aghazadeh, Aysan and Kovashka, Adriana",
+  "year": 2025,
+  "venue": "Findings of the Association for Computational Linguistics: EMNLP 2025",
+  "url": "https://aclanthology.org/2025.findings-emnlp.344/",
+  "doi": "10.18653/v1/2025.findings-emnlp.344",
+  "source": {
+    "survey": "2026.eacl-long.350",
+    "figure": "Figure 1"
+  },
+  "connections": [
+    "evaluation-collaborative-multi-agent-persuasion-models"
+  ]
+}

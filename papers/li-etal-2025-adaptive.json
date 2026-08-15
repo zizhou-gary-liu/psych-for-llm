@@ -1,0 +1,17 @@
+{
+  "id": "li-etal-2025-adaptive",
+  "citationKey": "li-etal-2025-adaptive",
+  "title": "Adaptive Tool Use in Large Language Models with Meta-Cognition Trigger",
+  "authors": "Li, Wenjun and Li, Dexun and Dong, Kuicai and Zhang, Cong and Zhang, Hao and Liu, Weiwen and Wang, Yasheng and Tang, Ruiming and Liu, Yong",
+  "year": 2025,
+  "venue": "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+  "url": "https://aclanthology.org/2025.acl-long.655/",
+  "doi": null,
+  "source": {
+    "survey": "2026.eacl-long.350",
+    "figure": "Figure 1"
+  },
+  "connections": [
+    "evaluation-task-enhancement-self-reflection"
+  ]
+}

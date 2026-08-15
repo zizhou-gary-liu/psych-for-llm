@@ -1,0 +1,17 @@
+{
+  "id": "hu2025generative",
+  "citationKey": "hu2025generative",
+  "title": "Generative language models exhibit social identity biases",
+  "authors": "Hu, Tiancheng and Kyrychenko, Yara and Rathje, Steve and Collier, Nigel and van der Linden, Sander and Roozenbeek, Jon",
+  "year": 2025,
+  "venue": "Nature Computational Science",
+  "url": "https://scholar.google.com/scholar?q=Generative%20language%20models%20exhibit%20social%20identity%20biases",
+  "doi": null,
+  "source": {
+    "survey": "2026.eacl-long.350",
+    "figure": "Figure 1"
+  },
+  "connections": [
+    "evaluation-capability-assessment-social-identity-theory"
+  ]
+}

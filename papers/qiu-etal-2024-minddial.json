@@ -1,0 +1,17 @@
+{
+  "id": "qiu-etal-2024-minddial",
+  "citationKey": "qiu-etal-2024-minddial",
+  "title": "MindDial: Enhancing Conversational Agents with Theory-of-Mind for Common Ground Alignment and Negotiation",
+  "authors": "Qiu, Shuwen and Liu, Mingdian and Li, Hengli and Zhu, Song-Chun and Zheng, Zilong",
+  "year": 2024,
+  "venue": "SIGDIAL:2024:1",
+  "url": "https://aclanthology.org/2024.sigdial-1.63/",
+  "doi": "10.18653/v1/2024.sigdial-1.63",
+  "source": {
+    "survey": "2026.eacl-long.350",
+    "figure": "Figure 1"
+  },
+  "connections": [
+    "evaluation-task-enhancement-theory-of-mind"
+  ]
+}

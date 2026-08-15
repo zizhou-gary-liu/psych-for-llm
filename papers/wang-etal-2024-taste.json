@@ -1,0 +1,17 @@
+{
+  "id": "wang-etal-2024-taste",
+  "citationKey": "wang-etal-2024-taste",
+  "title": "TasTe: Teaching Large Language Models to Translate through Self-Reflection",
+  "authors": "Wang, Yutong and Zeng, Jiali and Liu, Xuebo and Meng, Fandong and Zhou, Jie and Zhang, Min",
+  "year": 2024,
+  "venue": "ACL:2024:long",
+  "url": "https://aclanthology.org/2024.acl-long.333/",
+  "doi": "10.18653/v1/2024.acl-long.333",
+  "source": {
+    "survey": "2026.eacl-long.350",
+    "figure": "Figure 1"
+  },
+  "connections": [
+    "evaluation-task-enhancement-self-reflection"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "fu-etal-2025-exclusion",
+  "citationKey": "fu-etal-2025-exclusion",
+  "title": "Exclusion of Thought: Mitigating Cognitive Load in Large Language Models for Enhanced Reasoning in Multiple-Choice Tasks",
+  "authors": "Fu, Qihang and Qin, Yongbin and Huang, Ruizhang and Chen, Yanping and Zhou, Yulin and Long, Lintao",
+  "year": 2025,
+  "venue": "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+  "url": "https://aclanthology.org/2025.acl-long.1051/",
+  "doi": null,
+  "source": {
+    "survey": "2026.eacl-long.350",
+    "figure": "Figure 1"
+  },
+  "connections": [
+    "evaluation-capability-assessment-memory"
+  ]
+}

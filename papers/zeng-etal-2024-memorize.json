@@ -1,0 +1,17 @@
+{
+  "id": "zeng-etal-2024-memorize",
+  "citationKey": "zeng-etal-2024-memorize",
+  "title": "Memorize Step by Step: Efficient Long-Context Prefilling with Incremental Memory and Decremental Chunk",
+  "authors": "Zeng, Zhiyuan and Guo, Qipeng and Liu, Xiaoran and Yin, Zhangyue and Shu, Wentao and Huang, Mianqiu and Wang, Bo and Zhou, Yunhua and Li, Linlin and Liu, Qun and Qiu, Xipeng",
+  "year": 2024,
+  "venue": "EMNLP:2024:main",
+  "url": "https://aclanthology.org/2024.emnlp-main.1169/",
+  "doi": "10.18653/v1/2024.emnlp-main.1169",
+  "source": {
+    "survey": "2026.eacl-long.350",
+    "figure": "Figure 1"
+  },
+  "connections": [
+    "evaluation-capability-assessment-memory"
+  ]
+}

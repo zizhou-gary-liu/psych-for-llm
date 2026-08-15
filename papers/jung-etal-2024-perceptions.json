@@ -1,0 +1,18 @@
+{
+  "id": "jung-etal-2024-perceptions",
+  "citationKey": "jung-etal-2024-perceptions",
+  "title": "Perceptions to Beliefs: Exploring Precursory Inferences for Theory of Mind in Large Language Models",
+  "authors": "Jung, Chani and Kim, Dongkwan and Jin, Jiho and Kim, Jiseon and Seonwoo, Yeon and Choi, Yejin and Oh, Alice and Kim, Hyunwoo",
+  "year": 2024,
+  "venue": "EMNLP:2024:main",
+  "url": "https://aclanthology.org/2024.emnlp-main.1105/",
+  "doi": "10.18653/v1/2024.emnlp-main.1105",
+  "source": {
+    "survey": "2026.eacl-long.350",
+    "figure": "Figure 1"
+  },
+  "connections": [
+    "evaluation-capability-assessment-theory-of-mind",
+    "evaluation-collaborative-multi-agent-theory-of-mind"
+  ]
+}

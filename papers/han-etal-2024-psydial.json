@@ -1,0 +1,17 @@
+{
+  "id": "han-etal-2024-psydial",
+  "citationKey": "han-etal-2024-psydial",
+  "title": "PSYDIAL: Personality-based Synthetic Dialogue Generation Using Large Language Models",
+  "authors": "Han, Ji-Eun and Koh, Jun-Seok and Seo, Hyeon-Tae and Chang, Du-Seong and Sohn, Kyung-Ah",
+  "year": 2024,
+  "venue": "LREC:2024:main",
+  "url": "https://aclanthology.org/2024.lrec-main.1166/",
+  "doi": null,
+  "source": {
+    "survey": "2026.eacl-long.350",
+    "figure": "Figure 1"
+  },
+  "connections": [
+    "evaluation-collaborative-multi-agent-big-five-personality-traits"
+  ]
+}

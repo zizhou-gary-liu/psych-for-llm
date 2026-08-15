@@ -1,0 +1,17 @@
+{
+  "id": "cheng2025incentivizing",
+  "citationKey": "cheng2025incentivizing",
+  "title": "Incentivizing Dual Process Thinking for Efficient Large Language Model Reasoning",
+  "authors": "Xiaoxue Cheng and Junyi Li and Zhenduo Zhang and Xinyu Tang and Xin Zhao and XinYu KONG and Zhiqiang Zhang",
+  "year": 2025,
+  "venue": "The Thirty-ninth Annual Conference on Neural Information Processing Systems",
+  "url": "https://openreview.net/forum?id=ezOfR26pGQ",
+  "doi": null,
+  "source": {
+    "survey": "2026.eacl-long.350",
+    "figure": "Figure 1"
+  },
+  "connections": [
+    "evaluation-task-enhancement-dual-process"
+  ]
+}

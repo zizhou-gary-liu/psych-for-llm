@@ -1,0 +1,17 @@
+{
+  "id": "nottingham-etal-2024-selective",
+  "citationKey": "nottingham-etal-2024-selective",
+  "title": "Selective Perception: Learning Concise State Descriptions for Language Model Actors",
+  "authors": "Nottingham, Kolby and Razeghi, Yasaman and Kim, Kyungmin and Lanier, Jb and Baldi, Pierre and Fox, Roy and Singh, Sameer",
+  "year": 2024,
+  "venue": "NAACL:2024:short",
+  "url": "https://aclanthology.org/2024.naacl-short.29/",
+  "doi": "10.18653/v1/2024.naacl-short.29",
+  "source": {
+    "survey": "2026.eacl-long.350",
+    "figure": "Figure 1"
+  },
+  "connections": [
+    "preprocessing-data-preprocessing-selective-attention"
+  ]
+}

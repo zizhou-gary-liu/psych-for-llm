@@ -1,0 +1,17 @@
+{
+  "id": "kim-etal-2023-fantom",
+  "citationKey": "kim-etal-2023-fantom",
+  "title": "FANToM: A Benchmark for Stress-testing Machine Theory of Mind in Interactions",
+  "authors": "Kim, Hyunwoo and Sclar, Melanie and Zhou, Xuhui and Bras, Ronan and Kim, Gunhee and Choi, Yejin and Sap, Maarten",
+  "year": 2023,
+  "venue": "EMNLP:2023:main",
+  "url": "https://aclanthology.org/2023.emnlp-main.890/",
+  "doi": "10.18653/v1/2023.emnlp-main.890",
+  "source": {
+    "survey": "2026.eacl-long.350",
+    "figure": "Figure 1"
+  },
+  "connections": [
+    "evaluation-capability-assessment-theory-of-mind"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "chaudhury-etal-2025-epman",
+  "citationKey": "chaudhury-etal-2025-epman",
+  "title": "EpMAN: Episodic Memory AttentioN for Generalizing to Longer Contexts",
+  "authors": "Chaudhury, Subhajit and Das, Payel and Swaminathan, Sarathkrishna and Kollias, Georgios and Nelson, Elliot and Pahwa, Khushbu and Pedapati, Tejaswini and Melnyk, Igor and Riemer, Matthew",
+  "year": 2025,
+  "venue": "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+  "url": "https://aclanthology.org/2025.acl-long.574/",
+  "doi": null,
+  "source": {
+    "survey": "2026.eacl-long.350",
+    "figure": "Figure 1"
+  },
+  "connections": [
+    "posttraining-supervised-fine-tuning-memory"
+  ]
+}

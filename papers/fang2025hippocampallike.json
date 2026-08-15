@@ -1,0 +1,17 @@
+{
+  "id": "fang2025hippocampallike",
+  "citationKey": "fang2025hippocampallike",
+  "title": "Hippocampal-like Sequential Editing for Continual Knowledge Updates in Large Language Models",
+  "authors": "Quntian Fang and Zhen Huang and Zhiliang Tian and Minghao Hu and Dongsheng Li and Yiping Yao and Xinyue Fang and Menglong Lu and Guotong Geng",
+  "year": 2025,
+  "venue": "The Thirty-ninth Annual Conference on Neural Information Processing Systems",
+  "url": "https://openreview.net/forum?id=tqriGodQ79",
+  "doi": null,
+  "source": {
+    "survey": "2026.eacl-long.350",
+    "figure": "Figure 1"
+  },
+  "connections": [
+    "evaluation-task-enhancement-memory"
+  ]
+}

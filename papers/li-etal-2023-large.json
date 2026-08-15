@@ -1,0 +1,18 @@
+{
+  "id": "li-etal-2023-large",
+  "citationKey": "li-etal-2023-large",
+  "title": "Large Language Models with Controllable Working Memory",
+  "authors": "Li, Daliang and Rawat, Ankit Singh and Zaheer, Manzil and Wang, Xin and Lukasik, Michal and Veit, Andreas and Yu, Felix and Kumar, Sanjiv",
+  "year": 2023,
+  "venue": "FINDINGS:2023:acl",
+  "url": "https://aclanthology.org/2023.findings-acl.112/",
+  "doi": "10.18653/v1/2023.findings-acl.112",
+  "source": {
+    "survey": "2026.eacl-long.350",
+    "figure": "Figure 1"
+  },
+  "connections": [
+    "posttraining-supervised-fine-tuning-memory",
+    "evaluation-capability-assessment-memory"
+  ]
+}

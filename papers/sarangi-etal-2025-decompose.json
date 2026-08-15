@@ -1,0 +1,17 @@
+{
+  "id": "sarangi-etal-2025-decompose",
+  "citationKey": "sarangi-etal-2025-decompose",
+  "title": "Decompose-ToM: Enhancing Theory of Mind Reasoning in Large Language Models through Simulation and Task Decomposition",
+  "authors": "Sarangi, Sneheel and Elgarf, Maha and Salam, Hanan",
+  "year": 2025,
+  "venue": "COLING:2025:main",
+  "url": "https://aclanthology.org/2025.coling-main.682/",
+  "doi": null,
+  "source": {
+    "survey": "2026.eacl-long.350",
+    "figure": "Figure 1"
+  },
+  "connections": [
+    "evaluation-collaborative-multi-agent-theory-of-mind"
+  ]
+}

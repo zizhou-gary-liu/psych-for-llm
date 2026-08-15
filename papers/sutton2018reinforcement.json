@@ -1,0 +1,17 @@
+{
+  "id": "sutton2018reinforcement",
+  "citationKey": "sutton2018reinforcement",
+  "title": "Reinforcement learning: an introduction, 2nd edn. Adaptive computation and machine learning",
+  "authors": "Sutton, Richard S and Barto, Andrew G",
+  "year": 2018,
+  "venue": "The MIT Press, Cambridge",
+  "url": "https://scholar.google.com/scholar?q=Reinforcement%20learning%3A%20an%20introduction%2C%202nd%20edn.%20Adaptive%20computation%20and%20machine%20learning",
+  "doi": null,
+  "source": {
+    "survey": "2026.eacl-long.350",
+    "figure": "Figure 1"
+  },
+  "connections": [
+    "posttraining-rlhf-operant-conditioning"
+  ]
+}

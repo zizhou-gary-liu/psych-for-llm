@@ -1,0 +1,17 @@
+{
+  "id": "jagadish2024injecting",
+  "citationKey": "jagadish2024injecting",
+  "title": "Human-like category learning by injecting ecological priors from large language models into neural networks",
+  "authors": "Jagadish, Akshay K. and Coda-Forno, Julian and Thalmann, Mirko and Schulz, Eric and Binz, Marcel",
+  "year": 2024,
+  "venue": "Proceedings of the 41st International Conference on Machine Learning",
+  "url": "https://scholar.google.com/scholar?q=Human-like%20category%20learning%20by%20injecting%20ecological%20priors%20from%20large%20language%20models%20into%20neural%20networks",
+  "doi": null,
+  "source": {
+    "survey": "2026.eacl-long.350",
+    "figure": "Figure 1"
+  },
+  "connections": [
+    "preprocessing-data-collection-ecological-validity"
+  ]
+}

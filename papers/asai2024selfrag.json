@@ -1,0 +1,17 @@
+{
+  "id": "asai2024selfrag",
+  "citationKey": "asai2024selfrag",
+  "title": "Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection",
+  "authors": "Akari Asai and Zeqiu Wu and Yizhong Wang and Avirup Sil and Hannaneh Hajishirzi",
+  "year": 2024,
+  "venue": "The Twelfth International Conference on Learning Representations",
+  "url": "https://openreview.net/forum?id=hSyW5go0v8",
+  "doi": null,
+  "source": {
+    "survey": "2026.eacl-long.350",
+    "figure": "Figure 1"
+  },
+  "connections": [
+    "evaluation-task-enhancement-self-reflection"
+  ]
+}

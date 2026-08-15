@@ -1,0 +1,17 @@
+{
+  "id": "li2025cam",
+  "citationKey": "li2025cam",
+  "title": "CAM: A Constructivist View of Agentic Memory for LLM-Based Reading Comprehension",
+  "authors": "Rui Li and Zeyu Zhang and Xiaohe Bo and Zihang Tian and Xu Chen and Quanyu Dai and Zhenhua Dong and Ruiming Tang",
+  "year": 2025,
+  "venue": "The Thirty-ninth Annual Conference on Neural Information Processing Systems",
+  "url": "https://openreview.net/forum?id=ACSOnSHiWe",
+  "doi": null,
+  "source": {
+    "survey": "2026.eacl-long.350",
+    "figure": "Figure 1"
+  },
+  "connections": [
+    "evaluation-task-enhancement-perception-and-attention"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "borges-etal-2024-teach",
+  "citationKey": "borges-etal-2024-teach",
+  "title": "Let Me Teach You: Pedagogical Foundations of Feedback for Language Models",
+  "authors": "Borges, Beatriz and Tandon, Niket and Kaser, Tanja and Bosselut, Antoine",
+  "year": 2024,
+  "venue": "EMNLP:2024:main",
+  "url": "https://aclanthology.org/2024.emnlp-main.674/",
+  "doi": "10.18653/v1/2024.emnlp-main.674",
+  "source": {
+    "survey": "2026.eacl-long.350",
+    "figure": "Figure 1"
+  },
+  "connections": [
+    "pretraining-observational-learning-scaffolding-theory"
+  ]
+}

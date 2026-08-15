@@ -1,0 +1,17 @@
+{
+  "id": "jiang-etal-2024-personallm",
+  "citationKey": "jiang-etal-2024-personallm",
+  "title": "PersonaLLM: Investigating the Ability of Large Language Models to Express Personality Traits",
+  "authors": "Jiang, Hang and Zhang, Xiajie and Cao, Xubo and Breazeal, Cynthia and Roy, Deb and Kabbara, Jad",
+  "year": 2024,
+  "venue": "FINDINGS:2024:naacl",
+  "url": "https://aclanthology.org/2024.findings-naacl.229/",
+  "doi": "10.18653/v1/2024.findings-naacl.229",
+  "source": {
+    "survey": "2026.eacl-long.350",
+    "figure": "Figure 1"
+  },
+  "connections": [
+    "evaluation-task-enhancement-big-five-personality-traits"
+  ]
+}

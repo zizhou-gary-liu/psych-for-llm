@@ -1,0 +1,17 @@
+{
+  "id": "feng-etal-2024-child",
+  "citationKey": "feng-etal-2024-child",
+  "title": "Is Child-Directed Speech Effective Training Data for Language Models?",
+  "authors": "Feng, Steven Y. and Goodman, Noah and Frank, Michael",
+  "year": 2024,
+  "venue": "EMNLP:2024:main",
+  "url": "https://aclanthology.org/2024.emnlp-main.1231/",
+  "doi": "10.18653/v1/2024.emnlp-main.1231",
+  "source": {
+    "survey": "2026.eacl-long.350",
+    "figure": "Figure 1"
+  },
+  "connections": [
+    "preprocessing-data-collection-ecological-validity"
+  ]
+}

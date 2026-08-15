@@ -1,0 +1,17 @@
+{
+  "id": "amidei-etal-2025-exploring",
+  "citationKey": "amidei-etal-2025-exploring",
+  "title": "Exploring the Impact of Language Switching on Personality Traits in LLMs",
+  "authors": "Amidei, Jacopo and Ferreira De Sa, Jose Gregorio and Luna, Ruben Nieto and Kaltenbrunner, Andreas",
+  "year": 2025,
+  "venue": "COLING:2025:main",
+  "url": "https://aclanthology.org/2025.coling-main.162/",
+  "doi": null,
+  "source": {
+    "survey": "2026.eacl-long.350",
+    "figure": "Figure 1"
+  },
+  "connections": [
+    "evaluation-capability-assessment-epqr-a"
+  ]
+}

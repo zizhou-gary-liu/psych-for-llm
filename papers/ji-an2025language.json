@@ -1,0 +1,17 @@
+{
+  "id": "ji-an2025language",
+  "citationKey": "ji-an2025language",
+  "title": "Language Models Are Capable of Metacognitive Monitoring and Control of Their Internal Activations",
+  "authors": "Li Ji-An and Hua-Dong Xiong and Robert Wilson and Marcelo G Mattar and Marcus K. Benna",
+  "year": 2025,
+  "venue": "The Thirty-ninth Annual Conference on Neural Information Processing Systems",
+  "url": "https://openreview.net/forum?id=qTXlFwlggv",
+  "doi": null,
+  "source": {
+    "survey": "2026.eacl-long.350",
+    "figure": "Figure 1"
+  },
+  "connections": [
+    "evaluation-task-enhancement-self-reflection"
+  ]
+}

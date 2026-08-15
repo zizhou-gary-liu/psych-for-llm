@@ -1,0 +1,17 @@
+{
+  "id": "borah-etal-2025-mind",
+  "citationKey": "borah-etal-2025-mind",
+  "title": "Mind the (Belief) Gap: Group Identity in the World of LLMs",
+  "authors": "Borah, Angana and Houalla, Marwa and Mihalcea, Rada",
+  "year": 2025,
+  "venue": "Findings of the Association for Computational Linguistics: ACL 2025",
+  "url": "https://aclanthology.org/2025.findings-acl.948/",
+  "doi": null,
+  "source": {
+    "survey": "2026.eacl-long.350",
+    "figure": "Figure 1"
+  },
+  "connections": [
+    "evaluation-capability-assessment-social-identity-theory"
+  ]
+}

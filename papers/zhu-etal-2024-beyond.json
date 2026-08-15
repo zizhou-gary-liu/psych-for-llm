@@ -1,0 +1,17 @@
+{
+  "id": "zhu-etal-2024-beyond",
+  "citationKey": "zhu-etal-2024-beyond",
+  "title": "Beyond Memorization: The Challenge of Random Memory Access in Language Models",
+  "authors": "Zhu, Tongyao and Liu, Qian and Pang, Liang and Jiang, Zhengbao and Kan, Min-Yen and Lin, Min",
+  "year": 2024,
+  "venue": "ACL:2024:long",
+  "url": "https://aclanthology.org/2024.acl-long.185/",
+  "doi": "10.18653/v1/2024.acl-long.185",
+  "source": {
+    "survey": "2026.eacl-long.350",
+    "figure": "Figure 1"
+  },
+  "connections": [
+    "evaluation-task-enhancement-memory"
+  ]
+}

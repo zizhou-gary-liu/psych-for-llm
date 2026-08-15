@@ -1,0 +1,17 @@
+{
+  "id": "pang-etal-2023-long",
+  "citationKey": "pang-etal-2023-long",
+  "title": "Long Document Summarization with Top-down and Bottom-up Inference",
+  "authors": "Pang, Bo and Nijkamp, Erik and Kryscinski, Wojciech and Savarese, Silvio and Zhou, Yingbo and Xiong, Caiming",
+  "year": 2023,
+  "venue": "FINDINGS:2023:eacl",
+  "url": "https://aclanthology.org/2023.findings-eacl.94/",
+  "doi": "10.18653/v1/2023.findings-eacl.94",
+  "source": {
+    "survey": "2026.eacl-long.350",
+    "figure": "Figure 1"
+  },
+  "connections": [
+    "pretraining-knowledge-acquisition-top-down-perception"
+  ]
+}

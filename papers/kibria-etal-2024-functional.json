@@ -1,0 +1,17 @@
+{
+  "id": "kibria-etal-2024-functional",
+  "citationKey": "kibria-etal-2024-functional",
+  "title": "On Functional Competence of LLMs for Linguistic Disambiguation",
+  "authors": "Kibria, Raihan and Dipta, Sheikh Intiser Uddin and Adnan, Muhammad Abdullah",
+  "year": 2024,
+  "venue": "CONLL:2024:1",
+  "url": "https://aclanthology.org/2024.conll-1.12/",
+  "doi": "10.18653/v1/2024.conll-1.12",
+  "source": {
+    "survey": "2026.eacl-long.350",
+    "figure": "Figure 1"
+  },
+  "connections": [
+    "evaluation-capability-assessment-conversational-implicature"
+  ]
+}

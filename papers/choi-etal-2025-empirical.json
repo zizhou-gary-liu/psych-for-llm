@@ -1,0 +1,17 @@
+{
+  "id": "choi-etal-2025-empirical",
+  "citationKey": "choi-etal-2025-empirical",
+  "title": "An Empirical Study of Group Conformity in Multi-Agent Systems",
+  "authors": "Choi, Min and Kim, Keonwoo and Chae, Sungwon and Baek, Sangyeop",
+  "year": 2025,
+  "venue": "Findings of the Association for Computational Linguistics: ACL 2025",
+  "url": "https://aclanthology.org/2025.findings-acl.265/",
+  "doi": null,
+  "source": {
+    "survey": "2026.eacl-long.350",
+    "figure": "Figure 1"
+  },
+  "connections": [
+    "evaluation-capability-assessment-conformity-theories"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "wu-etal-2023-hi",
+  "citationKey": "wu-etal-2023-hi",
+  "title": "Hi-ToM: A Benchmark for Evaluating Higher-Order Theory of Mind Reasoning in Large Language Models",
+  "authors": "Wu, Yufan and He, Yinghui and Jia, Yilin and Mihalcea, Rada and Chen, Yulong and Deng, Naihao",
+  "year": 2023,
+  "venue": "FINDINGS:2023:emnlp",
+  "url": "https://aclanthology.org/2023.findings-emnlp.717/",
+  "doi": "10.18653/v1/2023.findings-emnlp.717",
+  "source": {
+    "survey": "2026.eacl-long.350",
+    "figure": "Figure 1"
+  },
+  "connections": [
+    "evaluation-capability-assessment-theory-of-mind"
+  ]
+}

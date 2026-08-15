@@ -1,0 +1,17 @@
+{
+  "id": "zhou2024metacognitive",
+  "citationKey": "zhou2024metacognitive",
+  "title": "Metacognitive Retrieval-Augmented Large Language Models",
+  "authors": "Yujia Zhou and Zheng Liu and Jiajie Jin and Jian-Yun Nie and Zhicheng Dou",
+  "year": 2024,
+  "venue": "The Web Conference 2024",
+  "url": "https://openreview.net/forum?id=TW2gJyR6Mj",
+  "doi": null,
+  "source": {
+    "survey": "2026.eacl-long.350",
+    "figure": "Figure 1"
+  },
+  "connections": [
+    "evaluation-task-enhancement-self-reflection"
+  ]
+}

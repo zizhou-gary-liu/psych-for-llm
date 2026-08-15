@@ -1,0 +1,18 @@
+{
+  "id": "lee-etal-2025-llms",
+  "citationKey": "lee-etal-2025-llms",
+  "title": "Do LLMs Have Distinct and Consistent Personality? TRAIT: Personality Testset designed for LLMs with Psychometrics",
+  "authors": "Lee, Seungbeen and Lim, Seungwon and Han, Seungju and Oh, Giyeong and Chae, Hyungjoo and Chung, Jiwan and Kim, Minju and Kwak, Beong-woo and Lee, Yeonsoo and Lee, Dongha and Yeo, Jinyoung and Yu, Youngjae",
+  "year": 2025,
+  "venue": "Findings of the Association for Computational Linguistics: NAACL 2025",
+  "url": "https://aclanthology.org/2025.findings-naacl.469/",
+  "doi": "10.18653/v1/2025.findings-naacl.469",
+  "source": {
+    "survey": "2026.eacl-long.350",
+    "figure": "Figure 1"
+  },
+  "connections": [
+    "evaluation-capability-assessment-big-five-personality-traits",
+    "evaluation-task-enhancement-big-five-personality-traits"
+  ]
+}

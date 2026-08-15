@@ -1,0 +1,17 @@
+{
+  "id": "wu-etal-2025-exploring-choice",
+  "citationKey": "wu-etal-2025-exploring-choice",
+  "title": "Exploring the Choice Behavior of Large Language Models",
+  "authors": "Wu, Weidong and Zhao, Qinlin and Chen, Hao and Zhou, Lexin and Lian, Defu and Xie, Hong",
+  "year": 2025,
+  "venue": "Findings of the Association for Computational Linguistics: ACL 2025",
+  "url": "https://aclanthology.org/2025.findings-acl.270/",
+  "doi": null,
+  "source": {
+    "survey": "2026.eacl-long.350",
+    "figure": "Figure 1"
+  },
+  "connections": [
+    "evaluation-capability-assessment-conformity-theories"
+  ]
+}

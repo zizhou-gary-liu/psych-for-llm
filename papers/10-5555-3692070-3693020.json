@@ -1,0 +1,17 @@
+{
+  "id": "10-5555-3692070-3693020",
+  "citationKey": "10.5555/3692070.3693020",
+  "title": "Debating with more persuasive LLMs leads to more truthful answers",
+  "authors": "Khan, Akbir and Hughes, John and Valentine, Dan and Ruis, Laura and Sachan, Kshitij and Radhakrishnan, Ansh and Grefenstette, Edward and Bowman, Samuel R. and Rocktaschel, Tim and Perez, Ethan",
+  "year": 2024,
+  "venue": "Proceedings of the 41st International Conference on Machine Learning",
+  "url": "https://doi.org/10.5555/3692070.3693020",
+  "doi": null,
+  "source": {
+    "survey": "2026.eacl-long.350",
+    "figure": "Figure 1"
+  },
+  "connections": [
+    "evaluation-collaborative-multi-agent-persuasion-models"
+  ]
+}

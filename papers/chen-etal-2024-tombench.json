@@ -1,0 +1,17 @@
+{
+  "id": "chen-etal-2024-tombench",
+  "citationKey": "chen-etal-2024-tombench",
+  "title": "ToMBench: Benchmarking Theory of Mind in Large Language Models",
+  "authors": "Chen, Zhuang and Wu, Jincenzi and Zhou, Jinfeng and Wen, Bosi and Bi, Guanqun and Jiang, Gongyao and Cao, Yaru and Hu, Mengting and Lai, Yunghwei and Xiong, Zexuan and Huang, Minlie",
+  "year": 2024,
+  "venue": "ACL:2024:long",
+  "url": "https://aclanthology.org/2024.acl-long.847/",
+  "doi": "10.18653/v1/2024.acl-long.847",
+  "source": {
+    "survey": "2026.eacl-long.350",
+    "figure": "Figure 1"
+  },
+  "connections": [
+    "evaluation-capability-assessment-theory-of-mind"
+  ]
+}

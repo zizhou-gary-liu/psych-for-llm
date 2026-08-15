@@ -1,0 +1,17 @@
+{
+  "id": "zhang-etal-2024-exploring",
+  "citationKey": "zhang-etal-2024-exploring",
+  "title": "Exploring Collaboration Mechanisms for LLM Agents: A Social Psychology View",
+  "authors": "Zhang, Jintian and Xu, Xin and Zhang, Ningyu and Liu, Ruibo and Hooi, Bryan and Deng, Shumin",
+  "year": 2024,
+  "venue": "ACL:2024:long",
+  "url": "https://aclanthology.org/2024.acl-long.782/",
+  "doi": "10.18653/v1/2024.acl-long.782",
+  "source": {
+    "survey": "2026.eacl-long.350",
+    "figure": "Figure 1"
+  },
+  "connections": [
+    "evaluation-capability-assessment-conformity-theories"
+  ]
+}

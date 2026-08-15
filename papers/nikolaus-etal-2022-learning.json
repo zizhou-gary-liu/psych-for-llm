@@ -1,0 +1,17 @@
+{
+  "id": "nikolaus-etal-2022-learning",
+  "citationKey": "nikolaus-etal-2022-learning",
+  "title": "Learning English with Peppa Pig",
+  "authors": "Nikolaus, Mitja and Alishahi, Afra and Chrupa, Grzegorz",
+  "year": 2022,
+  "venue": "Transactions of the Association for Computational Linguistics",
+  "url": "https://aclanthology.org/2022.tacl-1.54/",
+  "doi": "10.1162/tacl_a_00498",
+  "source": {
+    "survey": "2026.eacl-long.350",
+    "figure": "Figure 1"
+  },
+  "connections": [
+    "preprocessing-data-collection-ecological-validity"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "dong2024persona",
+  "citationKey": "dong2024persona",
+  "title": "Persona Setting Pitfall: Persistent Outgroup Biases in Large Language Models Arising from Social Identity Adoption",
+  "authors": "Dong, Wenchao and Zhunis, Assem and Jeong, Dongyoung and Chin, Hyojin and Han, Jiyoung and Cha, Meeyoung",
+  "year": 2024,
+  "venue": "arXiv preprint arXiv:2409.03843",
+  "url": "https://scholar.google.com/scholar?q=Persona%20Setting%20Pitfall%3A%20Persistent%20Outgroup%20Biases%20in%20Large%20Language%20Models%20Arising%20from%20Social%20Identity%20Adoption",
+  "doi": null,
+  "source": {
+    "survey": "2026.eacl-long.350",
+    "figure": "Figure 1"
+  },
+  "connections": [
+    "evaluation-capability-assessment-social-identity-theory"
+  ]
+}

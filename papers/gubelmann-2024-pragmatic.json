@@ -1,0 +1,17 @@
+{
+  "id": "gubelmann-2024-pragmatic",
+  "citationKey": "gubelmann-2024-pragmatic",
+  "title": "Pragmatic Norms Are All You Need – Why The Symbol Grounding Problem Does Not Apply to LLMs",
+  "authors": "Gubelmann, Reto",
+  "year": 2024,
+  "venue": "EMNLP:2024:main",
+  "url": "https://aclanthology.org/2024.emnlp-main.651/",
+  "doi": "10.18653/v1/2024.emnlp-main.651",
+  "source": {
+    "survey": "2026.eacl-long.350",
+    "figure": "Figure 1"
+  },
+  "connections": [
+    "evaluation-capability-assessment-conversational-implicature"
+  ]
+}

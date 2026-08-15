@@ -1,0 +1,17 @@
+{
+  "id": "sonkar-etal-2023-class",
+  "citationKey": "sonkar-etal-2023-class",
+  "title": "CLASS: A Design Framework for Building Intelligent Tutoring Systems Based on Learning Science principles",
+  "authors": "Sonkar, Shashank and Liu, Naiming and Mallick, Debshila and Baraniuk, Richard",
+  "year": 2023,
+  "venue": "FINDINGS:2023:emnlp",
+  "url": "https://aclanthology.org/2023.findings-emnlp.130/",
+  "doi": "10.18653/v1/2023.findings-emnlp.130",
+  "source": {
+    "survey": "2026.eacl-long.350",
+    "figure": "Figure 1"
+  },
+  "connections": [
+    "pretraining-observational-learning-scaffolding-theory"
+  ]
+}

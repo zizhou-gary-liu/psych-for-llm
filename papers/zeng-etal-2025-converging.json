@@ -1,0 +1,17 @@
+{
+  "id": "zeng-etal-2025-converging",
+  "citationKey": "zeng-etal-2025-converging",
+  "title": "Converging to a Lingua Franca: Evolution of Linguistic Regions and Semantics Alignment in Multilingual Large Language Models",
+  "authors": "Zeng, Hongchuan and Han, Senyu and Chen, Lu and Yu, Kai",
+  "year": 2025,
+  "venue": "COLING:2025:main",
+  "url": "https://aclanthology.org/2025.coling-main.707/",
+  "doi": null,
+  "source": {
+    "survey": "2026.eacl-long.350",
+    "figure": "Figure 1"
+  },
+  "connections": [
+    "evaluation-capability-assessment-conversational-implicature"
+  ]
+}

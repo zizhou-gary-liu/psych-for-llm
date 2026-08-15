@@ -1,0 +1,17 @@
+{
+  "id": "yao2024tree",
+  "citationKey": "yao2024tree",
+  "title": "Tree of thoughts: Deliberate problem solving with large language models",
+  "authors": "Yao, Shunyu and Yu, Dian and Zhao, Jeffrey and Shafran, Izhak and Griffiths, Tom and Cao, Yuan and Narasimhan, Karthik",
+  "year": 2024,
+  "venue": "Advances in Neural Information Processing Systems",
+  "url": "https://scholar.google.com/scholar?q=Tree%20of%20thoughts%3A%20Deliberate%20problem%20solving%20with%20large%20language%20models",
+  "doi": null,
+  "source": {
+    "survey": "2026.eacl-long.350",
+    "figure": "Figure 1"
+  },
+  "connections": [
+    "evaluation-task-enhancement-dual-process"
+  ]
+}

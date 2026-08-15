@@ -1,0 +1,17 @@
+{
+  "id": "yang-etal-2024-psychogat",
+  "citationKey": "yang-etal-2024-psychogat",
+  "title": "PsychoGAT: A Novel Psychological Measurement Paradigm through Interactive Fiction Games with LLM Agents",
+  "authors": "Yang, Qisen and Wang, Zekun and Chen, Honghui and Wang, Shenzhi and Pu, Yifan and Gao, Xin and Huang, Wenhao and Song, Shiji and Huang, Gao",
+  "year": 2024,
+  "venue": "ACL:2024:long",
+  "url": "https://aclanthology.org/2024.acl-long.779/",
+  "doi": "10.18653/v1/2024.acl-long.779",
+  "source": {
+    "survey": "2026.eacl-long.350",
+    "figure": "Figure 1"
+  },
+  "connections": [
+    "evaluation-task-enhancement-mbti"
+  ]
+}

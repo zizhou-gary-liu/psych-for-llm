@@ -1,0 +1,17 @@
+{
+  "id": "zhang-etal-2025-leveraging",
+  "citationKey": "zhang-etal-2025-leveraging",
+  "title": "Leveraging Dual Process Theory in Language Agent Framework for Real-time Simultaneous Human-AI Collaboration",
+  "authors": "Zhang, Shao and Wang, Xihuai and Zhang, Wenhao and Li, Chaoran and Song, Junru and Li, Tingyu and Qiu, Lin and Cao, Xuezhi and Cai, Xunliang and Yao, Wen and Zhang, Weinan and Wang, Xinbing and Wen, Ying",
+  "year": 2025,
+  "venue": "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+  "url": "https://aclanthology.org/2025.acl-long.206/",
+  "doi": null,
+  "source": {
+    "survey": "2026.eacl-long.350",
+    "figure": "Figure 1"
+  },
+  "connections": [
+    "evaluation-task-enhancement-dual-process"
+  ]
+}

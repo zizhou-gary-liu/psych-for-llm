@@ -1,0 +1,17 @@
+{
+  "id": "wang-etal-2025-evaluating-cognitive",
+  "citationKey": "wang-etal-2025-evaluating-cognitive",
+  "title": "Evaluating Cognitive-Behavioral Fixation via Multimodal User Viewing Patterns on Social Media",
+  "authors": "Wang, Yujie and Zhao, Yunwei and Yang, Jing and Han, Han and Shan, Shiguang and Zhang, Jie",
+  "year": 2025,
+  "venue": "Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing",
+  "url": "https://aclanthology.org/2025.emnlp-main.987/",
+  "doi": "10.18653/v1/2025.emnlp-main.987",
+  "source": {
+    "survey": "2026.eacl-long.350",
+    "figure": "Figure 1"
+  },
+  "connections": [
+    "evaluation-capability-assessment-social-identity-theory"
+  ]
+}

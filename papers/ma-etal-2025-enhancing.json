@@ -1,0 +1,17 @@
+{
+  "id": "ma-etal-2025-enhancing",
+  "citationKey": "ma-etal-2025-enhancing",
+  "title": "Enhancing LLM-Based Persuasion Simulations with Cultural and Speaker-Specific Information",
+  "authors": "Ma, Weicheng and Zhang, Hefan and Ji, Shiyu and Hashemi, Farnoosh and Wang, Qichao and Yang, Ivory and Chen, Joice and Pan, Juanwen and Macy, Michael and Hassanpour, Saeed and Vosoughi, Soroush",
+  "year": 2025,
+  "venue": "Findings of the Association for Computational Linguistics: EMNLP 2025",
+  "url": "https://aclanthology.org/2025.findings-emnlp.808/",
+  "doi": "10.18653/v1/2025.findings-emnlp.808",
+  "source": {
+    "survey": "2026.eacl-long.350",
+    "figure": "Figure 1"
+  },
+  "connections": [
+    "evaluation-collaborative-multi-agent-persuasion-models"
+  ]
+}

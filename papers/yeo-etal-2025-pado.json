@@ -1,0 +1,17 @@
+{
+  "id": "yeo-etal-2025-pado",
+  "citationKey": "yeo-etal-2025-pado",
+  "title": "PADO: Personality-induced multi-Agents for Detecting OCEAN in human-generated texts",
+  "authors": "Yeo, Haein and Noh, Taehyeong and Jin, Seungwan and Han, Kyungsik",
+  "year": 2025,
+  "venue": "COLING:2025:main",
+  "url": "https://aclanthology.org/2025.coling-main.382/",
+  "doi": null,
+  "source": {
+    "survey": "2026.eacl-long.350",
+    "figure": "Figure 1"
+  },
+  "connections": [
+    "evaluation-task-enhancement-big-five-personality-traits"
+  ]
+}

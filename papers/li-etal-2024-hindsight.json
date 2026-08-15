@@ -1,0 +1,17 @@
+{
+  "id": "li-etal-2024-hindsight",
+  "citationKey": "li-etal-2024-hindsight",
+  "title": "When Hindsight is Not 20/20: Testing Limits on Reflective Thinking in Large Language Models",
+  "authors": "Li, Yanhong and Yang, Chenghao and Ettinger, Allyson",
+  "year": 2024,
+  "venue": "FINDINGS:2024:naacl",
+  "url": "https://aclanthology.org/2024.findings-naacl.237/",
+  "doi": "10.18653/v1/2024.findings-naacl.237",
+  "source": {
+    "survey": "2026.eacl-long.350",
+    "figure": "Figure 1"
+  },
+  "connections": [
+    "evaluation-task-enhancement-self-reflection"
+  ]
+}

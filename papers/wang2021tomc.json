@@ -1,0 +1,17 @@
+{
+  "id": "wang2021tomc",
+  "citationKey": "wang2021tomc",
+  "title": "ToM2C: Target-oriented Multi-agent Communication and Cooperation with Theory of Mind",
+  "authors": "Yuanfei Wang and Fangwei Zhong and Jing Xu and Yizhou Wang",
+  "year": 2022,
+  "venue": "International Conference on Learning Representations",
+  "url": "https://openreview.net/forum?id=M3tw78MH1Bk",
+  "doi": null,
+  "source": {
+    "survey": "2026.eacl-long.350",
+    "figure": "Figure 1"
+  },
+  "connections": [
+    "evaluation-collaborative-multi-agent-theory-of-mind"
+  ]
+}

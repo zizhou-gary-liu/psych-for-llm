@@ -1,0 +1,17 @@
+{
+  "id": "sap-etal-2022-neural",
+  "citationKey": "sap-etal-2022-neural",
+  "title": "Neural Theory-of-Mind? On the Limits of Social Intelligence in Large LMs",
+  "authors": "Sap, Maarten and Le Bras, Ronan and Fried, Daniel and Choi, Yejin",
+  "year": 2022,
+  "venue": "EMNLP:2022:main",
+  "url": "https://aclanthology.org/2022.emnlp-main.248/",
+  "doi": "10.18653/v1/2022.emnlp-main.248",
+  "source": {
+    "survey": "2026.eacl-long.350",
+    "figure": "Figure 1"
+  },
+  "connections": [
+    "evaluation-capability-assessment-theory-of-mind"
+  ]
+}

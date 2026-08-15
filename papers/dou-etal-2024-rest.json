@@ -1,0 +1,17 @@
+{
+  "id": "dou-etal-2024-rest",
+  "citationKey": "dou-etal-2024-rest",
+  "title": "Re-ReST: Reflection-Reinforced Self-Training for Language Agents",
+  "authors": "Dou, Zi-Yi and Yang, Cheng-Fu and Wu, Xueqing and Chang, Kai-Wei and Peng, Nanyun",
+  "year": 2024,
+  "venue": "EMNLP:2024:main",
+  "url": "https://aclanthology.org/2024.emnlp-main.861/",
+  "doi": "10.18653/v1/2024.emnlp-main.861",
+  "source": {
+    "survey": "2026.eacl-long.350",
+    "figure": "Figure 1"
+  },
+  "connections": [
+    "evaluation-task-enhancement-self-reflection"
+  ]
+}

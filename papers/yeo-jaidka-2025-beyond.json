@@ -1,0 +1,17 @@
+{
+  "id": "yeo-jaidka-2025-beyond",
+  "citationKey": "yeo-jaidka-2025-beyond",
+  "title": "Beyond Context to Cognitive Appraisal: Emotion Reasoning as a Theory of Mind Benchmark for Large Language Models",
+  "authors": "Yeo, Gerard Christopher and Jaidka, Kokil",
+  "year": 2025,
+  "venue": "Findings of the Association for Computational Linguistics: ACL 2025",
+  "url": "https://aclanthology.org/2025.findings-acl.1359/",
+  "doi": "10.18653/v1/2025.findings-acl.1359",
+  "source": {
+    "survey": "2026.eacl-long.350",
+    "figure": "Figure 1"
+  },
+  "connections": [
+    "evaluation-capability-assessment-theory-of-mind"
+  ]
+}

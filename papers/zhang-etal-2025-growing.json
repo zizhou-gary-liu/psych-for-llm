@@ -1,0 +1,17 @@
+{
+  "id": "zhang-etal-2025-growing",
+  "citationKey": "zhang-etal-2025-growing",
+  "title": "Growing Through Experience: Scaling Episodic Grounding in Language Models",
+  "authors": "Zhang, Chunhui and Wang, Sirui and Ouyang, Zhongyu and Yuan, Xiangchi and Vosoughi, Soroush",
+  "year": 2025,
+  "venue": "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+  "url": "https://aclanthology.org/2025.acl-long.409/",
+  "doi": null,
+  "source": {
+    "survey": "2026.eacl-long.350",
+    "figure": "Figure 1"
+  },
+  "connections": [
+    "posttraining-supervised-fine-tuning-memory"
+  ]
+}

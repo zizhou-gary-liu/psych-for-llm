@@ -1,0 +1,2149 @@
+[
+  {
+    "id": "10-5555-3600270-3601883",
+    "citationKey": "10.5555/3600270.3601883",
+    "title": "Large language models are zero-shot reasoners",
+    "authors": "Kojima, Takeshi and Gu, Shixiang Shane and Reid, Machel and Matsuo, Yutaka and Iwasawa, Yusuke",
+    "year": 2022,
+    "venue": "Proceedings of the 36th International Conference on Neural Information Processing Systems",
+    "url": "https://doi.org/10.5555/3600270.3601883",
+    "doi": null,
+    "source": {
+      "survey": "2026.eacl-long.350",
+      "figure": "Figure 1"
+    },
+    "connections": [
+      "evaluation-task-enhancement-perception-and-attention"
+    ]
+  },
+  {
+    "id": "10-5555-3692070-3693020",
+    "citationKey": "10.5555/3692070.3693020",
+    "title": "Debating with more persuasive LLMs leads to more truthful answers",
+    "authors": "Khan, Akbir and Hughes, John and Valentine, Dan and Ruis, Laura and Sachan, Kshitij and Radhakrishnan, Ansh and Grefenstette, Edward and Bowman, Samuel R. and Rocktaschel, Tim and Perez, Ethan",
+    "year": 2024,
+    "venue": "Proceedings of the 41st International Conference on Machine Learning",
+    "url": "https://doi.org/10.5555/3692070.3693020",
+    "doi": null,
+    "source": {
+      "survey": "2026.eacl-long.350",
+      "figure": "Figure 1"
+    },
+    "connections": [
+      "evaluation-collaborative-multi-agent-persuasion-models"
+    ]
+  },
+  {
+    "id": "aghazadeh-kovashka-2025-face",
+    "citationKey": "aghazadeh-kovashka-2025-face",
+    "title": "The Face of Persuasion: Analyzing Bias and Generating Culture-Aware Ads",
+    "authors": "Aghazadeh, Aysan and Kovashka, Adriana",
+    "year": 2025,
+    "venue": "Findings of the Association for Computational Linguistics: EMNLP 2025",
+    "url": "https://aclanthology.org/2025.findings-emnlp.344/",
+    "doi": "10.18653/v1/2025.findings-emnlp.344",
+    "source": {
+      "survey": "2026.eacl-long.350",
+      "figure": "Figure 1"
+    },
+    "connections": [
+      "evaluation-collaborative-multi-agent-persuasion-models"
+    ]
+  },
+  {
+    "id": "amidei-etal-2025-exploring",
+    "citationKey": "amidei-etal-2025-exploring",
+    "title": "Exploring the Impact of Language Switching on Personality Traits in LLMs",
+    "authors": "Amidei, Jacopo and Ferreira De Sa, Jose Gregorio and Luna, Ruben Nieto and Kaltenbrunner, Andreas",
+    "year": 2025,
+    "venue": "COLING:2025:main",
+    "url": "https://aclanthology.org/2025.coling-main.162/",
+    "doi": null,
+    "source": {
+      "survey": "2026.eacl-long.350",
+      "figure": "Figure 1"
+    },
+    "connections": [
+      "evaluation-capability-assessment-epqr-a"
+    ]
+  },
+  {
+    "id": "araujo-etal-2021-augmenting",
+    "citationKey": "araujo-etal-2021-augmenting",
+    "title": "Augmenting BERT-style Models with Predictive Coding to Improve Discourse-level Representations",
+    "authors": "Araujo, Vladimir and Villa, Andres and Mendoza, Marcelo and Moens, Marie-Francine and Soto, Alvaro",
+    "year": 2021,
+    "venue": "EMNLP:2021:main",
+    "url": "https://aclanthology.org/2021.emnlp-main.240/",
+    "doi": "10.18653/v1/2021.emnlp-main.240",
+    "source": {
+      "survey": "2026.eacl-long.350",
+      "figure": "Figure 1"
+    },
+    "connections": [
+      "preprocessing-data-preprocessing-predictive-coding"
+    ]
+  },
+  {
+    "id": "asai2024selfrag",
+    "citationKey": "asai2024selfrag",
+    "title": "Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection",
+    "authors": "Akari Asai and Zeqiu Wu and Yizhong Wang and Avirup Sil and Hannaneh Hajishirzi",
+    "year": 2024,
+    "venue": "The Twelfth International Conference on Learning Representations",
+    "url": "https://openreview.net/forum?id=hSyW5go0v8",
+    "doi": null,
+    "source": {
+      "survey": "2026.eacl-long.350",
+      "figure": "Figure 1"
+    },
+    "connections": [
+      "evaluation-task-enhancement-self-reflection"
+    ]
+  },
+  {
+    "id": "bender-koller-2020-climbing",
+    "citationKey": "bender-koller-2020-climbing",
+    "title": "Climbing towards NLU: On Meaning, Form, and Understanding in the Age of Data",
+    "authors": "Bender, Emily M. and Koller, Alexander",
+    "year": 2020,
+    "venue": "ACL:2020:main",
+    "url": "https://aclanthology.org/2020.acl-main.463/",
+    "doi": "10.18653/v1/2020.acl-main.463",
+    "source": {
+      "survey": "2026.eacl-long.350",
+      "figure": "Figure 1"
+    },
+    "connections": [
+      "evaluation-capability-assessment-conversational-implicature"
+    ]
+  },
+  {
+    "id": "borah-etal-2025-mind",
+    "citationKey": "borah-etal-2025-mind",
+    "title": "Mind the (Belief) Gap: Group Identity in the World of LLMs",
+    "authors": "Borah, Angana and Houalla, Marwa and Mihalcea, Rada",
+    "year": 2025,
+    "venue": "Findings of the Association for Computational Linguistics: ACL 2025",
+    "url": "https://aclanthology.org/2025.findings-acl.948/",
+    "doi": null,
+    "source": {
+      "survey": "2026.eacl-long.350",
+      "figure": "Figure 1"
+    },
+    "connections": [
+      "evaluation-capability-assessment-social-identity-theory"
+    ]
+  },
+  {
+    "id": "borges-etal-2024-teach",
+    "citationKey": "borges-etal-2024-teach",
+    "title": "Let Me Teach You: Pedagogical Foundations of Feedback for Language Models",
+    "authors": "Borges, Beatriz and Tandon, Niket and Kaser, Tanja and Bosselut, Antoine",
+    "year": 2024,
+    "venue": "EMNLP:2024:main",
+    "url": "https://aclanthology.org/2024.emnlp-main.674/",
+    "doi": "10.18653/v1/2024.emnlp-main.674",
+    "source": {
+      "survey": "2026.eacl-long.350",
+      "figure": "Figure 1"
+    },
+    "connections": [
+      "pretraining-observational-learning-scaffolding-theory"
+    ]
+  },
+  {
+    "id": "bortoletto-etal-2024-limits",
+    "citationKey": "bortoletto-etal-2024-limits",
+    "title": "Limits of Theory of Mind Modelling in Dialogue-Based Collaborative Plan Acquisition",
+    "authors": "Bortoletto, Matteo and Ruhdorfer, Constantin and Abdessaied, Adnen and Shi, Lei and Bulling, Andreas",
+    "year": 2024,
+    "venue": "ACL:2024:long",
+    "url": "https://aclanthology.org/2024.acl-long.266/",
+    "doi": "10.18653/v1/2024.acl-long.266",
+    "source": {
+      "survey": "2026.eacl-long.350",
+      "figure": "Figure 1"
+    },
+    "connections": [
+      "evaluation-task-enhancement-theory-of-mind"
+    ]
+  },
+  {
+    "id": "buschoff2023acquisition",
+    "citationKey": "buschoff2023acquisition",
+    "title": "The acquisition of physical knowledge in generative neural networks",
+    "authors": "Schulze Buschoff, Luca M. and Schulz, Eric and Binz, Marcel",
+    "year": 2023,
+    "venue": "Proceedings of the 40th International Conference on Machine Learning",
+    "url": "https://scholar.google.com/scholar?q=The%20acquisition%20of%20physical%20knowledge%20in%20generative%20neural%20networks",
+    "doi": null,
+    "source": {
+      "survey": "2026.eacl-long.350",
+      "figure": "Figure 1"
+    },
+    "connections": [
+      "pretraining-observational-learning-cognitive-development"
+    ]
+  },
+  {
+    "id": "chaudhury-etal-2025-epman",
+    "citationKey": "chaudhury-etal-2025-epman",
+    "title": "EpMAN: Episodic Memory AttentioN for Generalizing to Longer Contexts",
+    "authors": "Chaudhury, Subhajit and Das, Payel and Swaminathan, Sarathkrishna and Kollias, Georgios and Nelson, Elliot and Pahwa, Khushbu and Pedapati, Tejaswini and Melnyk, Igor and Riemer, Matthew",
+    "year": 2025,
+    "venue": "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    "url": "https://aclanthology.org/2025.acl-long.574/",
+    "doi": null,
+    "source": {
+      "survey": "2026.eacl-long.350",
+      "figure": "Figure 1"
+    },
+    "connections": [
+      "posttraining-supervised-fine-tuning-memory"
+    ]
+  },
+  {
+    "id": "chen-etal-2024-dual",
+    "citationKey": "chen-etal-2024-dual",
+    "title": "DUAL-REFLECT: Enhancing Large Language Models for Reflective Translation through Dual Learning Feedback Mechanisms",
+    "authors": "Chen, Andong and Lou, Lianzhang and Chen, Kehai and Bai, Xuefeng and Xiang, Yang and Yang, Muyun and Zhao, Tiejun and Zhang, Min",
+    "year": 2024,
+    "venue": "ACL:2024:short",
+    "url": "https://aclanthology.org/2024.acl-short.64/",
+    "doi": "10.18653/v1/2024.acl-short.64",
+    "source": {
+      "survey": "2026.eacl-long.350",
+      "figure": "Figure 1"
+    },
+    "connections": [
+      "evaluation-task-enhancement-self-reflection"
+    ]
+  },
+  {
+    "id": "chen-etal-2024-temporal",
+    "citationKey": "chen-etal-2024-temporal",
+    "title": "Temporal Knowledge Question Answering via Abstract Reasoning Induction",
+    "authors": "Chen, Ziyang and Li, Dongfang and Zhao, Xiang and Hu, Baotian and Zhang, Min",
+    "year": 2024,
+    "venue": "ACL:2024:long",
+    "url": "https://aclanthology.org/2024.acl-long.267/",
+    "doi": "10.18653/v1/2024.acl-long.267",
+    "source": {
+      "survey": "2026.eacl-long.350",
+      "figure": "Figure 1"
+    },
+    "connections": [
+      "pretraining-observational-learning-cognitive-development"
+    ]
+  },
+  {
+    "id": "chen-etal-2024-tombench",
+    "citationKey": "chen-etal-2024-tombench",
+    "title": "ToMBench: Benchmarking Theory of Mind in Large Language Models",
+    "authors": "Chen, Zhuang and Wu, Jincenzi and Zhou, Jinfeng and Wen, Bosi and Bi, Guanqun and Jiang, Gongyao and Cao, Yaru and Hu, Mengting and Lai, Yunghwei and Xiong, Zexuan and Huang, Minlie",
+    "year": 2024,
+    "venue": "ACL:2024:long",
+    "url": "https://aclanthology.org/2024.acl-long.847/",
+    "doi": "10.18653/v1/2024.acl-long.847",
+    "source": {
+      "survey": "2026.eacl-long.350",
+      "figure": "Figure 1"
+    },
+    "connections": [
+      "evaluation-capability-assessment-theory-of-mind"
+    ]
+  },
+  {
+    "id": "chen-etal-2025-improving",
+    "citationKey": "chen-etal-2025-improving",
+    "title": "Improving Factuality with Explicit Working Memory",
+    "authors": "Chen, Mingda and Li, Yang and Padthe, Karthik and Shao, Rulin and Sun, Alicia Yi and Zettlemoyer, Luke and Ghosh, Gargi and Yih, Wen-tau",
+    "year": 2025,
+    "venue": "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    "url": "https://aclanthology.org/2025.acl-long.548/",
+    "doi": null,
+    "source": {
+      "survey": "2026.eacl-long.350",
+      "figure": "Figure 1"
+    },
+    "connections": [
+      "evaluation-task-enhancement-memory"
+    ]
+  },
+  {
+    "id": "chen2025synthempathyscalableempathycorpus",
+    "citationKey": "chen2025synthempathyscalableempathycorpus",
+    "title": "SYNTHEMPATHY: A Scalable Empathy Corpus Generated Using LLMs Without Any Crowdsourcing",
+    "authors": "Run Chen and Jun Shin and Julia Hirschberg",
+    "year": 2025,
+    "venue": "",
+    "url": "https://arxiv.org/abs/2502.17857",
+    "doi": null,
+    "source": {
+      "survey": "2026.eacl-long.350",
+      "figure": "Figure 1"
+    },
+    "connections": [
+      "evaluation-task-enhancement-big-five-personality-traits"
+    ]
+  },
+  {
+    "id": "cheng-etal-2025-dualrag",
+    "citationKey": "cheng-etal-2025-dualrag",
+    "title": "DualRAG: A Dual-Process Approach to Integrate Reasoning and Retrieval for Multi-Hop Question Answering",
+    "authors": "Cheng, Rong and Liu, Jinyi and Zheng, Yan and Ni, Fei and Du, Jiazhen and Mao, Hangyu and Zhang, Fuzheng and Wang, Bo and Hao, Jianye",
+    "year": 2025,
+    "venue": "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    "url": "https://aclanthology.org/2025.acl-long.1539/",
+    "doi": null,
+    "source": {
+      "survey": "2026.eacl-long.350",
+      "figure": "Figure 1"
+    },
+    "connections": [
+      "evaluation-task-enhancement-dual-process"
+    ]
+  },
+  {
+    "id": "cheng-etal-2025-think",
+    "citationKey": "cheng-etal-2025-think",
+    "title": "Think More, Hallucinate Less: Mitigating Hallucinations via Dual Process of Fast and Slow Thinking",
+    "authors": "Cheng, Xiaoxue and Li, Junyi and Zhao, Xin and Wen, Ji-Rong",
+    "year": 2025,
+    "venue": "Findings of the Association for Computational Linguistics: ACL 2025",
+    "url": "https://aclanthology.org/2025.findings-acl.417/",
+    "doi": null,
+    "source": {
+      "survey": "2026.eacl-long.350",
+      "figure": "Figure 1"
+    },
+    "connections": [
+      "evaluation-task-enhancement-dual-process"
+    ]
+  },
+  {
+    "id": "cheng2025incentivizing",
+    "citationKey": "cheng2025incentivizing",
+    "title": "Incentivizing Dual Process Thinking for Efficient Large Language Model Reasoning",
+    "authors": "Xiaoxue Cheng and Junyi Li and Zhenduo Zhang and Xinyu Tang and Xin Zhao and XinYu KONG and Zhiqiang Zhang",
+    "year": 2025,
+    "venue": "The Thirty-ninth Annual Conference on Neural Information Processing Systems",
+    "url": "https://openreview.net/forum?id=ezOfR26pGQ",
+    "doi": null,
+    "source": {
+      "survey": "2026.eacl-long.350",
+      "figure": "Figure 1"
+    },
+    "connections": [
+      "evaluation-task-enhancement-dual-process"
+    ]
+  },
+  {
+    "id": "chi-etal-2023-transformer",
+    "citationKey": "chi-etal-2023-transformer",
+    "title": "Transformer Working Memory Enables Regular Language Reasoning And Natural Language Length Extrapolation",
+    "authors": "Chi, Ta-Chung and Fan, Ting-Han and Rudnicky, Alexander and Ramadge, Peter",
+    "year": 2023,
+    "venue": "FINDINGS:2023:emnlp",
+    "url": "https://aclanthology.org/2023.findings-emnlp.397/",
+    "doi": "10.18653/v1/2023.findings-emnlp.397",
+    "source": {
+      "survey": "2026.eacl-long.350",
+      "figure": "Figure 1"
+    },
+    "connections": [
+      "evaluation-task-enhancement-memory"
+    ]
+  },
+  {
+    "id": "choi-etal-2025-empirical",
+    "citationKey": "choi-etal-2025-empirical",
+    "title": "An Empirical Study of Group Conformity in Multi-Agent Systems",
+    "authors": "Choi, Min and Kim, Keonwoo and Chae, Sungwon and Baek, Sangyeop",
+    "year": 2025,
+    "venue": "Findings of the Association for Computational Linguistics: ACL 2025",
+    "url": "https://aclanthology.org/2025.findings-acl.265/",
+    "doi": null,
+    "source": {
+      "survey": "2026.eacl-long.350",
+      "figure": "Figure 1"
+    },
+    "connections": [
+      "evaluation-capability-assessment-conformity-theories"
+    ]
+  },
+  {
+    "id": "dan-etal-2025-p",
+    "citationKey": "dan-etal-2025-p",
+    "title": "P-React: Synthesizing Topic-Adaptive Reactions of Personality Traits via Mixture of Specialized LoRA Experts",
+    "authors": "Dan, Yuhao and Zhou, Jie and Chen, Qin and Tian, Junfeng and He, Liang",
+    "year": 2025,
+    "venue": "Findings of the Association for Computational Linguistics: ACL 2025",
+    "url": "https://aclanthology.org/2025.findings-acl.328/",
+    "doi": null,
+    "source": {
+      "survey": "2026.eacl-long.350",
+      "figure": "Figure 1"
+    },
+    "connections": [
+      "evaluation-capability-assessment-big-five-personality-traits",
+      "evaluation-task-enhancement-big-five-personality-traits"
+    ]
+  },
+  {
+    "id": "diao-etal-2025-temporal",
+    "citationKey": "diao-etal-2025-temporal",
+    "title": "Temporal Working Memory: Query-Guided Segment Refinement for Enhanced Multimodal Understanding",
+    "authors": "Diao, Xingjian and Zhang, Chunhui and Wu, Weiyi and Ouyang, Zhongyu and Qing, Peijun and Cheng, Ming and Vosoughi, Soroush and Gui, Jiang",
+    "year": 2025,
+    "venue": "Findings of the Association for Computational Linguistics: NAACL 2025",
+    "url": "https://aclanthology.org/2025.findings-naacl.189/",
+    "doi": "10.18653/v1/2025.findings-naacl.189",
+    "source": {
+      "survey": "2026.eacl-long.350",
+      "figure": "Figure 1"
+    },
+    "connections": [
+      "evaluation-task-enhancement-memory"
+    ]
+  },
+  {
+    "id": "dong2024persona",
+    "citationKey": "dong2024persona",
+    "title": "Persona Setting Pitfall: Persistent Outgroup Biases in Large Language Models Arising from Social Identity Adoption",
+    "authors": "Dong, Wenchao and Zhunis, Assem and Jeong, Dongyoung and Chin, Hyojin and Han, Jiyoung and Cha, Meeyoung",
+    "year": 2024,
+    "venue": "arXiv preprint arXiv:2409.03843",
+    "url": "https://scholar.google.com/scholar?q=Persona%20Setting%20Pitfall%3A%20Persistent%20Outgroup%20Biases%20in%20Large%20Language%20Models%20Arising%20from%20Social%20Identity%20Adoption",
+    "doi": null,
+    "source": {
+      "survey": "2026.eacl-long.350",
+      "figure": "Figure 1"
+    },
+    "connections": [
+      "evaluation-capability-assessment-social-identity-theory"
+    ]
+  },
+  {
+    "id": "dou-etal-2024-rest",
+    "citationKey": "dou-etal-2024-rest",
+    "title": "Re-ReST: Reflection-Reinforced Self-Training for Language Agents",
+    "authors": "Dou, Zi-Yi and Yang, Cheng-Fu and Wu, Xueqing and Chang, Kai-Wei and Peng, Nanyun",
+    "year": 2024,
+    "venue": "EMNLP:2024:main",
+    "url": "https://aclanthology.org/2024.emnlp-main.861/",
+    "doi": "10.18653/v1/2024.emnlp-main.861",
+    "source": {
+      "survey": "2026.eacl-long.350",
+      "figure": "Figure 1"
+    },
+    "connections": [
+      "evaluation-task-enhancement-self-reflection"
+    ]
+  },
+  {
+    "id": "fang2025hippocampallike",
+    "citationKey": "fang2025hippocampallike",
+    "title": "Hippocampal-like Sequential Editing for Continual Knowledge Updates in Large Language Models",
+    "authors": "Quntian Fang and Zhen Huang and Zhiliang Tian and Minghao Hu and Dongsheng Li and Yiping Yao and Xinyue Fang and Menglong Lu and Guotong Geng",
+    "year": 2025,
+    "venue": "The Thirty-ninth Annual Conference on Neural Information Processing Systems",
+    "url": "https://openreview.net/forum?id=tqriGodQ79",
+    "doi": null,
+    "source": {
+      "survey": "2026.eacl-long.350",
+      "figure": "Figure 1"
+    },
+    "connections": [
+      "evaluation-task-enhancement-memory"
+    ]
+  },
+  {
+    "id": "feng-etal-2024-child",
+    "citationKey": "feng-etal-2024-child",
+    "title": "Is Child-Directed Speech Effective Training Data for Language Models?",
+    "authors": "Feng, Steven Y. and Goodman, Noah and Frank, Michael",
+    "year": 2024,
+    "venue": "EMNLP:2024:main",
+    "url": "https://aclanthology.org/2024.emnlp-main.1231/",
+    "doi": "10.18653/v1/2024.emnlp-main.1231",
+    "source": {
+      "survey": "2026.eacl-long.350",
+      "figure": "Figure 1"
+    },
+    "connections": [
+      "preprocessing-data-collection-ecological-validity"
+    ]
+  },
+  {
+    "id": "frisch-giulianelli-2024-llm",
+    "citationKey": "frisch-giulianelli-2024-llm",
+    "title": "LLM Agents in Interaction: Measuring Personality Consistency and Linguistic Alignment in Interacting Populations of Large Language Models",
+    "authors": "Frisch, Ivar and Giulianelli, Mario",
+    "year": 2024,
+    "venue": "PERSONALIZE:2024:1",
+    "url": "https://aclanthology.org/2024.personalize-1.9/",
+    "doi": null,
+    "source": {
+      "survey": "2026.eacl-long.350",
+      "figure": "Figure 1"
+    },
+    "connections": [
+      "evaluation-capability-assessment-big-five-personality-traits"
+    ]
+  },
+  {
+    "id": "fu-etal-2025-exclusion",
+    "citationKey": "fu-etal-2025-exclusion",
+    "title": "Exclusion of Thought: Mitigating Cognitive Load in Large Language Models for Enhanced Reasoning in Multiple-Choice Tasks",
+    "authors": "Fu, Qihang and Qin, Yongbin and Huang, Ruizhang and Chen, Yanping and Zhou, Yulin and Long, Lintao",
+    "year": 2025,
+    "venue": "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    "url": "https://aclanthology.org/2025.acl-long.1051/",
+    "doi": null,
+    "source": {
+      "survey": "2026.eacl-long.350",
+      "figure": "Figure 1"
+    },
+    "connections": [
+      "evaluation-capability-assessment-memory"
+    ]
+  },
+  {
+    "id": "furumai-etal-2024-zero",
+    "citationKey": "furumai-etal-2024-zero",
+    "title": "Zero-shot Persuasive Chatbots with LLM-Generated Strategies and Information Retrieval",
+    "authors": "Furumai, Kazuaki and Legaspi, Roberto and Romero, Julio Cesar Vizcarra and Yamazaki, Yudai and Nishimura, Yasutaka and Semnani, Sina and Ikeda, Kazushi and Shi, Weiyan and Lam, Monica",
+    "year": 2024,
+    "venue": "FINDINGS:2024:emnlp",
+    "url": "https://aclanthology.org/2024.findings-emnlp.656/",
+    "doi": "10.18653/v1/2024.findings-emnlp.656",
+    "source": {
+      "survey": "2026.eacl-long.350",
+      "figure": "Figure 1"
+    },
+    "connections": [
+      "evaluation-collaborative-multi-agent-persuasion-models"
+    ]
+  },
+  {
+    "id": "gollapalli-ng-2025-pirsuader",
+    "citationKey": "gollapalli-ng-2025-pirsuader",
+    "title": "PIRsuader: A Persuasive Chatbot for Mitigating Psychological Insulin Resistance in Type-2 Diabetic Patients",
+    "authors": "Gollapalli, Sujatha Das and Ng, See-Kiong",
+    "year": 2025,
+    "venue": "COLING:2025:main",
+    "url": "https://aclanthology.org/2025.coling-main.401/",
+    "doi": null,
+    "source": {
+      "survey": "2026.eacl-long.350",
+      "figure": "Figure 1"
+    },
+    "connections": [
+      "evaluation-collaborative-multi-agent-persuasion-models"
+    ]
+  },
+  {
+    "id": "gubelmann-2024-pragmatic",
+    "citationKey": "gubelmann-2024-pragmatic",
+    "title": "Pragmatic Norms Are All You Need – Why The Symbol Grounding Problem Does Not Apply to LLMs",
+    "authors": "Gubelmann, Reto",
+    "year": 2024,
+    "venue": "EMNLP:2024:main",
+    "url": "https://aclanthology.org/2024.emnlp-main.651/",
+    "doi": "10.18653/v1/2024.emnlp-main.651",
+    "source": {
+      "survey": "2026.eacl-long.350",
+      "figure": "Figure 1"
+    },
+    "connections": [
+      "evaluation-capability-assessment-conversational-implicature"
+    ]
+  },
+  {
+    "id": "han-etal-2024-psydial",
+    "citationKey": "han-etal-2024-psydial",
+    "title": "PSYDIAL: Personality-based Synthetic Dialogue Generation Using Large Language Models",
+    "authors": "Han, Ji-Eun and Koh, Jun-Seok and Seo, Hyeon-Tae and Chang, Du-Seong and Sohn, Kyung-Ah",
+    "year": 2024,
+    "venue": "LREC:2024:main",
+    "url": "https://aclanthology.org/2024.lrec-main.1166/",
+    "doi": null,
+    "source": {
+      "survey": "2026.eacl-long.350",
+      "figure": "Figure 1"
+    },
+    "connections": [
+      "evaluation-collaborative-multi-agent-big-five-personality-traits"
+    ]
+  },
+  {
+    "id": "hu-etal-2025-debate",
+    "citationKey": "hu-etal-2025-debate",
+    "title": "Debate-to-Write: A Persona-Driven Multi-Agent Framework for Diverse Argument Generation",
+    "authors": "Hu, Zhe and Chan, Hou Pong and Li, Jing and Yin, Yu",
+    "year": 2025,
+    "venue": "COLING:2025:main",
+    "url": "https://aclanthology.org/2025.coling-main.314/",
+    "doi": null,
+    "source": {
+      "survey": "2026.eacl-long.350",
+      "figure": "Figure 1"
+    },
+    "connections": [
+      "evaluation-collaborative-multi-agent-persuasion-models"
+    ]
+  },
+  {
+    "id": "hu-etal-2025-stitchllm",
+    "citationKey": "hu-etal-2025-stitchllm",
+    "title": "StitchLLM: Serving LLMs, One Block at a Time",
+    "authors": "Hu, Bodun and Li, Shuozhe and Agarwal, Saurabh and Lee, Myungjin and Jajoo, Akshay and Li, Jiamin and Xu, Le and Kim, Geon-Woo and Kim, Donghyun and Xu, Hong and Zhang, Amy and Akella, Aditya",
+    "year": 2025,
+    "venue": "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    "url": "https://aclanthology.org/2025.acl-long.1305/",
+    "doi": null,
+    "source": {
+      "survey": "2026.eacl-long.350",
+      "figure": "Figure 1"
+    },
+    "connections": [
+      "evaluation-task-enhancement-dual-process"
+    ]
+  },
+  {
+    "id": "hu2025generative",
+    "citationKey": "hu2025generative",
+    "title": "Generative language models exhibit social identity biases",
+    "authors": "Hu, Tiancheng and Kyrychenko, Yara and Rathje, Steve and Collier, Nigel and van der Linden, Sander and Roozenbeek, Jon",
+    "year": 2025,
+    "venue": "Nature Computational Science",
+    "url": "https://scholar.google.com/scholar?q=Generative%20language%20models%20exhibit%20social%20identity%20biases",
+    "doi": null,
+    "source": {
+      "survey": "2026.eacl-long.350",
+      "figure": "Figure 1"
+    },
+    "connections": [
+      "evaluation-capability-assessment-social-identity-theory"
+    ]
+  },
+  {
+    "id": "huang-hadfi-2024-personality",
+    "citationKey": "huang-hadfi-2024-personality",
+    "title": "How Personality Traits Influence Negotiation Outcomes? A Simulation based on Large Language Models",
+    "authors": "Huang, Yin Jou and Hadfi, Rafik",
+    "year": 2024,
+    "venue": "FINDINGS:2024:emnlp",
+    "url": "https://aclanthology.org/2024.findings-emnlp.605/",
+    "doi": "10.18653/v1/2024.findings-emnlp.605",
+    "source": {
+      "survey": "2026.eacl-long.350",
+      "figure": "Figure 1"
+    },
+    "connections": [
+      "evaluation-task-enhancement-big-five-personality-traits",
+      "evaluation-collaborative-multi-agent-persuasion-models"
+    ]
+  },
+  {
+    "id": "hwang-etal-2025-trick",
+    "citationKey": "hwang-etal-2025-trick",
+    "title": "Can You Trick the Grader? Adversarial Persuasion of LLM Judges",
+    "authors": "Hwang, Yerin and Lee, Dongryeol and Kang, Taegwan and Kim, Yongil and Jung, Kyomin",
+    "year": 2025,
+    "venue": "Findings of the Association for Computational Linguistics: EMNLP 2025",
+    "url": "https://aclanthology.org/2025.findings-emnlp.790/",
+    "doi": "10.18653/v1/2025.findings-emnlp.790",
+    "source": {
+      "survey": "2026.eacl-long.350",
+      "figure": "Figure 1"
+    },
+    "connections": [
+      "evaluation-collaborative-multi-agent-persuasion-models"
+    ]
+  },
+  {
+    "id": "jagadish2024injecting",
+    "citationKey": "jagadish2024injecting",
+    "title": "Human-like category learning by injecting ecological priors from large language models into neural networks",
+    "authors": "Jagadish, Akshay K. and Coda-Forno, Julian and Thalmann, Mirko and Schulz, Eric and Binz, Marcel",
+    "year": 2024,
+    "venue": "Proceedings of the 41st International Conference on Machine Learning",
+    "url": "https://scholar.google.com/scholar?q=Human-like%20category%20learning%20by%20injecting%20ecological%20priors%20from%20large%20language%20models%20into%20neural%20networks",
+    "doi": null,
+    "source": {
+      "survey": "2026.eacl-long.350",
+      "figure": "Figure 1"
+    },
+    "connections": [
+      "preprocessing-data-collection-ecological-validity"
+    ]
+  },
+  {
+    "id": "ji-an2025language",
+    "citationKey": "ji-an2025language",
+    "title": "Language Models Are Capable of Metacognitive Monitoring and Control of Their Internal Activations",
+    "authors": "Li Ji-An and Hua-Dong Xiong and Robert Wilson and Marcelo G Mattar and Marcus K. Benna",
+    "year": 2025,
+    "venue": "The Thirty-ninth Annual Conference on Neural Information Processing Systems",
+    "url": "https://openreview.net/forum?id=qTXlFwlggv",
+    "doi": null,
+    "source": {
+      "survey": "2026.eacl-long.350",
+      "figure": "Figure 1"
+    },
+    "connections": [
+      "evaluation-task-enhancement-self-reflection"
+    ]
+  },
+  {
+    "id": "ji-etal-2023-towards",
+    "citationKey": "ji-etal-2023-towards",
+    "title": "Towards Mitigating LLM Hallucination via Self Reflection",
+    "authors": "Ji, Ziwei and Yu, Tiezheng and Xu, Yan and Lee, Nayeon and Ishii, Etsuko and Fung, Pascale",
+    "year": 2023,
+    "venue": "FINDINGS:2023:emnlp",
+    "url": "https://aclanthology.org/2023.findings-emnlp.123/",
+    "doi": "10.18653/v1/2023.findings-emnlp.123",
+    "source": {
+      "survey": "2026.eacl-long.350",
+      "figure": "Figure 1"
+    },
+    "connections": [
+      "evaluation-task-enhancement-self-reflection"
+    ]
+  },
+  {
+    "id": "jiang-etal-2024-personallm",
+    "citationKey": "jiang-etal-2024-personallm",
+    "title": "PersonaLLM: Investigating the Ability of Large Language Models to Express Personality Traits",
+    "authors": "Jiang, Hang and Zhang, Xiajie and Cao, Xubo and Breazeal, Cynthia and Roy, Deb and Kabbara, Jad",
+    "year": 2024,
+    "venue": "FINDINGS:2024:naacl",
+    "url": "https://aclanthology.org/2024.findings-naacl.229/",
+    "doi": "10.18653/v1/2024.findings-naacl.229",
+    "source": {
+      "survey": "2026.eacl-long.350",
+      "figure": "Figure 1"
+    },
+    "connections": [
+      "evaluation-task-enhancement-big-five-personality-traits"
+    ]
+  },
+  {
+    "id": "jin-etal-2024-agentreview",
+    "citationKey": "jin-etal-2024-agentreview",
+    "title": "AgentReview: Exploring Peer Review Dynamics with LLM Agents",
+    "authors": "Jin, Yiqiao and Zhao, Qinlin and Wang, Yiyang and Chen, Hao and Zhu, Kaijie and Xiao, Yijia and Wang, Jindong",
+    "year": 2024,
+    "venue": "EMNLP:2024:main",
+    "url": "https://aclanthology.org/2024.emnlp-main.70/",
+    "doi": "10.18653/v1/2024.emnlp-main.70",
+    "source": {
+      "survey": "2026.eacl-long.350",
+      "figure": "Figure 1"
+    },
+    "connections": [
+      "evaluation-capability-assessment-conformity-theories"
+    ]
+  },
+  {
+    "id": "jin-etal-2024-persuading",
+    "citationKey": "jin-etal-2024-persuading",
+    "title": "Persuading across Diverse Domains: a Dataset and Persuasion Large Language Model",
+    "authors": "Jin, Chuhao and Ren, Kening and Kong, Lingzhen and Wang, Xiting and Song, Ruihua and Chen, Huan",
+    "year": 2024,
+    "venue": "ACL:2024:long",
+    "url": "https://aclanthology.org/2024.acl-long.92/",
+    "doi": "10.18653/v1/2024.acl-long.92",
+    "source": {
+      "survey": "2026.eacl-long.350",
+      "figure": "Figure 1"
+    },
+    "connections": [
+      "evaluation-collaborative-multi-agent-persuasion-models"
+    ]
+  },
+  {
+    "id": "joshi-etal-2025-improving",
+    "citationKey": "joshi-etal-2025-improving",
+    "title": "Improving Language Model Personas via Rationalization with Psychological Scaffolds",
+    "authors": "Joshi, Brihi and Ren, Xiang and Swayamdipta, Swabha and Koncel-Kedziorski, Rik and Paek, Tim",
+    "year": 2025,
+    "venue": "Findings of the Association for Computational Linguistics: EMNLP 2025",
+    "url": "https://aclanthology.org/2025.findings-emnlp.1187/",
+    "doi": "10.18653/v1/2025.findings-emnlp.1187",
+    "source": {
+      "survey": "2026.eacl-long.350",
+      "figure": "Figure 1"
+    },
+    "connections": [
+      "evaluation-task-enhancement-big-five-personality-traits"
+    ]
+  },
+  {
+    "id": "jung-etal-2024-perceptions",
+    "citationKey": "jung-etal-2024-perceptions",
+    "title": "Perceptions to Beliefs: Exploring Precursory Inferences for Theory of Mind in Large Language Models",
+    "authors": "Jung, Chani and Kim, Dongkwan and Jin, Jiho and Kim, Jiseon and Seonwoo, Yeon and Choi, Yejin and Oh, Alice and Kim, Hyunwoo",
+    "year": 2024,
+    "venue": "EMNLP:2024:main",
+    "url": "https://aclanthology.org/2024.emnlp-main.1105/",
+    "doi": "10.18653/v1/2024.emnlp-main.1105",
+    "source": {
+      "survey": "2026.eacl-long.350",
+      "figure": "Figure 1"
+    },
+    "connections": [
+      "evaluation-capability-assessment-theory-of-mind",
+      "evaluation-collaborative-multi-agent-theory-of-mind"
+    ]
+  },
+  {
+    "id": "kang2024think",
+    "citationKey": "kang2024think",
+    "title": "Think Before You Act: Decision Transformers with Working Memory",
+    "authors": "Kang, Jikun and Laroche, Romain and Yuan, Xingdi and Trischler, Adam and Liu, Xue and Fu, Jie",
+    "year": 2024,
+    "venue": "Proceedings of the 41st International Conference on Machine Learning",
+    "url": "https://proceedings.mlr.press/v235/kang24b.html",
+    "doi": null,
+    "source": {
+      "survey": "2026.eacl-long.350",
+      "figure": "Figure 1"
+    },
+    "connections": [
+      "posttraining-supervised-fine-tuning-memory"
+    ]
+  },
+  {
+    "id": "kassner-etal-2023-language",
+    "citationKey": "kassner-etal-2023-language",
+    "title": "Language Models with Rationality",
+    "authors": "Kassner, Nora and Tafjord, Oyvind and Sabharwal, Ashish and Richardson, Kyle and Schuetze, Hinrich and Clark, Peter",
+    "year": 2023,
+    "venue": "EMNLP:2023:main",
+    "url": "https://aclanthology.org/2023.emnlp-main.877/",
+    "doi": "10.18653/v1/2023.emnlp-main.877",
+    "source": {
+      "survey": "2026.eacl-long.350",
+      "figure": "Figure 1"
+    },
+    "connections": [
+      "evaluation-task-enhancement-self-reflection"
+    ]
+  },
+  {
+    "id": "kibria-etal-2024-functional",
+    "citationKey": "kibria-etal-2024-functional",
+    "title": "On Functional Competence of LLMs for Linguistic Disambiguation",
+    "authors": "Kibria, Raihan and Dipta, Sheikh Intiser Uddin and Adnan, Muhammad Abdullah",
+    "year": 2024,
+    "venue": "CONLL:2024:1",
+    "url": "https://aclanthology.org/2024.conll-1.12/",
+    "doi": "10.18653/v1/2024.conll-1.12",
+    "source": {
+      "survey": "2026.eacl-long.350",
+      "figure": "Figure 1"
+    },
+    "connections": [
+      "evaluation-capability-assessment-conversational-implicature"
+    ]
+  },
+  {
+    "id": "kim-etal-2023-fantom",
+    "citationKey": "kim-etal-2023-fantom",
+    "title": "FANToM: A Benchmark for Stress-testing Machine Theory of Mind in Interactions",
+    "authors": "Kim, Hyunwoo and Sclar, Melanie and Zhou, Xuhui and Bras, Ronan and Kim, Gunhee and Choi, Yejin and Sap, Maarten",
+    "year": 2023,
+    "venue": "EMNLP:2023:main",
+    "url": "https://aclanthology.org/2023.emnlp-main.890/",
+    "doi": "10.18653/v1/2023.emnlp-main.890",
+    "source": {
+      "survey": "2026.eacl-long.350",
+      "figure": "Figure 1"
+    },
+    "connections": [
+      "evaluation-capability-assessment-theory-of-mind"
+    ]
+  },
+  {
+    "id": "lambert2023historyrisksreinforcementlearning",
+    "citationKey": "lambert2023historyrisksreinforcementlearning",
+    "title": "The History and Risks of Reinforcement Learning and Human Feedback",
+    "authors": "Nathan Lambert and Thomas Krendl Gilbert and Tom Zick",
+    "year": 2023,
+    "venue": "",
+    "url": "https://arxiv.org/abs/2310.13595",
+    "doi": null,
+    "source": {
+      "survey": "2026.eacl-long.350",
+      "figure": "Figure 1"
+    },
+    "connections": [
+      "posttraining-rlhf-thorndikes-law-of-effect"
+    ]
+  },
+  {
+    "id": "laverghetta-jr-licato-2022-developmental",
+    "citationKey": "laverghetta-jr-licato-2022-developmental",
+    "title": "Developmental Negation Processing in Transformer Language Models",
+    "authors": "Laverghetta Jr., Antonio and Licato, John",
+    "year": 2022,
+    "venue": "ACL:2022:short",
+    "url": "https://aclanthology.org/2022.acl-short.60/",
+    "doi": "10.18653/v1/2022.acl-short.60",
+    "source": {
+      "survey": "2026.eacl-long.350",
+      "figure": "Figure 1"
+    },
+    "connections": [
+      "evaluation-capability-assessment-cognitive-maturity"
+    ]
+  },
+  {
+    "id": "lee-etal-2025-llms",
+    "citationKey": "lee-etal-2025-llms",
+    "title": "Do LLMs Have Distinct and Consistent Personality? TRAIT: Personality Testset designed for LLMs with Psychometrics",
+    "authors": "Lee, Seungbeen and Lim, Seungwon and Han, Seungju and Oh, Giyeong and Chae, Hyungjoo and Chung, Jiwan and Kim, Minju and Kwak, Beong-woo and Lee, Yeonsoo and Lee, Dongha and Yeo, Jinyoung and Yu, Youngjae",
+    "year": 2025,
+    "venue": "Findings of the Association for Computational Linguistics: NAACL 2025",
+    "url": "https://aclanthology.org/2025.findings-naacl.469/",
+    "doi": "10.18653/v1/2025.findings-naacl.469",
+    "source": {
+      "survey": "2026.eacl-long.350",
+      "figure": "Figure 1"
+    },
+    "connections": [
+      "evaluation-capability-assessment-big-five-personality-traits",
+      "evaluation-task-enhancement-big-five-personality-traits"
+    ]
+  },
+  {
+    "id": "li-etal-2023-large",
+    "citationKey": "li-etal-2023-large",
+    "title": "Large Language Models with Controllable Working Memory",
+    "authors": "Li, Daliang and Rawat, Ankit Singh and Zaheer, Manzil and Wang, Xin and Lukasik, Michal and Veit, Andreas and Yu, Felix and Kumar, Sanjiv",
+    "year": 2023,
+    "venue": "FINDINGS:2023:acl",
+    "url": "https://aclanthology.org/2023.findings-acl.112/",
+    "doi": "10.18653/v1/2023.findings-acl.112",
+    "source": {
+      "survey": "2026.eacl-long.350",
+      "figure": "Figure 1"
+    },
+    "connections": [
+      "posttraining-supervised-fine-tuning-memory",
+      "evaluation-capability-assessment-memory"
+    ]
+  },
+  {
+    "id": "li-etal-2024-hindsight",
+    "citationKey": "li-etal-2024-hindsight",
+    "title": "When Hindsight is Not 20/20: Testing Limits on Reflective Thinking in Large Language Models",
+    "authors": "Li, Yanhong and Yang, Chenghao and Ettinger, Allyson",
+    "year": 2024,
+    "venue": "FINDINGS:2024:naacl",
+    "url": "https://aclanthology.org/2024.findings-naacl.237/",
+    "doi": "10.18653/v1/2024.findings-naacl.237",
+    "source": {
+      "survey": "2026.eacl-long.350",
+      "figure": "Figure 1"
+    },
+    "connections": [
+      "evaluation-task-enhancement-self-reflection"
+    ]
+  },
+  {
+    "id": "li-etal-2025-adaptive",
+    "citationKey": "li-etal-2025-adaptive",
+    "title": "Adaptive Tool Use in Large Language Models with Meta-Cognition Trigger",
+    "authors": "Li, Wenjun and Li, Dexun and Dong, Kuicai and Zhang, Cong and Zhang, Hao and Liu, Weiwen and Wang, Yasheng and Tang, Ruiming and Liu, Yong",
+    "year": 2025,
+    "venue": "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    "url": "https://aclanthology.org/2025.acl-long.655/",
+    "doi": null,
+    "source": {
+      "survey": "2026.eacl-long.350",
+      "figure": "Figure 1"
+    },
+    "connections": [
+      "evaluation-task-enhancement-self-reflection"
+    ]
+  },
+  {
+    "id": "li-etal-2025-big5",
+    "citationKey": "li-etal-2025-big5",
+    "title": "BIG5-CHAT: Shaping LLM Personalities Through Training on Human-Grounded Data",
+    "authors": "Li, Wenkai and Liu, Jiarui and Liu, Andy and Zhou, Xuhui and Diab, Mona T. and Sap, Maarten",
+    "year": 2025,
+    "venue": "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    "url": "https://aclanthology.org/2025.acl-long.999/",
+    "doi": null,
+    "source": {
+      "survey": "2026.eacl-long.350",
+      "figure": "Figure 1"
+    },
+    "connections": [
+      "evaluation-capability-assessment-big-five-personality-traits"
+    ]
+  },
+  {
+    "id": "li2025cam",
+    "citationKey": "li2025cam",
+    "title": "CAM: A Constructivist View of Agentic Memory for LLM-Based Reading Comprehension",
+    "authors": "Rui Li and Zeyu Zhang and Xiaohe Bo and Zihang Tian and Xu Chen and Quanyu Dai and Zhenhua Dong and Ruiming Tang",
+    "year": 2025,
+    "venue": "The Thirty-ninth Annual Conference on Neural Information Processing Systems",
+    "url": "https://openreview.net/forum?id=ACSOnSHiWe",
+    "doi": null,
+    "source": {
+      "survey": "2026.eacl-long.350",
+      "figure": "Figure 1"
+    },
+    "connections": [
+      "evaluation-task-enhancement-perception-and-attention"
+    ]
+  },
+  {
+    "id": "lica2025mindforge",
+    "citationKey": "lica2025mindforge",
+    "title": "MindForge: Empowering Embodied Agents with Theory of Mind for Lifelong Cultural Learning",
+    "authors": "Mircea Tudor Lic and Ojas Shirekar and Baptiste Colle and Chirag Raman",
+    "year": 2025,
+    "venue": "The Thirty-ninth Annual Conference on Neural Information Processing Systems",
+    "url": "https://openreview.net/forum?id=u7jtLj46i9",
+    "doi": null,
+    "source": {
+      "survey": "2026.eacl-long.350",
+      "figure": "Figure 1"
+    },
+    "connections": [
+      "evaluation-collaborative-multi-agent-theory-of-mind"
+    ]
+  },
+  {
+    "id": "liu-etal-2025-synthetic",
+    "citationKey": "liu-etal-2025-synthetic",
+    "title": "Synthetic Socratic Debates: Examining Persona Effects on Moral Decision and Persuasion Dynamics",
+    "authors": "Liu, Jiarui and Song, Yueqi and Xiao, Yunze and Zheng, Mingqian and Tjuatja, Lindia and Schaich Borg, Jana and Diab, Mona T. and Sap, Maarten",
+    "year": 2025,
+    "venue": "Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing",
+    "url": "https://aclanthology.org/2025.emnlp-main.831/",
+    "doi": "10.18653/v1/2025.emnlp-main.831",
+    "source": {
+      "survey": "2026.eacl-long.350",
+      "figure": "Figure 1"
+    },
+    "connections": [
+      "evaluation-collaborative-multi-agent-persuasion-models"
+    ]
+  },
+  {
+    "id": "liu-etal-2025-tactfultom",
+    "citationKey": "liu-etal-2025-tactfultom",
+    "title": "TactfulToM: Do LLMs have the Theory of Mind ability to understand White Lies?",
+    "authors": "Liu, Yiwei and Pretty, Emma Jane and Huang, Jiahao and Sugawara, Saku",
+    "year": 2025,
+    "venue": "Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing",
+    "url": "https://aclanthology.org/2025.emnlp-main.1272/",
+    "doi": "10.18653/v1/2025.emnlp-main.1272",
+    "source": {
+      "survey": "2026.eacl-long.350",
+      "figure": "Figure 1"
+    },
+    "connections": [
+      "evaluation-capability-assessment-theory-of-mind"
+    ]
+  },
+  {
+    "id": "liu2024zhoblimpsystematicassessmentlanguage",
+    "citationKey": "liu2024zhoblimpsystematicassessmentlanguage",
+    "title": "ZhoBLiMP: a Systematic Assessment of Language Models with Linguistic Minimal Pairs in Chinese",
+    "authors": "Yikang Liu and Yeting Shen and Hongao Zhu and Lilong Xu and Zhiheng Qian and Siyuan Song and Kejia Zhang and Jialong Tang and Pei Zhang and Baosong Yang and Rui Wang and Hai Hu",
+    "year": 2024,
+    "venue": "",
+    "url": "https://arxiv.org/abs/2411.06096",
+    "doi": null,
+    "source": {
+      "survey": "2026.eacl-long.350",
+      "figure": "Figure 1"
+    },
+    "connections": [
+      "evaluation-capability-assessment-poverty-of-the-stimulus"
+    ]
+  },
+  {
+    "id": "lu2025auditing",
+    "citationKey": "lu2025auditing",
+    "title": "Auditing Meta-Cognitive Hallucinations in Reasoning Large Language Models",
+    "authors": "Haolang Lu and Yilian Liu and Jingxin Xu and Guoshun Nan and Yuanlong Yu and Zhican Chen and Kun Wang",
+    "year": 2025,
+    "venue": "The Thirty-ninth Annual Conference on Neural Information Processing Systems",
+    "url": "https://openreview.net/forum?id=rPsUx09RJV",
+    "doi": null,
+    "source": {
+      "survey": "2026.eacl-long.350",
+      "figure": "Figure 1"
+    },
+    "connections": [
+      "evaluation-task-enhancement-self-reflection"
+    ]
+  },
+  {
+    "id": "ma-etal-2023-towards-holistic",
+    "citationKey": "ma-etal-2023-towards-holistic",
+    "title": "Towards A Holistic Landscape of Situated Theory of Mind in Large Language Models",
+    "authors": "Ma, Ziqiao and Sansom, Jacob and Peng, Run and Chai, Joyce",
+    "year": 2023,
+    "venue": "FINDINGS:2023:emnlp",
+    "url": "https://aclanthology.org/2023.findings-emnlp.72/",
+    "doi": "10.18653/v1/2023.findings-emnlp.72",
+    "source": {
+      "survey": "2026.eacl-long.350",
+      "figure": "Figure 1"
+    },
+    "connections": [
+      "evaluation-capability-assessment-theory-of-mind"
+    ]
+  },
+  {
+    "id": "ma-etal-2025-babysit",
+    "citationKey": "ma-etal-2025-babysit",
+    "title": "Babysit A Language Model From Scratch: Interactive Language Learning by Trials and Demonstrations",
+    "authors": "Ma, Ziqiao and Wang, Zekun and Chai, Joyce",
+    "year": 2025,
+    "venue": "Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers)",
+    "url": "https://aclanthology.org/2025.naacl-long.46/",
+    "doi": "10.18653/v1/2025.naacl-long.46",
+    "source": {
+      "survey": "2026.eacl-long.350",
+      "figure": "Figure 1"
+    },
+    "connections": [
+      "pretraining-observational-learning-cognitive-development"
+    ]
+  },
+  {
+    "id": "ma-etal-2025-enhancing",
+    "citationKey": "ma-etal-2025-enhancing",
+    "title": "Enhancing LLM-Based Persuasion Simulations with Cultural and Speaker-Specific Information",
+    "authors": "Ma, Weicheng and Zhang, Hefan and Ji, Shiyu and Hashemi, Farnoosh and Wang, Qichao and Yang, Ivory and Chen, Joice and Pan, Juanwen and Macy, Michael and Hassanpour, Saeed and Vosoughi, Soroush",
+    "year": 2025,
+    "venue": "Findings of the Association for Computational Linguistics: EMNLP 2025",
+    "url": "https://aclanthology.org/2025.findings-emnlp.808/",
+    "doi": "10.18653/v1/2025.findings-emnlp.808",
+    "source": {
+      "survey": "2026.eacl-long.350",
+      "figure": "Figure 1"
+    },
+    "connections": [
+      "evaluation-collaborative-multi-agent-persuasion-models"
+    ]
+  },
+  {
+    "id": "maharaj-etal-2023-eyes",
+    "citationKey": "maharaj-etal-2023-eyes",
+    "title": "Eyes Show the Way: Modelling Gaze Behaviour for Hallucination Detection",
+    "authors": "Maharaj, Kishan and Saxena, Ashita and Kumar, Raja and Mishra, Abhijit and Bhattacharyya, Pushpak",
+    "year": 2023,
+    "venue": "FINDINGS:2023:emnlp",
+    "url": "https://aclanthology.org/2023.findings-emnlp.764/",
+    "doi": "10.18653/v1/2023.findings-emnlp.764",
+    "source": {
+      "survey": "2026.eacl-long.350",
+      "figure": "Figure 1"
+    },
+    "connections": [
+      "evaluation-task-enhancement-perception-and-attention"
+    ]
+  },
+  {
+    "id": "modzelewski-etal-2025-pcot",
+    "citationKey": "modzelewski-etal-2025-pcot",
+    "title": "PCoT: Persuasion-Augmented Chain of Thought for Detecting Fake News and Social Media Disinformation",
+    "authors": "Modzelewski, Arkadiusz and Sosnowski, Witold and Labruna, Tiziano and Wierzbicki, Adam and Da San Martino, Giovanni",
+    "year": 2025,
+    "venue": "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    "url": "https://aclanthology.org/2025.acl-long.1215/",
+    "doi": null,
+    "source": {
+      "survey": "2026.eacl-long.350",
+      "figure": "Figure 1"
+    },
+    "connections": [
+      "evaluation-collaborative-multi-agent-persuasion-models"
+    ]
+  },
+  {
+    "id": "nikolaus-etal-2022-learning",
+    "citationKey": "nikolaus-etal-2022-learning",
+    "title": "Learning English with Peppa Pig",
+    "authors": "Nikolaus, Mitja and Alishahi, Afra and Chrupa, Grzegorz",
+    "year": 2022,
+    "venue": "Transactions of the Association for Computational Linguistics",
+    "url": "https://aclanthology.org/2022.tacl-1.54/",
+    "doi": "10.1162/tacl_a_00498",
+    "source": {
+      "survey": "2026.eacl-long.350",
+      "figure": "Figure 1"
+    },
+    "connections": [
+      "preprocessing-data-collection-ecological-validity"
+    ]
+  },
+  {
+    "id": "nottingham-etal-2024-selective",
+    "citationKey": "nottingham-etal-2024-selective",
+    "title": "Selective Perception: Learning Concise State Descriptions for Language Model Actors",
+    "authors": "Nottingham, Kolby and Razeghi, Yasaman and Kim, Kyungmin and Lanier, Jb and Baldi, Pierre and Fox, Roy and Singh, Sameer",
+    "year": 2024,
+    "venue": "NAACL:2024:short",
+    "url": "https://aclanthology.org/2024.naacl-short.29/",
+    "doi": "10.18653/v1/2024.naacl-short.29",
+    "source": {
+      "survey": "2026.eacl-long.350",
+      "figure": "Figure 1"
+    },
+    "connections": [
+      "preprocessing-data-preprocessing-selective-attention"
+    ]
+  },
+  {
+    "id": "pal-etal-2025-beyond",
+    "citationKey": "pal-etal-2025-beyond",
+    "title": "Beyond Discrete Personas: Personality Modeling Through Journal Intensive Conversations",
+    "authors": "Pal, Sayantan and Das, Souvik and Srihari, Rohini K.",
+    "year": 2025,
+    "venue": "COLING:2025:main",
+    "url": "https://aclanthology.org/2025.coling-main.470/",
+    "doi": null,
+    "source": {
+      "survey": "2026.eacl-long.350",
+      "figure": "Figure 1"
+    },
+    "connections": [
+      "evaluation-task-enhancement-big-five-personality-traits"
+    ]
+  },
+  {
+    "id": "pan-etal-2024-dynathink",
+    "citationKey": "pan-etal-2024-dynathink",
+    "title": "DynaThink: Fast or Slow? A Dynamic Decision-Making Framework for Large Language Models",
+    "authors": "Pan, Jiabao and Zhang, Yan and Zhang, Chen and Liu, Zuozhu and Wang, Hongwei and Li, Haizhou",
+    "year": 2024,
+    "venue": "EMNLP:2024:main",
+    "url": "https://aclanthology.org/2024.emnlp-main.814/",
+    "doi": "10.18653/v1/2024.emnlp-main.814",
+    "source": {
+      "survey": "2026.eacl-long.350",
+      "figure": "Figure 1"
+    },
+    "connections": [
+      "evaluation-task-enhancement-dual-process"
+    ]
+  },
+  {
+    "id": "pang-etal-2023-long",
+    "citationKey": "pang-etal-2023-long",
+    "title": "Long Document Summarization with Top-down and Bottom-up Inference",
+    "authors": "Pang, Bo and Nijkamp, Erik and Kryscinski, Wojciech and Savarese, Silvio and Zhou, Yingbo and Xiong, Caiming",
+    "year": 2023,
+    "venue": "FINDINGS:2023:eacl",
+    "url": "https://aclanthology.org/2023.findings-eacl.94/",
+    "doi": "10.18653/v1/2023.findings-eacl.94",
+    "source": {
+      "survey": "2026.eacl-long.350",
+      "figure": "Figure 1"
+    },
+    "connections": [
+      "pretraining-knowledge-acquisition-top-down-perception"
+    ]
+  },
+  {
+    "id": "park2024memoria",
+    "citationKey": "park2024memoria",
+    "title": "Memoria: resolving fateful forgetting problem through human-inspired memory architecture",
+    "authors": "Park, Sangjun and Bak, JinYeong",
+    "year": 2024,
+    "venue": "Proceedings of the 41st International Conference on Machine Learning",
+    "url": "https://scholar.google.com/scholar?q=Memoria%3A%20resolving%20fateful%20forgetting%20problem%20through%20human-inspired%20memory%20architecture",
+    "doi": null,
+    "source": {
+      "survey": "2026.eacl-long.350",
+      "figure": "Figure 1"
+    },
+    "connections": [
+      "evaluation-task-enhancement-memory"
+    ]
+  },
+  {
+    "id": "qin-etal-2024-beyond",
+    "citationKey": "qin-etal-2024-beyond",
+    "title": "Beyond Persuasion: Towards Conversational Recommender System with Credible Explanations",
+    "authors": "Qin, Peixin and Huang, Chen and Deng, Yang and Lei, Wenqiang and Chua, Tat-Seng",
+    "year": 2024,
+    "venue": "FINDINGS:2024:emnlp",
+    "url": "https://aclanthology.org/2024.findings-emnlp.247/",
+    "doi": "10.18653/v1/2024.findings-emnlp.247",
+    "source": {
+      "survey": "2026.eacl-long.350",
+      "figure": "Figure 1"
+    },
+    "connections": [
+      "evaluation-collaborative-multi-agent-persuasion-models"
+    ]
+  },
+  {
+    "id": "qiu-etal-2024-minddial",
+    "citationKey": "qiu-etal-2024-minddial",
+    "title": "MindDial: Enhancing Conversational Agents with Theory-of-Mind for Common Ground Alignment and Negotiation",
+    "authors": "Qiu, Shuwen and Liu, Mingdian and Li, Hengli and Zhu, Song-Chun and Zheng, Zilong",
+    "year": 2024,
+    "venue": "SIGDIAL:2024:1",
+    "url": "https://aclanthology.org/2024.sigdial-1.63/",
+    "doi": "10.18653/v1/2024.sigdial-1.63",
+    "source": {
+      "survey": "2026.eacl-long.350",
+      "figure": "Figure 1"
+    },
+    "connections": [
+      "evaluation-task-enhancement-theory-of-mind"
+    ]
+  },
+  {
+    "id": "rao-etal-2023-chatgpt",
+    "citationKey": "rao-etal-2023-chatgpt",
+    "title": "Can ChatGPT Assess Human Personalities? A General Evaluation Framework",
+    "authors": "Rao, Haocong and Leung, Cyril and Miao, Chunyan",
+    "year": 2023,
+    "venue": "FINDINGS:2023:emnlp",
+    "url": "https://aclanthology.org/2023.findings-emnlp.84/",
+    "doi": "10.18653/v1/2023.findings-emnlp.84",
+    "source": {
+      "survey": "2026.eacl-long.350",
+      "figure": "Figure 1"
+    },
+    "connections": [
+      "evaluation-task-enhancement-mbti"
+    ]
+  },
+  {
+    "id": "rawte2022tdlr",
+    "citationKey": "rawte2022tdlr",
+    "title": "TDLR: Top Semantic-Down Syntactic Language Representation",
+    "authors": "Vipula Rawte and Megha Chakraborty and Kaushik Roy and Manas Gaur and Keyur Faldu and Prashant Kikani and Hemang Akbari and Amit P. Sheth",
+    "year": 2022,
+    "venue": "NeurIPS '22 Workshop on All Things Attention: Bridging Different Perspectives on Attention",
+    "url": "https://openreview.net/forum?id=XcTBJ0Ak59",
+    "doi": null,
+    "source": {
+      "survey": "2026.eacl-long.350",
+      "figure": "Figure 1"
+    },
+    "connections": [
+      "pretraining-knowledge-acquisition-top-down-perception"
+    ]
+  },
+  {
+    "id": "rescala-etal-2024-language",
+    "citationKey": "rescala-etal-2024-language",
+    "title": "Can Language Models Recognize Convincing Arguments?",
+    "authors": "Rescala, Paula and Ribeiro, Manoel Horta and Hu, Tiancheng and West, Robert",
+    "year": 2024,
+    "venue": "FINDINGS:2024:emnlp",
+    "url": "https://aclanthology.org/2024.findings-emnlp.515/",
+    "doi": "10.18653/v1/2024.findings-emnlp.515",
+    "source": {
+      "survey": "2026.eacl-long.350",
+      "figure": "Figure 1"
+    },
+    "connections": [
+      "evaluation-collaborative-multi-agent-persuasion-models"
+    ]
+  },
+  {
+    "id": "sap-etal-2022-neural",
+    "citationKey": "sap-etal-2022-neural",
+    "title": "Neural Theory-of-Mind? On the Limits of Social Intelligence in Large LMs",
+    "authors": "Sap, Maarten and Le Bras, Ronan and Fried, Daniel and Choi, Yejin",
+    "year": 2022,
+    "venue": "EMNLP:2022:main",
+    "url": "https://aclanthology.org/2022.emnlp-main.248/",
+    "doi": "10.18653/v1/2022.emnlp-main.248",
+    "source": {
+      "survey": "2026.eacl-long.350",
+      "figure": "Figure 1"
+    },
+    "connections": [
+      "evaluation-capability-assessment-theory-of-mind"
+    ]
+  },
+  {
+    "id": "sarangi-etal-2025-decompose",
+    "citationKey": "sarangi-etal-2025-decompose",
+    "title": "Decompose-ToM: Enhancing Theory of Mind Reasoning in Large Language Models through Simulation and Task Decomposition",
+    "authors": "Sarangi, Sneheel and Elgarf, Maha and Salam, Hanan",
+    "year": 2025,
+    "venue": "COLING:2025:main",
+    "url": "https://aclanthology.org/2025.coling-main.682/",
+    "doi": null,
+    "source": {
+      "survey": "2026.eacl-long.350",
+      "figure": "Figure 1"
+    },
+    "connections": [
+      "evaluation-collaborative-multi-agent-theory-of-mind"
+    ]
+  },
+  {
+    "id": "sclar-etal-2023-minding",
+    "citationKey": "sclar-etal-2023-minding",
+    "title": "Minding Language Models' (Lack of) Theory of Mind: A Plug-and-Play Multi-Character Belief Tracker",
+    "authors": "Sclar, Melanie and Kumar, Sachin and West, Peter and Suhr, Alane and Choi, Yejin and Tsvetkov, Yulia",
+    "year": 2023,
+    "venue": "ACL:2023:long",
+    "url": "https://aclanthology.org/2023.acl-long.780/",
+    "doi": "10.18653/v1/2023.acl-long.780",
+    "source": {
+      "survey": "2026.eacl-long.350",
+      "figure": "Figure 1"
+    },
+    "connections": [
+      "evaluation-collaborative-multi-agent-theory-of-mind"
+    ]
+  },
+  {
+    "id": "sclar2022symmetric",
+    "citationKey": "sclar2022symmetric",
+    "title": "Symmetric machine theory of mind",
+    "authors": "Sclar, Melanie and Neubig, Graham and Bisk, Yonatan",
+    "year": 2022,
+    "venue": "International Conference on Machine Learning",
+    "url": "https://scholar.google.com/scholar?q=Symmetric%20machine%20theory%20of%20mind",
+    "doi": null,
+    "source": {
+      "survey": "2026.eacl-long.350",
+      "figure": "Figure 1"
+    },
+    "connections": [
+      "evaluation-collaborative-multi-agent-theory-of-mind"
+    ]
+  },
+  {
+    "id": "sharma-etal-2024-laying",
+    "citationKey": "sharma-etal-2024-laying",
+    "title": "Laying Anchors: Semantically Priming Numerals in Language Modeling",
+    "authors": "Sharma, Mandar and Taware, Rutuja and Koirala, Pravesh and Muralidhar, Nikhil and Ramakrishnan, Naren",
+    "year": 2024,
+    "venue": "FINDINGS:2024:naacl",
+    "url": "https://aclanthology.org/2024.findings-naacl.169/",
+    "doi": "10.18653/v1/2024.findings-naacl.169",
+    "source": {
+      "survey": "2026.eacl-long.350",
+      "figure": "Figure 1"
+    },
+    "connections": [
+      "preprocessing-data-collection-incremental-numerical-cognition"
+    ]
+  },
+  {
+    "id": "sonkar-etal-2023-class",
+    "citationKey": "sonkar-etal-2023-class",
+    "title": "CLASS: A Design Framework for Building Intelligent Tutoring Systems Based on Learning Science principles",
+    "authors": "Sonkar, Shashank and Liu, Naiming and Mallick, Debshila and Baraniuk, Richard",
+    "year": 2023,
+    "venue": "FINDINGS:2023:emnlp",
+    "url": "https://aclanthology.org/2023.findings-emnlp.130/",
+    "doi": "10.18653/v1/2023.findings-emnlp.130",
+    "source": {
+      "survey": "2026.eacl-long.350",
+      "figure": "Figure 1"
+    },
+    "connections": [
+      "pretraining-observational-learning-scaffolding-theory"
+    ]
+  },
+  {
+    "id": "soubki-etal-2024-views",
+    "citationKey": "soubki-etal-2024-views",
+    "title": "Views Are My Own, but Also Yours: Benchmarking Theory of Mind Using Common Ground",
+    "authors": "Soubki, Adil and Murzaku, John and Yousefi Jordehi, Arash and Zeng, Peter and Markowska, Magdalena and Mirroshandel, Seyed Abolghasem and Rambow, Owen",
+    "year": 2024,
+    "venue": "FINDINGS:2024:acl",
+    "url": "https://aclanthology.org/2024.findings-acl.880/",
+    "doi": "10.18653/v1/2024.findings-acl.880",
+    "source": {
+      "survey": "2026.eacl-long.350",
+      "figure": "Figure 1"
+    },
+    "connections": [
+      "evaluation-capability-assessment-theory-of-mind"
+    ]
+  },
+  {
+    "id": "sutton2018reinforcement",
+    "citationKey": "sutton2018reinforcement",
+    "title": "Reinforcement learning: an introduction, 2nd edn. Adaptive computation and machine learning",
+    "authors": "Sutton, Richard S and Barto, Andrew G",
+    "year": 2018,
+    "venue": "The MIT Press, Cambridge",
+    "url": "https://scholar.google.com/scholar?q=Reinforcement%20learning%3A%20an%20introduction%2C%202nd%20edn.%20Adaptive%20computation%20and%20machine%20learning",
+    "doi": null,
+    "source": {
+      "survey": "2026.eacl-long.350",
+      "figure": "Figure 1"
+    },
+    "connections": [
+      "posttraining-rlhf-operant-conditioning"
+    ]
+  },
+  {
+    "id": "tan-etal-2025-persuasion",
+    "citationKey": "tan-etal-2025-persuasion",
+    "title": "Persuasion Dynamics in LLMs: Investigating Robustness and Adaptability in Knowledge and Safety with DuET-PD",
+    "authors": "Tan, Bryan Chen Zhengyu and Chin, Daniel Wai Kit and Liu, Zhengyuan and Chen, Nancy F. and Lee, Roy Ka-Wei",
+    "year": 2025,
+    "venue": "Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing",
+    "url": "https://aclanthology.org/2025.emnlp-main.81/",
+    "doi": "10.18653/v1/2025.emnlp-main.81",
+    "source": {
+      "survey": "2026.eacl-long.350",
+      "figure": "Figure 1"
+    },
+    "connections": [
+      "evaluation-collaborative-multi-agent-persuasion-models"
+    ]
+  },
+  {
+    "id": "wang-etal-2024-symbolic",
+    "citationKey": "wang-etal-2024-symbolic",
+    "title": "Symbolic Working Memory Enhances Language Models for Complex Rule Application",
+    "authors": "Wang, Siyuan and Wei, Zhongyu and Choi, Yejin and Ren, Xiang",
+    "year": 2024,
+    "venue": "EMNLP:2024:main",
+    "url": "https://aclanthology.org/2024.emnlp-main.974/",
+    "doi": "10.18653/v1/2024.emnlp-main.974",
+    "source": {
+      "survey": "2026.eacl-long.350",
+      "figure": "Figure 1"
+    },
+    "connections": [
+      "evaluation-task-enhancement-memory"
+    ]
+  },
+  {
+    "id": "wang-etal-2024-taste",
+    "citationKey": "wang-etal-2024-taste",
+    "title": "TasTe: Teaching Large Language Models to Translate through Self-Reflection",
+    "authors": "Wang, Yutong and Zeng, Jiali and Liu, Xuebo and Meng, Fandong and Zhou, Jie and Zhang, Min",
+    "year": 2024,
+    "venue": "ACL:2024:long",
+    "url": "https://aclanthology.org/2024.acl-long.333/",
+    "doi": "10.18653/v1/2024.acl-long.333",
+    "source": {
+      "survey": "2026.eacl-long.350",
+      "figure": "Figure 1"
+    },
+    "connections": [
+      "evaluation-task-enhancement-self-reflection"
+    ]
+  },
+  {
+    "id": "wang-etal-2025-coglm",
+    "citationKey": "wang-etal-2025-coglm",
+    "title": "CogLM: Tracking Cognitive Development of Large Language Models",
+    "authors": "Wang, Xinglin and Yuan, Peiwen and Feng, Shaoxiong and Li, Yiwei and Pan, Boyuan and Wang, Heda and Hu, Yao and Li, Kan",
+    "year": 2025,
+    "venue": "Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers)",
+    "url": "https://aclanthology.org/2025.naacl-long.4/",
+    "doi": "10.18653/v1/2025.naacl-long.4",
+    "source": {
+      "survey": "2026.eacl-long.350",
+      "figure": "Figure 1"
+    },
+    "connections": [
+      "evaluation-capability-assessment-cognitive-maturity"
+    ]
+  },
+  {
+    "id": "wang-etal-2025-evaluating-cognitive",
+    "citationKey": "wang-etal-2025-evaluating-cognitive",
+    "title": "Evaluating Cognitive-Behavioral Fixation via Multimodal User Viewing Patterns on Social Media",
+    "authors": "Wang, Yujie and Zhao, Yunwei and Yang, Jing and Han, Han and Shan, Shiguang and Zhang, Jie",
+    "year": 2025,
+    "venue": "Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing",
+    "url": "https://aclanthology.org/2025.emnlp-main.987/",
+    "doi": "10.18653/v1/2025.emnlp-main.987",
+    "source": {
+      "survey": "2026.eacl-long.350",
+      "figure": "Figure 1"
+    },
+    "connections": [
+      "evaluation-capability-assessment-social-identity-theory"
+    ]
+  },
+  {
+    "id": "wang2021tomc",
+    "citationKey": "wang2021tomc",
+    "title": "ToM2C: Target-oriented Multi-agent Communication and Cooperation with Theory of Mind",
+    "authors": "Yuanfei Wang and Fangwei Zhong and Jing Xu and Yizhou Wang",
+    "year": 2022,
+    "venue": "International Conference on Learning Representations",
+    "url": "https://openreview.net/forum?id=M3tw78MH1Bk",
+    "doi": null,
+    "source": {
+      "survey": "2026.eacl-long.350",
+      "figure": "Figure 1"
+    },
+    "connections": [
+      "evaluation-collaborative-multi-agent-theory-of-mind"
+    ]
+  },
+  {
+    "id": "wei-etal-2025-mecot",
+    "citationKey": "wei-etal-2025-mecot",
+    "title": "MECoT: Markov Emotional Chain-of-Thought for Personality-Consistent Role-Playing",
+    "authors": "Wei, Yangbo and Huang, Zhen and Zhao, Fangzhou and Feng, Qi and Xing, Wei W.",
+    "year": 2025,
+    "venue": "Findings of the Association for Computational Linguistics: ACL 2025",
+    "url": "https://aclanthology.org/2025.findings-acl.435/",
+    "doi": null,
+    "source": {
+      "survey": "2026.eacl-long.350",
+      "figure": "Figure 1"
+    },
+    "connections": [
+      "evaluation-task-enhancement-dual-process"
+    ]
+  },
+  {
+    "id": "wei2022chain",
+    "citationKey": "wei2022chain",
+    "title": "Chain-of-thought prompting elicits reasoning in large language models",
+    "authors": "Wei, Jason and Wang, Xuezhi and Schuurmans, Dale and Bosma, Maarten and Xia, Fei and Chi, Ed and Le, Quoc V and Zhou, Denny and others",
+    "year": 2022,
+    "venue": "Advances in neural information processing systems",
+    "url": "https://scholar.google.com/scholar?q=Chain-of-thought%20prompting%20elicits%20reasoning%20in%20large%20language%20models",
+    "doi": null,
+    "source": {
+      "survey": "2026.eacl-long.350",
+      "figure": "Figure 1"
+    },
+    "connections": [
+      "evaluation-task-enhancement-dual-process"
+    ]
+  },
+  {
+    "id": "wilf-etal-2024-think",
+    "citationKey": "wilf-etal-2024-think",
+    "title": "Think Twice: Perspective-Taking Improves Large Language Models' Theory-of-Mind Capabilities",
+    "authors": "Wilf, Alex and Lee, Sihyun and Liang, Paul Pu and Morency, Louis-Philippe",
+    "year": 2024,
+    "venue": "ACL:2024:long",
+    "url": "https://aclanthology.org/2024.acl-long.451/",
+    "doi": "10.18653/v1/2024.acl-long.451",
+    "source": {
+      "survey": "2026.eacl-long.350",
+      "figure": "Figure 1"
+    },
+    "connections": [
+      "evaluation-collaborative-multi-agent-theory-of-mind"
+    ]
+  },
+  {
+    "id": "wu-etal-2023-hi",
+    "citationKey": "wu-etal-2023-hi",
+    "title": "Hi-ToM: A Benchmark for Evaluating Higher-Order Theory of Mind Reasoning in Large Language Models",
+    "authors": "Wu, Yufan and He, Yinghui and Jia, Yilin and Mihalcea, Rada and Chen, Yulong and Deng, Naihao",
+    "year": 2023,
+    "venue": "FINDINGS:2023:emnlp",
+    "url": "https://aclanthology.org/2023.findings-emnlp.717/",
+    "doi": "10.18653/v1/2023.findings-emnlp.717",
+    "source": {
+      "survey": "2026.eacl-long.350",
+      "figure": "Figure 1"
+    },
+    "connections": [
+      "evaluation-capability-assessment-theory-of-mind"
+    ]
+  },
+  {
+    "id": "wu-etal-2024-coke",
+    "citationKey": "wu-etal-2024-coke",
+    "title": "COKE: A Cognitive Knowledge Graph for Machine Theory of Mind",
+    "authors": "Wu, Jincenzi and Chen, Zhuang and Deng, Jiawen and Sabour, Sahand and Meng, Helen and Huang, Minlie",
+    "year": 2024,
+    "venue": "ACL:2024:long",
+    "url": "https://aclanthology.org/2024.acl-long.848/",
+    "doi": "10.18653/v1/2024.acl-long.848",
+    "source": {
+      "survey": "2026.eacl-long.350",
+      "figure": "Figure 1"
+    },
+    "connections": [
+      "evaluation-task-enhancement-theory-of-mind"
+    ]
+  },
+  {
+    "id": "wu-etal-2025-exploring-choice",
+    "citationKey": "wu-etal-2025-exploring-choice",
+    "title": "Exploring the Choice Behavior of Large Language Models",
+    "authors": "Wu, Weidong and Zhao, Qinlin and Chen, Hao and Zhou, Lexin and Lian, Defu and Xie, Hong",
+    "year": 2025,
+    "venue": "Findings of the Association for Computational Linguistics: ACL 2025",
+    "url": "https://aclanthology.org/2025.findings-acl.270/",
+    "doi": null,
+    "source": {
+      "survey": "2026.eacl-long.350",
+      "figure": "Figure 1"
+    },
+    "connections": [
+      "evaluation-capability-assessment-conformity-theories"
+    ]
+  },
+  {
+    "id": "wu-etal-2025-seeval",
+    "citationKey": "wu-etal-2025-seeval",
+    "title": "SEEval: Advancing LLM Text Evaluation Efficiency and Accuracy through Self-Explanation Prompting",
+    "authors": "Wu, Meng-Chen and Hossain, Md Mosharaf and Wood, Tess and Akbar, Shayan Ali and Chin, Si-Chi and Cornejo, Erwin",
+    "year": 2025,
+    "venue": "Findings of the Association for Computational Linguistics: NAACL 2025",
+    "url": "https://aclanthology.org/2025.findings-naacl.411/",
+    "doi": "10.18653/v1/2025.findings-naacl.411",
+    "source": {
+      "survey": "2026.eacl-long.350",
+      "figure": "Figure 1"
+    },
+    "connections": [
+      "evaluation-task-enhancement-self-reflection"
+    ]
+  },
+  {
+    "id": "xiao-etal-2025-towards",
+    "citationKey": "xiao-etal-2025-towards",
+    "title": "Towards Dynamic Theory of Mind: Evaluating LLM Adaptation to Temporal Evolution of Human States",
+    "authors": "Xiao, Yang and Wang, Jiashuo and Xu, Qiancheng and Song, Changhe and Xu, Chunpu and Cheng, Yi and Li, Wenjie and Liu, Pengfei",
+    "year": 2025,
+    "venue": "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    "url": "https://aclanthology.org/2025.acl-long.1171/",
+    "doi": "10.18653/v1/2025.acl-long.1171",
+    "source": {
+      "survey": "2026.eacl-long.350",
+      "figure": "Figure 1"
+    },
+    "connections": [
+      "evaluation-capability-assessment-theory-of-mind"
+    ]
+  },
+  {
+    "id": "xu-etal-2024-opentom",
+    "citationKey": "xu-etal-2024-opentom",
+    "title": "OpenToM: A Comprehensive Benchmark for Evaluating Theory-of-Mind Reasoning Capabilities of Large Language Models",
+    "authors": "Xu, Hainiu and Zhao, Runcong and Zhu, Lixing and Du, Jinhua and He, Yulan",
+    "year": 2024,
+    "venue": "ACL:2024:long",
+    "url": "https://aclanthology.org/2024.acl-long.466/",
+    "doi": "10.18653/v1/2024.acl-long.466",
+    "source": {
+      "survey": "2026.eacl-long.350",
+      "figure": "Figure 1"
+    },
+    "connections": [
+      "evaluation-capability-assessment-theory-of-mind"
+    ]
+  },
+  {
+    "id": "xu-etal-2024-sayself",
+    "citationKey": "xu-etal-2024-sayself",
+    "title": "SaySelf: Teaching LLMs to Express Confidence with Self-Reflective Rationales",
+    "authors": "Xu, Tianyang and Wu, Shujin and Diao, Shizhe and Liu, Xiaoze and Wang, Xingyao and Chen, Yangyi and Gao, Jing",
+    "year": 2024,
+    "venue": "EMNLP:2024:main",
+    "url": "https://aclanthology.org/2024.emnlp-main.343/",
+    "doi": "10.18653/v1/2024.emnlp-main.343",
+    "source": {
+      "survey": "2026.eacl-long.350",
+      "figure": "Figure 1"
+    },
+    "connections": [
+      "evaluation-task-enhancement-self-reflection"
+    ]
+  },
+  {
+    "id": "yan-etal-2024-mirror",
+    "citationKey": "yan-etal-2024-mirror",
+    "title": "Mirror: Multiple-perspective Self-Reflection Method for Knowledge-rich Reasoning",
+    "authors": "Yan, Hanqi and Zhu, Qinglin and Wang, Xinyu and Gui, Lin and He, Yulan",
+    "year": 2024,
+    "venue": "ACL:2024:long",
+    "url": "https://aclanthology.org/2024.acl-long.382/",
+    "doi": "10.18653/v1/2024.acl-long.382",
+    "source": {
+      "survey": "2026.eacl-long.350",
+      "figure": "Figure 1"
+    },
+    "connections": [
+      "evaluation-task-enhancement-self-reflection"
+    ]
+  },
+  {
+    "id": "yang-etal-2023-psycot",
+    "citationKey": "yang-etal-2023-psycot",
+    "title": "PsyCoT: Psychological Questionnaire as Powerful Chain-of-Thought for Personality Detection",
+    "authors": "Yang, Tao and Shi, Tianyuan and Wan, Fanqi and Quan, Xiaojun and Wang, Qifan and Wu, Bingzhe and Wu, Jiaxiang",
+    "year": 2023,
+    "venue": "FINDINGS:2023:emnlp",
+    "url": "https://aclanthology.org/2023.findings-emnlp.216/",
+    "doi": "10.18653/v1/2023.findings-emnlp.216",
+    "source": {
+      "survey": "2026.eacl-long.350",
+      "figure": "Figure 1"
+    },
+    "connections": [
+      "evaluation-task-enhancement-mbti"
+    ]
+  },
+  {
+    "id": "yang-etal-2024-psychogat",
+    "citationKey": "yang-etal-2024-psychogat",
+    "title": "PsychoGAT: A Novel Psychological Measurement Paradigm through Interactive Fiction Games with LLM Agents",
+    "authors": "Yang, Qisen and Wang, Zekun and Chen, Honghui and Wang, Shenzhi and Pu, Yifan and Gao, Xin and Huang, Wenhao and Song, Shiji and Huang, Gao",
+    "year": 2024,
+    "venue": "ACL:2024:long",
+    "url": "https://aclanthology.org/2024.acl-long.779/",
+    "doi": "10.18653/v1/2024.acl-long.779",
+    "source": {
+      "survey": "2026.eacl-long.350",
+      "figure": "Figure 1"
+    },
+    "connections": [
+      "evaluation-task-enhancement-mbti"
+    ]
+  },
+  {
+    "id": "yang-etal-2025-llm2",
+    "citationKey": "yang-etal-2025-llm2",
+    "title": "LLM2: Let Large Language Models Harness System 2 Reasoning",
+    "authors": "Yang, Cheng and Shi, Chufan and Li, Siheng and Shui, Bo and Yang, Yujiu and Lam, Wai",
+    "year": 2025,
+    "venue": "Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 2: Short Papers)",
+    "url": "https://aclanthology.org/2025.naacl-short.15/",
+    "doi": "10.18653/v1/2025.naacl-short.15",
+    "source": {
+      "survey": "2026.eacl-long.350",
+      "figure": "Figure 1"
+    },
+    "connections": [
+      "evaluation-task-enhancement-dual-process"
+    ]
+  },
+  {
+    "id": "yao2024tree",
+    "citationKey": "yao2024tree",
+    "title": "Tree of thoughts: Deliberate problem solving with large language models",
+    "authors": "Yao, Shunyu and Yu, Dian and Zhao, Jeffrey and Shafran, Izhak and Griffiths, Tom and Cao, Yuan and Narasimhan, Karthik",
+    "year": 2024,
+    "venue": "Advances in Neural Information Processing Systems",
+    "url": "https://scholar.google.com/scholar?q=Tree%20of%20thoughts%3A%20Deliberate%20problem%20solving%20with%20large%20language%20models",
+    "doi": null,
+    "source": {
+      "survey": "2026.eacl-long.350",
+      "figure": "Figure 1"
+    },
+    "connections": [
+      "evaluation-task-enhancement-dual-process"
+    ]
+  },
+  {
+    "id": "yeo-etal-2025-pado",
+    "citationKey": "yeo-etal-2025-pado",
+    "title": "PADO: Personality-induced multi-Agents for Detecting OCEAN in human-generated texts",
+    "authors": "Yeo, Haein and Noh, Taehyeong and Jin, Seungwan and Han, Kyungsik",
+    "year": 2025,
+    "venue": "COLING:2025:main",
+    "url": "https://aclanthology.org/2025.coling-main.382/",
+    "doi": null,
+    "source": {
+      "survey": "2026.eacl-long.350",
+      "figure": "Figure 1"
+    },
+    "connections": [
+      "evaluation-task-enhancement-big-five-personality-traits"
+    ]
+  },
+  {
+    "id": "yeo-jaidka-2025-beyond",
+    "citationKey": "yeo-jaidka-2025-beyond",
+    "title": "Beyond Context to Cognitive Appraisal: Emotion Reasoning as a Theory of Mind Benchmark for Large Language Models",
+    "authors": "Yeo, Gerard Christopher and Jaidka, Kokil",
+    "year": 2025,
+    "venue": "Findings of the Association for Computational Linguistics: ACL 2025",
+    "url": "https://aclanthology.org/2025.findings-acl.1359/",
+    "doi": "10.18653/v1/2025.findings-acl.1359",
+    "source": {
+      "survey": "2026.eacl-long.350",
+      "figure": "Figure 1"
+    },
+    "connections": [
+      "evaluation-capability-assessment-theory-of-mind"
+    ]
+  },
+  {
+    "id": "yu-etal-2022-relation",
+    "citationKey": "yu-etal-2022-relation",
+    "title": "Relation-Specific Attentions over Entity Mentions for Enhanced Document-Level Relation Extraction",
+    "authors": "Yu, Jiaxin and Yang, Deqing and Tian, Shuyu",
+    "year": 2022,
+    "venue": "NAACL:2022:main",
+    "url": "https://aclanthology.org/2022.naacl-main.109/",
+    "doi": "10.18653/v1/2022.naacl-main.109",
+    "source": {
+      "survey": "2026.eacl-long.350",
+      "figure": "Figure 1"
+    },
+    "connections": [
+      "evaluation-task-enhancement-perception-and-attention"
+    ]
+  },
+  {
+    "id": "zeng-etal-2024-johnny",
+    "citationKey": "zeng-etal-2024-johnny",
+    "title": "How Johnny Can Persuade LLMs to Jailbreak Them: Rethinking Persuasion to Challenge AI Safety by Humanizing LLMs",
+    "authors": "Zeng, Yi and Lin, Hongpeng and Zhang, Jingwen and Yang, Diyi and Jia, Ruoxi and Shi, Weiyan",
+    "year": 2024,
+    "venue": "ACL:2024:long",
+    "url": "https://aclanthology.org/2024.acl-long.773/",
+    "doi": "10.18653/v1/2024.acl-long.773",
+    "source": {
+      "survey": "2026.eacl-long.350",
+      "figure": "Figure 1"
+    },
+    "connections": [
+      "evaluation-collaborative-multi-agent-persuasion-models"
+    ]
+  },
+  {
+    "id": "zeng-etal-2024-memorize",
+    "citationKey": "zeng-etal-2024-memorize",
+    "title": "Memorize Step by Step: Efficient Long-Context Prefilling with Incremental Memory and Decremental Chunk",
+    "authors": "Zeng, Zhiyuan and Guo, Qipeng and Liu, Xiaoran and Yin, Zhangyue and Shu, Wentao and Huang, Mianqiu and Wang, Bo and Zhou, Yunhua and Li, Linlin and Liu, Qun and Qiu, Xipeng",
+    "year": 2024,
+    "venue": "EMNLP:2024:main",
+    "url": "https://aclanthology.org/2024.emnlp-main.1169/",
+    "doi": "10.18653/v1/2024.emnlp-main.1169",
+    "source": {
+      "survey": "2026.eacl-long.350",
+      "figure": "Figure 1"
+    },
+    "connections": [
+      "evaluation-capability-assessment-memory"
+    ]
+  },
+  {
+    "id": "zeng-etal-2025-converging",
+    "citationKey": "zeng-etal-2025-converging",
+    "title": "Converging to a Lingua Franca: Evolution of Linguistic Regions and Semantics Alignment in Multilingual Large Language Models",
+    "authors": "Zeng, Hongchuan and Han, Senyu and Chen, Lu and Yu, Kai",
+    "year": 2025,
+    "venue": "COLING:2025:main",
+    "url": "https://aclanthology.org/2025.coling-main.707/",
+    "doi": null,
+    "source": {
+      "survey": "2026.eacl-long.350",
+      "figure": "Figure 1"
+    },
+    "connections": [
+      "evaluation-capability-assessment-conversational-implicature"
+    ]
+  },
+  {
+    "id": "zhang-etal-2024-exploring",
+    "citationKey": "zhang-etal-2024-exploring",
+    "title": "Exploring Collaboration Mechanisms for LLM Agents: A Social Psychology View",
+    "authors": "Zhang, Jintian and Xu, Xin and Zhang, Ningyu and Liu, Ruibo and Hooi, Bryan and Deng, Shumin",
+    "year": 2024,
+    "venue": "ACL:2024:long",
+    "url": "https://aclanthology.org/2024.acl-long.782/",
+    "doi": "10.18653/v1/2024.acl-long.782",
+    "source": {
+      "survey": "2026.eacl-long.350",
+      "figure": "Figure 1"
+    },
+    "connections": [
+      "evaluation-capability-assessment-conformity-theories"
+    ]
+  },
+  {
+    "id": "zhang-etal-2024-holistic",
+    "citationKey": "zhang-etal-2024-holistic",
+    "title": "Holistic Automated Red Teaming for Large Language Models through Top-Down Test Case Generation and Multi-turn Interaction",
+    "authors": "Zhang, Jinchuan and Zhou, Yan and Liu, Yaxin and Li, Ziming and Hu, Songlin",
+    "year": 2024,
+    "venue": "EMNLP:2024:main",
+    "url": "https://aclanthology.org/2024.emnlp-main.760/",
+    "doi": "10.18653/v1/2024.emnlp-main.760",
+    "source": {
+      "survey": "2026.eacl-long.350",
+      "figure": "Figure 1"
+    },
+    "connections": [
+      "pretraining-knowledge-acquisition-top-down-perception"
+    ]
+  },
+  {
+    "id": "zhang-etal-2024-learn",
+    "citationKey": "zhang-etal-2024-learn",
+    "title": "Learn Beyond The Answer: Training Language Models with Reflection for Mathematical Reasoning",
+    "authors": "Zhang, Zhihan and Ge, Tao and Liang, Zhenwen and Yu, Wenhao and Yu, Dian and Jia, Mengzhao and Yu, Dong and Jiang, Meng",
+    "year": 2024,
+    "venue": "EMNLP:2024:main",
+    "url": "https://aclanthology.org/2024.emnlp-main.817/",
+    "doi": "10.18653/v1/2024.emnlp-main.817",
+    "source": {
+      "survey": "2026.eacl-long.350",
+      "figure": "Figure 1"
+    },
+    "connections": [
+      "evaluation-task-enhancement-self-reflection"
+    ]
+  },
+  {
+    "id": "zhang-etal-2024-self-contrast",
+    "citationKey": "zhang-etal-2024-self-contrast",
+    "title": "Self-Contrast: Better Reflection Through Inconsistent Solving Perspectives",
+    "authors": "Zhang, Wenqi and Shen, Yongliang and Wu, Linjuan and Peng, Qiuying and Wang, Jun and Zhuang, Yueting and Lu, Weiming",
+    "year": 2024,
+    "venue": "ACL:2024:long",
+    "url": "https://aclanthology.org/2024.acl-long.197/",
+    "doi": "10.18653/v1/2024.acl-long.197",
+    "source": {
+      "survey": "2026.eacl-long.350",
+      "figure": "Figure 1"
+    },
+    "connections": [
+      "evaluation-task-enhancement-self-reflection"
+    ]
+  },
+  {
+    "id": "zhang-etal-2024-working",
+    "citationKey": "zhang-etal-2024-working",
+    "title": "Working Memory Identifies Reasoning Limits in Language Models",
+    "authors": "Zhang, Chunhui and Jian, Yiren and Ouyang, Zhongyu and Vosoughi, Soroush",
+    "year": 2024,
+    "venue": "EMNLP:2024:main",
+    "url": "https://aclanthology.org/2024.emnlp-main.938/",
+    "doi": "10.18653/v1/2024.emnlp-main.938",
+    "source": {
+      "survey": "2026.eacl-long.350",
+      "figure": "Figure 1"
+    },
+    "connections": [
+      "evaluation-capability-assessment-memory"
+    ]
+  },
+  {
+    "id": "zhang-etal-2025-growing",
+    "citationKey": "zhang-etal-2025-growing",
+    "title": "Growing Through Experience: Scaling Episodic Grounding in Language Models",
+    "authors": "Zhang, Chunhui and Wang, Sirui and Ouyang, Zhongyu and Yuan, Xiangchi and Vosoughi, Soroush",
+    "year": 2025,
+    "venue": "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    "url": "https://aclanthology.org/2025.acl-long.409/",
+    "doi": null,
+    "source": {
+      "survey": "2026.eacl-long.350",
+      "figure": "Figure 1"
+    },
+    "connections": [
+      "posttraining-supervised-fine-tuning-memory"
+    ]
+  },
+  {
+    "id": "zhang-etal-2025-leveraging",
+    "citationKey": "zhang-etal-2025-leveraging",
+    "title": "Leveraging Dual Process Theory in Language Agent Framework for Real-time Simultaneous Human-AI Collaboration",
+    "authors": "Zhang, Shao and Wang, Xihuai and Zhang, Wenhao and Li, Chaoran and Song, Junru and Li, Tingyu and Qiu, Lin and Cao, Xuezhi and Cai, Xunliang and Yao, Wen and Zhang, Weinan and Wang, Xinbing and Wen, Ying",
+    "year": 2025,
+    "venue": "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    "url": "https://aclanthology.org/2025.acl-long.206/",
+    "doi": null,
+    "source": {
+      "survey": "2026.eacl-long.350",
+      "figure": "Figure 1"
+    },
+    "connections": [
+      "evaluation-task-enhancement-dual-process"
+    ]
+  },
+  {
+    "id": "zhang-etal-2025-prime",
+    "citationKey": "zhang-etal-2025-prime",
+    "title": "PRIME: Large Language Model Personalization with Cognitive Dual-Memory and Personalized Thought Process",
+    "authors": "Zhang, Xinliang Frederick and Beauchamp, Nicholas and Wang, Lu",
+    "year": 2025,
+    "venue": "Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing",
+    "url": "https://aclanthology.org/2025.emnlp-main.1711/",
+    "doi": "10.18653/v1/2025.emnlp-main.1711",
+    "source": {
+      "survey": "2026.eacl-long.350",
+      "figure": "Figure 1"
+    },
+    "connections": [
+      "posttraining-supervised-fine-tuning-memory"
+    ]
+  },
+  {
+    "id": "zhou2024metacognitive",
+    "citationKey": "zhou2024metacognitive",
+    "title": "Metacognitive Retrieval-Augmented Large Language Models",
+    "authors": "Yujia Zhou and Zheng Liu and Jiajie Jin and Jian-Yun Nie and Zhicheng Dou",
+    "year": 2024,
+    "venue": "The Web Conference 2024",
+    "url": "https://openreview.net/forum?id=TW2gJyR6Mj",
+    "doi": null,
+    "source": {
+      "survey": "2026.eacl-long.350",
+      "figure": "Figure 1"
+    },
+    "connections": [
+      "evaluation-task-enhancement-self-reflection"
+    ]
+  },
+  {
+    "id": "zhu-etal-2024-beyond",
+    "citationKey": "zhu-etal-2024-beyond",
+    "title": "Beyond Memorization: The Challenge of Random Memory Access in Language Models",
+    "authors": "Zhu, Tongyao and Liu, Qian and Pang, Liang and Jiang, Zhengbao and Kan, Min-Yen and Lin, Min",
+    "year": 2024,
+    "venue": "ACL:2024:long",
+    "url": "https://aclanthology.org/2024.acl-long.185/",
+    "doi": "10.18653/v1/2024.acl-long.185",
+    "source": {
+      "survey": "2026.eacl-long.350",
+      "figure": "Figure 1"
+    },
+    "connections": [
+      "evaluation-task-enhancement-memory"
+    ]
+  },
+  {
+    "id": "zhu-etal-2025-conformity",
+    "citationKey": "zhu-etal-2025-conformity",
+    "title": "Conformity in Large Language Models",
+    "authors": "Zhu, Xiaochen and Zhang, Caiqi and Stafford, Tom and Collier, Nigel and Vlachos, Andreas",
+    "year": 2025,
+    "venue": "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    "url": "https://aclanthology.org/2025.acl-long.195/",
+    "doi": null,
+    "source": {
+      "survey": "2026.eacl-long.350",
+      "figure": "Figure 1"
+    },
+    "connections": [
+      "evaluation-capability-assessment-conformity-theories"
+    ]
+  }
+]

@@ -1,0 +1,17 @@
+{
+  "id": "chen-etal-2025-improving",
+  "citationKey": "chen-etal-2025-improving",
+  "title": "Improving Factuality with Explicit Working Memory",
+  "authors": "Chen, Mingda and Li, Yang and Padthe, Karthik and Shao, Rulin and Sun, Alicia Yi and Zettlemoyer, Luke and Ghosh, Gargi and Yih, Wen-tau",
+  "year": 2025,
+  "venue": "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+  "url": "https://aclanthology.org/2025.acl-long.548/",
+  "doi": null,
+  "source": {
+    "survey": "2026.eacl-long.350",
+    "figure": "Figure 1"
+  },
+  "connections": [
+    "evaluation-task-enhancement-memory"
+  ]
+}

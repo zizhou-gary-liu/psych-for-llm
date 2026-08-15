@@ -1,0 +1,17 @@
+{
+  "id": "wang-etal-2024-symbolic",
+  "citationKey": "wang-etal-2024-symbolic",
+  "title": "Symbolic Working Memory Enhances Language Models for Complex Rule Application",
+  "authors": "Wang, Siyuan and Wei, Zhongyu and Choi, Yejin and Ren, Xiang",
+  "year": 2024,
+  "venue": "EMNLP:2024:main",
+  "url": "https://aclanthology.org/2024.emnlp-main.974/",
+  "doi": "10.18653/v1/2024.emnlp-main.974",
+  "source": {
+    "survey": "2026.eacl-long.350",
+    "figure": "Figure 1"
+  },
+  "connections": [
+    "evaluation-task-enhancement-memory"
+  ]
+}

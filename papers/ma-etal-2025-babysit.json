@@ -1,0 +1,17 @@
+{
+  "id": "ma-etal-2025-babysit",
+  "citationKey": "ma-etal-2025-babysit",
+  "title": "Babysit A Language Model From Scratch: Interactive Language Learning by Trials and Demonstrations",
+  "authors": "Ma, Ziqiao and Wang, Zekun and Chai, Joyce",
+  "year": 2025,
+  "venue": "Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers)",
+  "url": "https://aclanthology.org/2025.naacl-long.46/",
+  "doi": "10.18653/v1/2025.naacl-long.46",
+  "source": {
+    "survey": "2026.eacl-long.350",
+    "figure": "Figure 1"
+  },
+  "connections": [
+    "pretraining-observational-learning-cognitive-development"
+  ]
+}

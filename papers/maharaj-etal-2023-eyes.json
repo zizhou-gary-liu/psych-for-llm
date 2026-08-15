@@ -1,0 +1,17 @@
+{
+  "id": "maharaj-etal-2023-eyes",
+  "citationKey": "maharaj-etal-2023-eyes",
+  "title": "Eyes Show the Way: Modelling Gaze Behaviour for Hallucination Detection",
+  "authors": "Maharaj, Kishan and Saxena, Ashita and Kumar, Raja and Mishra, Abhijit and Bhattacharyya, Pushpak",
+  "year": 2023,
+  "venue": "FINDINGS:2023:emnlp",
+  "url": "https://aclanthology.org/2023.findings-emnlp.764/",
+  "doi": "10.18653/v1/2023.findings-emnlp.764",
+  "source": {
+    "survey": "2026.eacl-long.350",
+    "figure": "Figure 1"
+  },
+  "connections": [
+    "evaluation-task-enhancement-perception-and-attention"
+  ]
+}

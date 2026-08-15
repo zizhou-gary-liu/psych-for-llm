@@ -1,0 +1,17 @@
+{
+  "id": "xu-etal-2024-opentom",
+  "citationKey": "xu-etal-2024-opentom",
+  "title": "OpenToM: A Comprehensive Benchmark for Evaluating Theory-of-Mind Reasoning Capabilities of Large Language Models",
+  "authors": "Xu, Hainiu and Zhao, Runcong and Zhu, Lixing and Du, Jinhua and He, Yulan",
+  "year": 2024,
+  "venue": "ACL:2024:long",
+  "url": "https://aclanthology.org/2024.acl-long.466/",
+  "doi": "10.18653/v1/2024.acl-long.466",
+  "source": {
+    "survey": "2026.eacl-long.350",
+    "figure": "Figure 1"
+  },
+  "connections": [
+    "evaluation-capability-assessment-theory-of-mind"
+  ]
+}

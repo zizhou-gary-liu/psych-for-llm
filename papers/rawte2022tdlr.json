@@ -1,0 +1,17 @@
+{
+  "id": "rawte2022tdlr",
+  "citationKey": "rawte2022tdlr",
+  "title": "TDLR: Top Semantic-Down Syntactic Language Representation",
+  "authors": "Vipula Rawte and Megha Chakraborty and Kaushik Roy and Manas Gaur and Keyur Faldu and Prashant Kikani and Hemang Akbari and Amit P. Sheth",
+  "year": 2022,
+  "venue": "NeurIPS '22 Workshop on All Things Attention: Bridging Different Perspectives on Attention",
+  "url": "https://openreview.net/forum?id=XcTBJ0Ak59",
+  "doi": null,
+  "source": {
+    "survey": "2026.eacl-long.350",
+    "figure": "Figure 1"
+  },
+  "connections": [
+    "pretraining-knowledge-acquisition-top-down-perception"
+  ]
+}

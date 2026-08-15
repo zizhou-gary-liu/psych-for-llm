@@ -1,0 +1,18 @@
+{
+  "id": "huang-hadfi-2024-personality",
+  "citationKey": "huang-hadfi-2024-personality",
+  "title": "How Personality Traits Influence Negotiation Outcomes? A Simulation based on Large Language Models",
+  "authors": "Huang, Yin Jou and Hadfi, Rafik",
+  "year": 2024,
+  "venue": "FINDINGS:2024:emnlp",
+  "url": "https://aclanthology.org/2024.findings-emnlp.605/",
+  "doi": "10.18653/v1/2024.findings-emnlp.605",
+  "source": {
+    "survey": "2026.eacl-long.350",
+    "figure": "Figure 1"
+  },
+  "connections": [
+    "evaluation-task-enhancement-big-five-personality-traits",
+    "evaluation-collaborative-multi-agent-persuasion-models"
+  ]
+}

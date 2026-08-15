@@ -1,0 +1,17 @@
+{
+  "id": "hu-etal-2025-stitchllm",
+  "citationKey": "hu-etal-2025-stitchllm",
+  "title": "StitchLLM: Serving LLMs, One Block at a Time",
+  "authors": "Hu, Bodun and Li, Shuozhe and Agarwal, Saurabh and Lee, Myungjin and Jajoo, Akshay and Li, Jiamin and Xu, Le and Kim, Geon-Woo and Kim, Donghyun and Xu, Hong and Zhang, Amy and Akella, Aditya",
+  "year": 2025,
+  "venue": "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+  "url": "https://aclanthology.org/2025.acl-long.1305/",
+  "doi": null,
+  "source": {
+    "survey": "2026.eacl-long.350",
+    "figure": "Figure 1"
+  },
+  "connections": [
+    "evaluation-task-enhancement-dual-process"
+  ]
+}

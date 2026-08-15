@@ -1,0 +1,17 @@
+{
+  "id": "hwang-etal-2025-trick",
+  "citationKey": "hwang-etal-2025-trick",
+  "title": "Can You Trick the Grader? Adversarial Persuasion of LLM Judges",
+  "authors": "Hwang, Yerin and Lee, Dongryeol and Kang, Taegwan and Kim, Yongil and Jung, Kyomin",
+  "year": 2025,
+  "venue": "Findings of the Association for Computational Linguistics: EMNLP 2025",
+  "url": "https://aclanthology.org/2025.findings-emnlp.790/",
+  "doi": "10.18653/v1/2025.findings-emnlp.790",
+  "source": {
+    "survey": "2026.eacl-long.350",
+    "figure": "Figure 1"
+  },
+  "connections": [
+    "evaluation-collaborative-multi-agent-persuasion-models"
+  ]
+}
