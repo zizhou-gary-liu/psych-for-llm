@@ -1,4 +1,5 @@
 import { GroundingChecklist, ResearchMap, TerminologyLab } from "./research-explorer";
+import { TheoryTables } from "./theory-tables";
 
 const paperUrl = "https://aclanthology.org/2026.eacl-long.350/";
 const pdfUrl = "https://aclanthology.org/2026.eacl-long.350.pdf";
@@ -16,9 +17,9 @@ export default function Home() {
         </a>
         <nav aria-label="Primary navigation">
           <a href="#map">Research map</a>
+          <a href="#tables">Theory tables</a>
+          <a href="#findings">Findings</a>
           <a href="#grounding">Grounding lab</a>
-          <a href="#start">Start a study</a>
-          <a href="#paper">The paper</a>
           <a href={githubUrl} target="_blank" rel="noreferrer">GitHub</a>
         </nav>
         <a className="header-paper" href={pdfUrl} target="_blank" rel="noreferrer">
@@ -106,6 +107,37 @@ export default function Home() {
             <h3>Cognitive psychology</h3>
             <span>Reasoning · memory · attention</span>
           </article>
+        </div>
+      </section>
+
+      <section className="tables-section" id="tables">
+        <div className="section-heading tables-heading">
+          <div>
+            <p className="section-label">Tables 1 & 2 · Rebuilt for exploration</p>
+            <h2>See what is established.<br />Find what is missing.</h2>
+          </div>
+          <p>Search the paper’s theory inventory and filter by how much LLM work emerged in the survey. Open gaps are research prompts—not declarations that a theory has never been studied.</p>
+        </div>
+        <TheoryTables />
+      </section>
+
+      <section className="findings-section" id="findings" aria-labelledby="findings-title">
+        <div className="findings-lead">
+          <p className="section-label light">Findings & discussion</p>
+          <h2 id="findings-title">Three conclusions<br />to carry forward.</h2>
+          <p>The value of psychology is not in making models sound human. It is in asking better questions about learning, measurement, interaction, and impact.</p>
+          <a href={`${pdfUrl}#page=13`} target="_blank" rel="noreferrer">Read the full discussion ↗</a>
+        </div>
+        <div className="finding-stack">
+          <article className="finding-card acid"><span>01 · Pattern</span><h3>Integration is stage-specific—not uniform.</h3><p>Developmental ideas cluster around data and pre-training; behavioral ideas around post-training; social, personality, and psycholinguistic ideas around evaluation and use. Cognitive psychology cuts across the lifecycle.</p><strong>Unevenness may reflect functional fit, but it also makes missing combinations visible.</strong></article>
+          <article className="finding-card violet"><span>02 · Evidence</span><h3>Behavior is not mechanism.</h3><p>A model can pass a false-belief task, produce a stable-seeming persona, or use a component called “memory” without instantiating the corresponding human capacity.</p><strong>Claims need construct validity, prompt robustness, alternative explanations, and appropriately bounded language.</strong></article>
+          <article className="finding-card coral"><span>03 · Responsibility</span><h3>Study the person on the other side.</h3><p>Psychological principles can support learning and alignment, but reinforcement, persuasion, and personalization can also enable compulsive or manipulative design.</p><strong>Evaluate user-level outcomes alongside model-level capability—and disclose the influence mechanisms being used.</strong></article>
+        </div>
+        <div className="discussion-grid">
+          <article><span>Terminology</span><h3>Same word ≠ same construct</h3><p>Attention, memory, understanding, and reflection change meaning across psychology and NLP. Define the bridge before interpreting it.</p></article>
+          <article><span>Theory quality</span><h3>Popular ≠ well-supported</h3><p>MBTI and simplified predictive-coding analogies show how NLP can inherit theories that are disputed or used more narrowly in psychology.</p></article>
+          <article><span>Open agenda</span><h3>Look beyond familiar benchmarks</h3><p>Group dynamics, inoculation, partial reinforcement, personality development, and schema theory offer concrete research space.</p></article>
+          <article><span>Disciplinary boundary</span><h3>Psychology is one lens</h3><p>WEIRD sampling and individual-level explanations miss structural forces. Linguistics, HCI, communication, and sociology belong in the collaboration.</p></article>
         </div>
       </section>
 

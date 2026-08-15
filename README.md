@@ -13,6 +13,8 @@ The website helps researchers explore where psychological theory appears across 
 - **227 papers** reviewed in the published survey.
 - **126 unique papers** explicitly linked from the 29 theory nodes in Figure 1 and currently available as structured records in `papers/`.
 - An interactive map covering six psychology areas and four LLM development stages.
+- Web-native, searchable versions of the paper’s first two theory tables.
+- Highlighted findings, open research gaps, and discussion cautions from the paper.
 - A grounding lab and study-design checklist for young researchers.
 
 The 126-paper Figure 1 set is the high-confidence first release. Reconstructing and checking the complete canonical 227-paper list is tracked separately so the two counts are never conflated.

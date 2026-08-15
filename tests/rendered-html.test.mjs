@@ -32,6 +32,9 @@ test("server-renders the interactive EACL research companion", async () => {
   assert.match(html, /Borrow the theory/);
   assert.match(html, /The 60-second takeaway/);
   assert.match(html, /Explore the research landscape/);
+  assert.match(html, /Tables 1 &amp; 2/);
+  assert.match(html, /Three conclusions/);
+  assert.match(html, /Integration is stage-specific/);
   assert.match(html, /The paper’s calls to action/);
   assert.match(html, /For young researchers/);
   assert.match(html, /227/);
